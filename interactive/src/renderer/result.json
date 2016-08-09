@@ -1,0 +1,3174 @@
+{
+    "olympics": {
+        "event": {
+            "identifier": "ATW700",
+            "teamEvent": "No",
+            "gender": "Women",
+            "description": "Women's Heptathlon",
+            "disciplineDescription": {
+                "identifier": "athletics",
+                "value": "Athletics"
+            },
+            "result": {
+                "type": "Cumulative",
+                "timestamp": "2016-07-28T19:36:51.776424Z",
+                "entrant": [{
+                    "order": "1",
+                    "type": "Individual",
+                    "rank": "1",
+                    "value": "7352",
+                    "property": [{
+                        "type": "Medal Awarded",
+                        "value": "Gold"
+                    }, {
+                        "type": "Result Type",
+                        "value": "Points"
+                    }],
+                    "phaseResult": [{
+                        "order": "22",
+                        "identifier": "ATW700A",
+                        "code": "A",
+                        "rank": "22",
+                        "value": "13.05",
+                        "property": [{
+                            "type": "Result Type",
+                            "value": "Time"
+                        }, {
+                            "type": "Wind Speed",
+                            "value": "-0.7"
+                        }]
+                    }, {
+                        "order": "2",
+                        "identifier": "ATW700B",
+                        "code": "B",
+                        "rank": "1",
+                        "value": "1.80",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }
+                    }, {
+                        "order": "21",
+                        "identifier": "ATW700C",
+                        "code": "C",
+                        "rank": "21",
+                        "value": "13.57",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }
+                    }, {
+                        "order": "10",
+                        "identifier": "ATW700D",
+                        "code": "D",
+                        "rank": "10",
+                        "value": "22.49",
+                        "property": [{
+                            "type": "Result Type",
+                            "value": "Time"
+                        }, {
+                            "type": "Wind Speed",
+                            "value": "+0.2"
+                        }]
+                    }, {
+                        "order": "10",
+                        "identifier": "ATW700E",
+                        "code": "E",
+                        "rank": "10",
+                        "value": "6.87",
+                        "property": [{
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }, {
+                            "type": "Wind Speed",
+                            "value": "-1.8"
+                        }]
+                    }, {
+                        "order": "3",
+                        "identifier": "ATW700F",
+                        "code": "F",
+                        "rank": "3",
+                        "value": "64.64",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }
+                    }, {
+                        "order": "1",
+                        "identifier": "ATW700G",
+                        "code": "G",
+                        "rank": "1",
+                        "value": "2:01.80",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Time"
+                        }
+                    }],
+                    "country": {
+                        "identifier": "EST",
+                        "name": "Estonia",
+                        "longName": "Estonia"
+                    },
+                    "participant": {
+                        "order": "1",
+                        "competitor": {
+                            "identifier": "7011724",
+                            "firstName": "Grit",
+                            "lastName": "Sadeiko",
+                            "fullName": "Grit Sadeiko"
+                        }
+                    }
+                }, {
+                    "order": "2",
+                    "type": "Individual",
+                    "rank": "2",
+                    "value": "7011",
+                    "property": [{
+                        "type": "Medal Awarded",
+                        "value": "Silver"
+                    }, {
+                        "type": "Result Type",
+                        "value": "Points"
+                    }],
+                    "phaseResult": [{
+                        "order": "18",
+                        "identifier": "ATW700A",
+                        "code": "A",
+                        "rank": "18",
+                        "value": "12.97",
+                        "property": [{
+                            "type": "Result Type",
+                            "value": "Time"
+                        }, {
+                            "type": "Wind Speed",
+                            "value": "-0.7"
+                        }]
+                    }, {
+                        "order": "9",
+                        "identifier": "ATW700B",
+                        "code": "B",
+                        "rank": "9",
+                        "value": "1.65",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }
+                    }, {
+                        "order": "27",
+                        "identifier": "ATW700C",
+                        "code": "C",
+                        "rank": "27",
+                        "value": "12.84",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }
+                    }, {
+                        "order": "14",
+                        "identifier": "ATW700D",
+                        "code": "D",
+                        "rank": "14",
+                        "value": "22.63",
+                        "property": [{
+                            "type": "Result Type",
+                            "value": "Time"
+                        }, {
+                            "type": "Wind Speed",
+                            "value": "+0.2"
+                        }]
+                    }, {
+                        "order": "14",
+                        "identifier": "ATW700E",
+                        "code": "E",
+                        "rank": "14",
+                        "value": "6.59",
+                        "property": [{
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }, {
+                            "type": "Wind Speed",
+                            "value": "+1.6"
+                        }]
+                    }, {
+                        "order": "1",
+                        "identifier": "ATW700F",
+                        "code": "F",
+                        "rank": "1",
+                        "value": "65.01",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }
+                    }, {
+                        "order": "5",
+                        "identifier": "ATW700G",
+                        "code": "G",
+                        "rank": "5",
+                        "value": "2:03.29",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Time"
+                        }
+                    }],
+                    "country": {
+                        "identifier": "LAT",
+                        "name": "Latvia",
+                        "longName": "Latvia"
+                    },
+                    "participant": {
+                        "order": "1",
+                        "competitor": {
+                            "identifier": "7011875",
+                            "firstName": "Aiga",
+                            "lastName": "Grabuste",
+                            "fullName": "Aiga Grabuste"
+                        }
+                    }
+                }, {
+                    "order": "3",
+                    "type": "Individual",
+                    "rank": "3",
+                    "value": "6909",
+                    "property": [{
+                        "type": "Medal Awarded",
+                        "value": "Bronze"
+                    }, {
+                        "type": "Result Type",
+                        "value": "Points"
+                    }],
+                    "phaseResult": [{
+                        "order": "23",
+                        "identifier": "ATW700A",
+                        "code": "A",
+                        "rank": "23",
+                        "value": "13.11",
+                        "property": [{
+                            "type": "Result Type",
+                            "value": "Time"
+                        }, {
+                            "type": "Wind Speed",
+                            "value": "+1.5"
+                        }]
+                    }, {
+                        "order": "14",
+                        "identifier": "ATW700B",
+                        "code": "B",
+                        "rank": "9",
+                        "value": "1.65",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }
+                    }, {
+                        "order": "3",
+                        "identifier": "ATW700C",
+                        "code": "C",
+                        "rank": "3",
+                        "value": "14.90",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }
+                    }, {
+                        "order": "19",
+                        "identifier": "ATW700D",
+                        "code": "D",
+                        "rank": "19",
+                        "value": "22.93",
+                        "property": [{
+                            "type": "Result Type",
+                            "value": "Time"
+                        }, {
+                            "type": "Wind Speed",
+                            "value": "-0.3"
+                        }]
+                    }, {
+                        "order": "5",
+                        "identifier": "ATW700E",
+                        "code": "E",
+                        "rank": "5",
+                        "value": "6.92",
+                        "property": [{
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }, {
+                            "type": "Wind Speed",
+                            "value": "-1.9"
+                        }]
+                    }, {
+                        "order": "14",
+                        "identifier": "ATW700F",
+                        "code": "F",
+                        "rank": "14",
+                        "value": "50.99",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }
+                    }, {
+                        "order": "9",
+                        "identifier": "ATW700G",
+                        "code": "G",
+                        "rank": "9",
+                        "value": "2:04.83",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Time"
+                        }
+                    }],
+                    "country": {
+                        "identifier": "SUI",
+                        "name": "Switzerland",
+                        "longName": "Switzerland"
+                    },
+                    "participant": {
+                        "order": "1",
+                        "competitor": {
+                            "identifier": "7013720",
+                            "firstName": "Ellen",
+                            "lastName": "Sprunger",
+                            "fullName": "Ellen Sprunger"
+                        }
+                    }
+                }, {
+                    "order": "4",
+                    "type": "Individual",
+                    "rank": "4",
+                    "value": "6783",
+                    "property": {
+                        "type": "Result Type",
+                        "value": "Points"
+                    },
+                    "phaseResult": [{
+                        "order": "4",
+                        "identifier": "ATW700A",
+                        "code": "A",
+                        "rank": "4",
+                        "value": "12.73",
+                        "property": [{
+                            "type": "Result Type",
+                            "value": "Time"
+                        }, {
+                            "type": "Wind Speed",
+                            "value": "+0.1"
+                        }]
+                    }, {
+                        "order": "10",
+                        "identifier": "ATW700B",
+                        "code": "B",
+                        "rank": "9",
+                        "value": "1.65",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }
+                    }, {
+                        "order": "24",
+                        "identifier": "ATW700C",
+                        "code": "C",
+                        "rank": "24",
+                        "value": "13.34",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }
+                    }, {
+                        "order": "22",
+                        "identifier": "ATW700D",
+                        "code": "D",
+                        "rank": "22",
+                        "value": "23.15",
+                        "property": [{
+                            "type": "Result Type",
+                            "value": "Time"
+                        }, {
+                            "type": "Wind Speed",
+                            "value": "+1.9"
+                        }]
+                    }, {
+                        "order": "16",
+                        "identifier": "ATW700E",
+                        "code": "E",
+                        "rank": "16",
+                        "value": "6.47",
+                        "property": [{
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }, {
+                            "type": "Wind Speed",
+                            "value": "-1.5"
+                        }]
+                    }, {
+                        "order": "7",
+                        "identifier": "ATW700F",
+                        "code": "F",
+                        "rank": "4",
+                        "value": "56.01",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }
+                    }, {
+                        "order": "12",
+                        "identifier": "ATW700G",
+                        "code": "G",
+                        "rank": "12",
+                        "value": "2:05.30",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Time"
+                        }
+                    }],
+                    "country": {
+                        "identifier": "GER",
+                        "name": "Germany",
+                        "longName": "Germany"
+                    },
+                    "participant": {
+                        "order": "1",
+                        "competitor": {
+                            "identifier": "7013220",
+                            "firstName": "Julia",
+                            "lastName": "Machtig",
+                            "fullName": "Julia Machtig"
+                        }
+                    }
+                }, {
+                    "order": "5",
+                    "type": "Individual",
+                    "rank": "5",
+                    "value": "6578",
+                    "property": {
+                        "type": "Result Type",
+                        "value": "Points"
+                    },
+                    "phaseResult": [{
+                        "order": "6",
+                        "identifier": "ATW700A",
+                        "code": "A",
+                        "rank": "6",
+                        "value": "12.74",
+                        "property": [{
+                            "type": "Result Type",
+                            "value": "Time"
+                        }, {
+                            "type": "Wind Speed",
+                            "value": "+0.6"
+                        }]
+                    }, {
+                        "order": "29",
+                        "identifier": "ATW700B",
+                        "code": "B",
+                        "rank": "29",
+                        "value": "1.29",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }
+                    }, {
+                        "order": "28",
+                        "identifier": "ATW700C",
+                        "code": "C",
+                        "rank": "28",
+                        "value": "12.63",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }
+                    }, {
+                        "order": "9",
+                        "identifier": "ATW700D",
+                        "code": "D",
+                        "rank": "9",
+                        "value": "22.35",
+                        "property": [{
+                            "type": "Result Type",
+                            "value": "Time"
+                        }, {
+                            "type": "Wind Speed",
+                            "value": "+2.5"
+                        }]
+                    }, {
+                        "order": "3",
+                        "identifier": "ATW700E",
+                        "code": "E",
+                        "rank": "3",
+                        "value": "7.27",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }
+                    }, {
+                        "order": "18",
+                        "identifier": "ATW700F",
+                        "code": "F",
+                        "rank": "18",
+                        "value": "48.60",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }
+                    }, {
+                        "order": "4",
+                        "identifier": "ATW700G",
+                        "code": "G",
+                        "rank": "4",
+                        "value": "2:02.98",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Time"
+                        }
+                    }],
+                    "country": {
+                        "identifier": "RUS",
+                        "name": "Russian Federation",
+                        "longName": "Russian Federation"
+                    },
+                    "participant": {
+                        "order": "1",
+                        "competitor": {
+                            "identifier": "7010180",
+                            "firstName": "Tatyana",
+                            "lastName": "Chernova",
+                            "fullName": "Tatyana Chernova"
+                        }
+                    }
+                }, {
+                    "order": "6",
+                    "type": "Individual",
+                    "rank": "6",
+                    "value": "6565",
+                    "property": {
+                        "type": "Result Type",
+                        "value": "Points"
+                    },
+                    "phaseResult": [{
+                        "order": "9",
+                        "identifier": "ATW700A",
+                        "code": "A",
+                        "rank": "9",
+                        "value": "12.83",
+                        "property": [{
+                            "type": "Result Type",
+                            "value": "Time"
+                        }, {
+                            "type": "Wind Speed",
+                            "value": "+0.6"
+                        }]
+                    }, {
+                        "order": "25",
+                        "identifier": "ATW700B",
+                        "code": "B",
+                        "rank": "21",
+                        "value": "1.59",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }
+                    }, {
+                        "order": "13",
+                        "identifier": "ATW700C",
+                        "code": "C",
+                        "rank": "13",
+                        "value": "14.29",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }
+                    }, {
+                        "order": "7",
+                        "identifier": "ATW700D",
+                        "code": "D",
+                        "rank": "7",
+                        "value": "22.22",
+                        "property": [{
+                            "type": "Result Type",
+                            "value": "Time"
+                        }, {
+                            "type": "Wind Speed",
+                            "value": "+0.2"
+                        }]
+                    }, {
+                        "order": "17",
+                        "identifier": "ATW700E",
+                        "code": "E",
+                        "rank": "17",
+                        "value": "6.44",
+                        "property": [{
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }, {
+                            "type": "Wind Speed",
+                            "value": "+1.4"
+                        }]
+                    }, {
+                        "order": "23",
+                        "identifier": "ATW700F",
+                        "code": "F",
+                        "rank": "23",
+                        "value": "44.31",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }
+                    }, {
+                        "order": "25",
+                        "identifier": "ATW700G",
+                        "code": "G",
+                        "rank": "25",
+                        "value": "2:08.83",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Time"
+                        }
+                    }],
+                    "country": {
+                        "identifier": "BLR",
+                        "name": "Belarus",
+                        "longName": "Belarus"
+                    },
+                    "participant": {
+                        "order": "1",
+                        "competitor": {
+                            "identifier": "7010559",
+                            "firstName": "Yana",
+                            "lastName": "Maksimava",
+                            "fullName": "Yana Maksimava"
+                        }
+                    }
+                }, {
+                    "order": "7",
+                    "type": "Individual",
+                    "rank": "7",
+                    "value": "6543",
+                    "property": {
+                        "type": "Result Type",
+                        "value": "Points"
+                    },
+                    "phaseResult": [{
+                        "order": "12",
+                        "identifier": "ATW700A",
+                        "code": "A",
+                        "rank": "11",
+                        "value": "12.85",
+                        "property": [{
+                            "type": "Result Type",
+                            "value": "Time"
+                        }, {
+                            "type": "Wind Speed",
+                            "value": "+0.1"
+                        }]
+                    }, {
+                        "order": "17",
+                        "identifier": "ATW700B",
+                        "code": "B",
+                        "rank": "15",
+                        "value": "1.62",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }
+                    }, {
+                        "order": "9",
+                        "identifier": "ATW700C",
+                        "code": "C",
+                        "rank": "9",
+                        "value": "14.50",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }
+                    }, {
+                        "order": "16",
+                        "identifier": "ATW700D",
+                        "code": "D",
+                        "rank": "16",
+                        "value": "22.74",
+                        "property": [{
+                            "type": "Result Type",
+                            "value": "Time"
+                        }, {
+                            "type": "Wind Speed",
+                            "value": "+1.9"
+                        }]
+                    }, {
+                        "order": "23",
+                        "identifier": "ATW700E",
+                        "code": "E",
+                        "rank": "23",
+                        "value": "5.63",
+                        "property": [{
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }, {
+                            "type": "Wind Speed",
+                            "value": "-0.7"
+                        }]
+                    }, {
+                        "order": "11",
+                        "identifier": "ATW700F",
+                        "code": "F",
+                        "rank": "11",
+                        "value": "53.83",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }
+                    }, {
+                        "order": "13",
+                        "identifier": "ATW700G",
+                        "code": "G",
+                        "rank": "13",
+                        "value": "2:05.40",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Time"
+                        }
+                    }],
+                    "country": {
+                        "identifier": "GER",
+                        "name": "Germany",
+                        "longName": "Germany"
+                    },
+                    "participant": {
+                        "order": "1",
+                        "competitor": {
+                            "identifier": "7013233",
+                            "firstName": "Jennifer",
+                            "lastName": "Oeser",
+                            "fullName": "Jennifer Oeser"
+                        }
+                    }
+                }, {
+                    "order": "8",
+                    "type": "Individual",
+                    "rank": "8",
+                    "value": "6524",
+                    "property": {
+                        "type": "Result Type",
+                        "value": "Points"
+                    },
+                    "phaseResult": [{
+                        "order": "21",
+                        "identifier": "ATW700A",
+                        "code": "A",
+                        "rank": "21",
+                        "value": "13.04",
+                        "property": [{
+                            "type": "Result Type",
+                            "value": "Time"
+                        }, {
+                            "type": "Wind Speed",
+                            "value": "+0.6"
+                        }]
+                    }, {
+                        "order": "20",
+                        "identifier": "ATW700B",
+                        "code": "B",
+                        "rank": "15",
+                        "value": "1.62",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }
+                    }, {
+                        "order": "6",
+                        "identifier": "ATW700C",
+                        "code": "C",
+                        "rank": "6",
+                        "value": "14.62",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }
+                    }, {
+                        "order": "25",
+                        "identifier": "ATW700D",
+                        "code": "D",
+                        "rank": "25",
+                        "value": "25.63",
+                        "property": [{
+                            "type": "Result Type",
+                            "value": "Time"
+                        }, {
+                            "type": "Wind Speed",
+                            "value": "+2.5"
+                        }]
+                    }, {
+                        "order": "13",
+                        "identifier": "ATW700E",
+                        "code": "E",
+                        "rank": "13",
+                        "value": "6.61",
+                        "property": [{
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }, {
+                            "type": "Wind Speed",
+                            "value": "+0.4"
+                        }]
+                    }, {
+                        "order": "12",
+                        "identifier": "ATW700F",
+                        "code": "F",
+                        "rank": "12",
+                        "value": "52.16",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }
+                    }, {
+                        "order": "11",
+                        "identifier": "ATW700G",
+                        "code": "G",
+                        "rank": "11",
+                        "value": "2:05.16",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Time"
+                        }
+                    }],
+                    "country": {
+                        "identifier": "CAN",
+                        "name": "Canada",
+                        "longName": "Canada"
+                    },
+                    "participant": {
+                        "order": "1",
+                        "competitor": {
+                            "identifier": "7011463",
+                            "firstName": "Jessica",
+                            "lastName": "Zelinka",
+                            "fullName": "Jessica Zelinka"
+                        }
+                    }
+                }, {
+                    "order": "9",
+                    "type": "Individual",
+                    "rank": "9",
+                    "value": "6491",
+                    "property": {
+                        "type": "Result Type",
+                        "value": "Points"
+                    },
+                    "phaseResult": [{
+                        "order": "14",
+                        "identifier": "ATW700A",
+                        "code": "A",
+                        "rank": "14",
+                        "value": "12.89",
+                        "property": [{
+                            "type": "Result Type",
+                            "value": "Time"
+                        }, {
+                            "type": "Wind Speed",
+                            "value": "+1.5"
+                        }]
+                    }, {
+                        "order": "21",
+                        "identifier": "ATW700B",
+                        "code": "B",
+                        "rank": "21",
+                        "value": "1.59",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }
+                    }, {
+                        "order": "30",
+                        "identifier": "ATW700C",
+                        "code": "C",
+                        "rank": "30",
+                        "value": "12.24",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }
+                    }, {
+                        "order": "17",
+                        "identifier": "ATW700D",
+                        "code": "D",
+                        "rank": "17",
+                        "value": "22.84",
+                        "property": [{
+                            "type": "Result Type",
+                            "value": "Time"
+                        }, {
+                            "type": "Wind Speed",
+                            "value": "-0.3"
+                        }]
+                    }, {
+                        "order": "20",
+                        "identifier": "ATW700E",
+                        "code": "E",
+                        "rank": "20",
+                        "value": "6.08",
+                        "property": [{
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }, {
+                            "type": "Wind Speed",
+                            "value": "-1.1"
+                        }]
+                    }, {
+                        "order": "5",
+                        "identifier": "ATW700F",
+                        "code": "F",
+                        "rank": "4",
+                        "value": "56.01",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }
+                    }, {
+                        "order": "21",
+                        "identifier": "ATW700G",
+                        "code": "G",
+                        "rank": "21",
+                        "value": "2:07.41",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Time"
+                        }
+                    }],
+                    "country": {
+                        "identifier": "AUT",
+                        "name": "Austria",
+                        "longName": "Austria"
+                    },
+                    "participant": {
+                        "order": "1",
+                        "competitor": {
+                            "identifier": "7014620",
+                            "firstName": "Ivona",
+                            "lastName": "Dadic",
+                            "fullName": "Ivona Dadic"
+                        }
+                    }
+                }, {
+                    "order": "10",
+                    "type": "Individual",
+                    "rank": "10",
+                    "value": "6276",
+                    "property": {
+                        "type": "Result Type",
+                        "value": "Points"
+                    },
+                    "phaseResult": [{
+                        "order": "24",
+                        "identifier": "ATW700A",
+                        "code": "A",
+                        "rank": "24",
+                        "value": "13.13",
+                        "property": [{
+                            "type": "Result Type",
+                            "value": "Time"
+                        }, {
+                            "type": "Wind Speed",
+                            "value": "-0.7"
+                        }]
+                    }, {
+                        "order": "31",
+                        "identifier": "ATW700B",
+                        "code": "B",
+                        "property": {
+                            "type": "Invalid Result Mark",
+                            "value": "No Mark"
+                        }
+                    }, {
+                        "order": "29",
+                        "identifier": "ATW700C",
+                        "code": "C",
+                        "rank": "29",
+                        "value": "12.39",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }
+                    }, {
+                        "order": "5",
+                        "identifier": "ATW700D",
+                        "code": "D",
+                        "rank": "5",
+                        "value": "22.21",
+                        "property": [{
+                            "type": "Result Type",
+                            "value": "Time"
+                        }, {
+                            "type": "Wind Speed",
+                            "value": "+0.2"
+                        }]
+                    }, {
+                        "order": "7",
+                        "identifier": "ATW700E",
+                        "code": "E",
+                        "rank": "7",
+                        "value": "6.89",
+                        "property": [{
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }, {
+                            "type": "Wind Speed",
+                            "value": "+1.9"
+                        }]
+                    }, {
+                        "order": "2",
+                        "identifier": "ATW700F",
+                        "code": "F",
+                        "rank": "2",
+                        "value": "65.00",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }
+                    }, {
+                        "order": "10",
+                        "identifier": "ATW700G",
+                        "code": "G",
+                        "rank": "10",
+                        "value": "2:05.09",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Time"
+                        }
+                    }],
+                    "country": {
+                        "identifier": "HUN",
+                        "name": "Hungary",
+                        "longName": "Hungary"
+                    },
+                    "participant": {
+                        "order": "1",
+                        "competitor": {
+                            "identifier": "7010962",
+                            "firstName": "Gyorgyi",
+                            "lastName": "Farkas",
+                            "fullName": "Gyorgyi Farkas"
+                        }
+                    }
+                }, {
+                    "order": "11",
+                    "type": "Individual",
+                    "rank": "11",
+                    "value": "6189",
+                    "property": {
+                        "type": "Result Type",
+                        "value": "Points"
+                    },
+                    "phaseResult": [{
+                        "order": "7",
+                        "identifier": "ATW700A",
+                        "code": "A",
+                        "rank": "7",
+                        "value": "12.75",
+                        "property": [{
+                            "type": "Result Type",
+                            "value": "Time"
+                        }, {
+                            "type": "Wind Speed",
+                            "value": "-0.7"
+                        }]
+                    }, {
+                        "order": "4",
+                        "identifier": "ATW700B",
+                        "code": "B",
+                        "rank": "1",
+                        "value": "1.80",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }
+                    }, {
+                        "order": "17",
+                        "identifier": "ATW700C",
+                        "code": "C",
+                        "rank": "17",
+                        "value": "14.11",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }
+                    }, {
+                        "order": "13",
+                        "identifier": "ATW700D",
+                        "code": "D",
+                        "rank": "13",
+                        "value": "22.61",
+                        "property": [{
+                            "type": "Result Type",
+                            "value": "Time"
+                        }, {
+                            "type": "Wind Speed",
+                            "value": "+0.2"
+                        }]
+                    }, {
+                        "order": "9",
+                        "identifier": "ATW700E",
+                        "code": "E",
+                        "rank": "8",
+                        "value": "6.88",
+                        "property": [{
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }, {
+                            "type": "Wind Speed",
+                            "value": "-1.8"
+                        }]
+                    }, {
+                        "order": "27",
+                        "identifier": "ATW700F",
+                        "code": "F",
+                        "property": {
+                            "type": "Invalid Result Mark",
+                            "value": "No Mark"
+                        }
+                    }, {
+                        "order": "23",
+                        "identifier": "ATW700G",
+                        "code": "G",
+                        "rank": "23",
+                        "value": "2:07.77",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Time"
+                        }
+                    }],
+                    "country": {
+                        "identifier": "POL",
+                        "name": "Poland",
+                        "longName": "Poland"
+                    },
+                    "participant": {
+                        "order": "1",
+                        "competitor": {
+                            "identifier": "7011148",
+                            "firstName": "Karolina",
+                            "lastName": "Tyminska",
+                            "fullName": "Karolina Tyminska"
+                        }
+                    }
+                }, {
+                    "order": "12",
+                    "type": "Individual",
+                    "rank": "12",
+                    "value": "6030",
+                    "property": {
+                        "type": "Result Type",
+                        "value": "Points"
+                    },
+                    "phaseResult": [{
+                        "order": "10",
+                        "identifier": "ATW700A",
+                        "code": "A",
+                        "rank": "9",
+                        "value": "12.83",
+                        "property": [{
+                            "type": "Result Type",
+                            "value": "Time"
+                        }, {
+                            "type": "Wind Speed",
+                            "value": "-0.7"
+                        }]
+                    }, {
+                        "order": "3",
+                        "identifier": "ATW700B",
+                        "code": "B",
+                        "rank": "1",
+                        "value": "1.80",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }
+                    }, {
+                        "order": "25",
+                        "identifier": "ATW700C",
+                        "code": "C",
+                        "rank": "25",
+                        "value": "13.23",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }
+                    }, {
+                        "order": "6",
+                        "identifier": "ATW700D",
+                        "code": "D",
+                        "rank": "5",
+                        "value": "22.21",
+                        "property": [{
+                            "type": "Result Type",
+                            "value": "Time"
+                        }, {
+                            "type": "Wind Speed",
+                            "value": "+0.2"
+                        }]
+                    }, {
+                        "order": "29",
+                        "identifier": "ATW700E",
+                        "code": "E",
+                        "property": {
+                            "type": "Invalid Result Mark",
+                            "value": "No Mark"
+                        }
+                    }, {
+                        "order": "9",
+                        "identifier": "ATW700F",
+                        "code": "F",
+                        "rank": "9",
+                        "value": "55.85",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }
+                    }, {
+                        "order": "15",
+                        "identifier": "ATW700G",
+                        "code": "G",
+                        "rank": "15",
+                        "value": "2:05.86",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Time"
+                        }
+                    }],
+                    "country": {
+                        "identifier": "SWE",
+                        "name": "Sweden",
+                        "longName": "Sweden"
+                    },
+                    "participant": {
+                        "order": "1",
+                        "competitor": {
+                            "identifier": "7011135",
+                            "firstName": "Jessica",
+                            "lastName": "Samuel",
+                            "fullName": "Jessica Samuel"
+                        }
+                    }
+                }, {
+                    "order": "13",
+                    "type": "Individual",
+                    "rank": "13",
+                    "value": "6012",
+                    "property": {
+                        "type": "Result Type",
+                        "value": "Points"
+                    },
+                    "phaseResult": [{
+                        "order": "28",
+                        "identifier": "ATW700A",
+                        "code": "A",
+                        "rank": "28",
+                        "value": "13.29",
+                        "property": [{
+                            "type": "Result Type",
+                            "value": "Time"
+                        }, {
+                            "type": "Wind Speed",
+                            "value": "+1.5"
+                        }]
+                    }, {
+                        "order": "18",
+                        "identifier": "ATW700B",
+                        "code": "B",
+                        "rank": "15",
+                        "value": "1.62",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }
+                    }, {
+                        "order": "18",
+                        "identifier": "ATW700C",
+                        "code": "C",
+                        "rank": "18",
+                        "value": "13.98",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }
+                    }, {
+                        "order": "15",
+                        "identifier": "ATW700D",
+                        "code": "D",
+                        "rank": "15",
+                        "value": "22.64",
+                        "property": [{
+                            "type": "Result Type",
+                            "value": "Time"
+                        }, {
+                            "type": "Wind Speed",
+                            "value": "-0.3"
+                        }]
+                    }, {
+                        "order": "2",
+                        "identifier": "ATW700E",
+                        "code": "E",
+                        "rank": "1",
+                        "value": "7.28",
+                        "property": [{
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }, {
+                            "type": "Wind Speed",
+                            "value": "-2.3"
+                        }]
+                    }, {
+                        "order": "28",
+                        "identifier": "ATW700F",
+                        "code": "F",
+                        "property": {
+                            "type": "Invalid Result Mark",
+                            "value": "Disqualified"
+                        }
+                    }, {
+                        "order": "24",
+                        "identifier": "ATW700G",
+                        "code": "G",
+                        "rank": "24",
+                        "value": "2:07.84",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Time"
+                        }
+                    }],
+                    "country": {
+                        "identifier": "NGR",
+                        "name": "Nigeria",
+                        "longName": "Nigeria"
+                    },
+                    "participant": {
+                        "order": "1",
+                        "competitor": {
+                            "identifier": "7014453",
+                            "firstName": "Uhunoma",
+                            "lastName": "Osazuwa",
+                            "fullName": "Uhunoma Osazuwa"
+                        }
+                    }
+                }, {
+                    "order": "14",
+                    "type": "Individual",
+                    "rank": "14",
+                    "value": "5929",
+                    "property": {
+                        "type": "Result Type",
+                        "value": "Points"
+                    },
+                    "phaseResult": [{
+                        "order": "1",
+                        "identifier": "ATW700A",
+                        "code": "A",
+                        "rank": "1",
+                        "value": "12.55",
+                        "property": [{
+                            "type": "Result Type",
+                            "value": "Time"
+                        }, {
+                            "type": "Wind Speed",
+                            "value": "+0.1"
+                        }]
+                    }, {
+                        "order": "27",
+                        "identifier": "ATW700B",
+                        "code": "B",
+                        "rank": "21",
+                        "value": "1.59",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }
+                    }, {
+                        "order": "2",
+                        "identifier": "ATW700C",
+                        "code": "C",
+                        "rank": "2",
+                        "value": "14.93",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }
+                    }, {
+                        "order": "1",
+                        "identifier": "ATW700D",
+                        "code": "D",
+                        "rank": "1",
+                        "value": "22.00",
+                        "property": [{
+                            "type": "Result Type",
+                            "value": "Time"
+                        }, {
+                            "type": "Wind Speed",
+                            "value": "+2.5"
+                        }]
+                    }, {
+                        "order": "30",
+                        "identifier": "ATW700E",
+                        "code": "E",
+                        "property": {
+                            "type": "Invalid Result Mark",
+                            "value": "No Mark"
+                        }
+                    }, {
+                        "order": "8",
+                        "identifier": "ATW700F",
+                        "code": "F",
+                        "rank": "4",
+                        "value": "56.01",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }
+                    }, {
+                        "order": "22",
+                        "identifier": "ATW700G",
+                        "code": "G",
+                        "rank": "22",
+                        "value": "2:07.71",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Time"
+                        }
+                    }],
+                    "country": {
+                        "identifier": "NED",
+                        "name": "Netherlands",
+                        "longName": "Netherlands"
+                    },
+                    "participant": {
+                        "order": "1",
+                        "competitor": {
+                            "identifier": "7013076",
+                            "firstName": "Dafne",
+                            "lastName": "Schippers",
+                            "fullName": "Dafne Schippers"
+                        }
+                    }
+                }, {
+                    "order": "15",
+                    "type": "Individual",
+                    "rank": "15",
+                    "value": "5907",
+                    "property": {
+                        "type": "Result Type",
+                        "value": "Points"
+                    },
+                    "phaseResult": [{
+                        "order": "17",
+                        "identifier": "ATW700A",
+                        "code": "A",
+                        "rank": "17",
+                        "value": "12.95",
+                        "property": [{
+                            "type": "Result Type",
+                            "value": "Time"
+                        }, {
+                            "type": "Wind Speed",
+                            "value": "+0.1"
+                        }]
+                    }, {
+                        "order": "30",
+                        "identifier": "ATW700B",
+                        "code": "B",
+                        "property": {
+                            "type": "Invalid Result Mark",
+                            "value": "No Mark"
+                        }
+                    }, {
+                        "order": "12",
+                        "identifier": "ATW700C",
+                        "code": "C",
+                        "rank": "12",
+                        "value": "14.34",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }
+                    }, {
+                        "order": "8",
+                        "identifier": "ATW700D",
+                        "code": "D",
+                        "rank": "8",
+                        "value": "22.32",
+                        "property": [{
+                            "type": "Result Type",
+                            "value": "Time"
+                        }, {
+                            "type": "Wind Speed",
+                            "value": "+1.9"
+                        }]
+                    }, {
+                        "order": "22",
+                        "identifier": "ATW700E",
+                        "code": "E",
+                        "rank": "22",
+                        "value": "5.78",
+                        "property": [{
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }, {
+                            "type": "Wind Speed",
+                            "value": "-0.8"
+                        }]
+                    }, {
+                        "order": "4",
+                        "identifier": "ATW700F",
+                        "code": "F",
+                        "rank": "4",
+                        "value": "56.01",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }
+                    }, {
+                        "order": "7",
+                        "identifier": "ATW700G",
+                        "code": "G",
+                        "rank": "7",
+                        "value": "2:04.25",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Time"
+                        }
+                    }],
+                    "country": {
+                        "identifier": "NED",
+                        "name": "Netherlands",
+                        "longName": "Netherlands"
+                    },
+                    "participant": {
+                        "order": "1",
+                        "competitor": {
+                            "identifier": "7013061",
+                            "firstName": "Nadine",
+                            "lastName": "Broersen",
+                            "fullName": "Nadine Broersen"
+                        }
+                    }
+                }, {
+                    "order": "16",
+                    "type": "Individual",
+                    "rank": "16",
+                    "value": "5892",
+                    "property": {
+                        "type": "Result Type",
+                        "value": "Points"
+                    },
+                    "phaseResult": [{
+                        "order": "20",
+                        "identifier": "ATW700A",
+                        "code": "A",
+                        "rank": "20",
+                        "value": "13.01",
+                        "property": [{
+                            "type": "Result Type",
+                            "value": "Time"
+                        }, {
+                            "type": "Wind Speed",
+                            "value": "+0.6"
+                        }]
+                    }, {
+                        "order": "24",
+                        "identifier": "ATW700B",
+                        "code": "B",
+                        "rank": "21",
+                        "value": "1.59",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }
+                    }, {
+                        "order": "7",
+                        "identifier": "ATW700C",
+                        "code": "C",
+                        "rank": "7",
+                        "value": "14.60",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }
+                    }, {
+                        "order": "2",
+                        "identifier": "ATW700D",
+                        "code": "D",
+                        "rank": "2",
+                        "value": "22.01",
+                        "property": [{
+                            "type": "Result Type",
+                            "value": "Time"
+                        }, {
+                            "type": "Wind Speed",
+                            "value": "+2.5"
+                        }]
+                    }, {
+                        "order": "28",
+                        "identifier": "ATW700E",
+                        "code": "E",
+                        "property": {
+                            "type": "Invalid Result Mark",
+                            "value": "No Mark"
+                        }
+                    }, {
+                        "order": "6",
+                        "identifier": "ATW700F",
+                        "code": "F",
+                        "rank": "4",
+                        "value": "56.01",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }
+                    }, {
+                        "order": "6",
+                        "identifier": "ATW700G",
+                        "code": "G",
+                        "rank": "6",
+                        "value": "2:04.01",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Time"
+                        }
+                    }],
+                    "country": {
+                        "identifier": "RUS",
+                        "name": "Russian Federation",
+                        "longName": "Russian Federation"
+                    },
+                    "participant": {
+                        "order": "1",
+                        "competitor": {
+                            "identifier": "7010091",
+                            "firstName": "Olga",
+                            "lastName": "Kurban",
+                            "fullName": "Olga Kurban"
+                        }
+                    }
+                }, {
+                    "order": "17",
+                    "type": "Individual",
+                    "rank": "17",
+                    "value": "5892",
+                    "property": {
+                        "type": "Result Type",
+                        "value": "Points"
+                    },
+                    "phaseResult": [{
+                        "order": "5",
+                        "identifier": "ATW700A",
+                        "code": "A",
+                        "rank": "4",
+                        "value": "12.73",
+                        "property": [{
+                            "type": "Result Type",
+                            "value": "Time"
+                        }, {
+                            "type": "Wind Speed",
+                            "value": "+0.1"
+                        }]
+                    }, {
+                        "order": "32",
+                        "identifier": "ATW700B",
+                        "code": "B",
+                        "property": {
+                            "type": "Invalid Result Mark",
+                            "value": "No Mark"
+                        }
+                    }, {
+                        "order": "26",
+                        "identifier": "ATW700C",
+                        "code": "C",
+                        "rank": "26",
+                        "value": "13.07",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }
+                    }, {
+                        "order": "20",
+                        "identifier": "ATW700D",
+                        "code": "D",
+                        "rank": "20",
+                        "value": "22.95",
+                        "property": [{
+                            "type": "Result Type",
+                            "value": "Time"
+                        }, {
+                            "type": "Wind Speed",
+                            "value": "+1.9"
+                        }]
+                    }, {
+                        "order": "15",
+                        "identifier": "ATW700E",
+                        "code": "E",
+                        "rank": "15",
+                        "value": "6.53",
+                        "property": [{
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }, {
+                            "type": "Wind Speed",
+                            "value": "-1.5"
+                        }]
+                    }, {
+                        "order": "21",
+                        "identifier": "ATW700F",
+                        "code": "F",
+                        "rank": "21",
+                        "value": "47.35",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }
+                    }, {
+                        "order": "2",
+                        "identifier": "ATW700G",
+                        "code": "G",
+                        "rank": "2",
+                        "value": "2:02.00",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Time"
+                        }
+                    }],
+                    "country": {
+                        "identifier": "GER",
+                        "name": "Germany",
+                        "longName": "Germany"
+                    },
+                    "participant": {
+                        "order": "1",
+                        "competitor": {
+                            "identifier": "7013253",
+                            "firstName": "Lilli",
+                            "lastName": "Schwarzkopf",
+                            "fullName": "Lilli Schwarzkopf"
+                        }
+                    }
+                }, {
+                    "order": "18",
+                    "type": "Individual",
+                    "rank": "18",
+                    "value": "5876",
+                    "property": {
+                        "type": "Result Type",
+                        "value": "Points"
+                    },
+                    "phaseResult": [{
+                        "order": "19",
+                        "identifier": "ATW700A",
+                        "code": "A",
+                        "rank": "19",
+                        "value": "12.99",
+                        "property": [{
+                            "type": "Result Type",
+                            "value": "Time"
+                        }, {
+                            "type": "Wind Speed",
+                            "value": "+1.5"
+                        }]
+                    }, {
+                        "order": "26",
+                        "identifier": "ATW700B",
+                        "code": "B",
+                        "rank": "21",
+                        "value": "1.59",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }
+                    }, {
+                        "order": "15",
+                        "identifier": "ATW700C",
+                        "code": "C",
+                        "rank": "15",
+                        "value": "14.18",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }
+                    }, {
+                        "order": "30",
+                        "identifier": "ATW700D",
+                        "code": "D",
+                        "property": {
+                            "type": "Invalid Result Mark",
+                            "value": "Disqualified"
+                        }
+                    }, {
+                        "order": "1",
+                        "identifier": "ATW700E",
+                        "code": "E",
+                        "rank": "1",
+                        "value": "7.28",
+                        "property": [{
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }, {
+                            "type": "Wind Speed",
+                            "value": "-1.2"
+                        }]
+                    }, {
+                        "order": "10",
+                        "identifier": "ATW700F",
+                        "code": "F",
+                        "rank": "10",
+                        "value": "53.95",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }
+                    }, {
+                        "order": "18",
+                        "identifier": "ATW700G",
+                        "code": "G",
+                        "rank": "17",
+                        "value": "2:06.59",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Time"
+                        }
+                    }],
+                    "country": {
+                        "identifier": "USA",
+                        "name": "United States",
+                        "longName": "United States of America"
+                    },
+                    "participant": {
+                        "order": "1",
+                        "competitor": {
+                            "identifier": "7014426",
+                            "firstName": "Chantae",
+                            "lastName": "McMillan",
+                            "fullName": "Chantae McMillan"
+                        }
+                    }
+                }, {
+                    "order": "19",
+                    "type": "Individual",
+                    "rank": "19",
+                    "value": "5826",
+                    "property": {
+                        "type": "Result Type",
+                        "value": "Points"
+                    },
+                    "phaseResult": [{
+                        "order": "25",
+                        "identifier": "ATW700A",
+                        "code": "A",
+                        "rank": "25",
+                        "value": "13.14",
+                        "property": [{
+                            "type": "Result Type",
+                            "value": "Time"
+                        }, {
+                            "type": "Wind Speed",
+                            "value": "+0.6"
+                        }]
+                    }, {
+                        "order": "19",
+                        "identifier": "ATW700B",
+                        "code": "B",
+                        "rank": "15",
+                        "value": "1.62",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }
+                    }, {
+                        "order": "4",
+                        "identifier": "ATW700C",
+                        "code": "C",
+                        "rank": "3",
+                        "value": "14.90",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }
+                    }, {
+                        "order": "4",
+                        "identifier": "ATW700D",
+                        "code": "D",
+                        "rank": "3",
+                        "value": "22.03",
+                        "property": [{
+                            "type": "Result Type",
+                            "value": "Time"
+                        }, {
+                            "type": "Wind Speed",
+                            "value": "+2.5"
+                        }]
+                    }, {
+                        "order": "31",
+                        "identifier": "ATW700E",
+                        "code": "E",
+                        "property": {
+                            "type": "Invalid Result Mark",
+                            "value": "No Mark"
+                        }
+                    }, {
+                        "order": "13",
+                        "identifier": "ATW700F",
+                        "code": "F",
+                        "rank": "13",
+                        "value": "51.40",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }
+                    }, {
+                        "order": "8",
+                        "identifier": "ATW700G",
+                        "code": "G",
+                        "rank": "8",
+                        "value": "2:04.61",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Time"
+                        }
+                    }],
+                    "country": {
+                        "identifier": "UKR",
+                        "name": "Ukraine",
+                        "longName": "Ukraine"
+                    },
+                    "participant": {
+                        "order": "1",
+                        "competitor": {
+                            "identifier": "7012273",
+                            "firstName": "Lyudmyla",
+                            "lastName": "Yosypenko",
+                            "fullName": "Lyudmyla Yosypenko"
+                        }
+                    }
+                }, {
+                    "order": "20",
+                    "type": "Individual",
+                    "rank": "20",
+                    "value": "5661",
+                    "property": {
+                        "type": "Result Type",
+                        "value": "Points"
+                    },
+                    "phaseResult": [{
+                        "order": "3",
+                        "identifier": "ATW700A",
+                        "code": "A",
+                        "rank": "3",
+                        "value": "12.65",
+                        "property": [{
+                            "type": "Result Type",
+                            "value": "Time"
+                        }, {
+                            "type": "Wind Speed",
+                            "value": "+0.1"
+                        }]
+                    }, {
+                        "order": "1",
+                        "identifier": "ATW700B",
+                        "code": "B",
+                        "rank": "1",
+                        "value": "1.80",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }
+                    }, {
+                        "order": "8",
+                        "identifier": "ATW700C",
+                        "code": "C",
+                        "rank": "8",
+                        "value": "14.52",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }
+                    }, {
+                        "order": "28",
+                        "identifier": "ATW700D",
+                        "code": "D",
+                        "property": {
+                            "type": "Invalid Result Mark",
+                            "value": "Did Not Finish"
+                        }
+                    }, {
+                        "order": "21",
+                        "identifier": "ATW700E",
+                        "code": "E",
+                        "rank": "21",
+                        "value": "5.80",
+                        "property": [{
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }, {
+                            "type": "Wind Speed",
+                            "value": "+0.8"
+                        }]
+                    }, {
+                        "order": "15",
+                        "identifier": "ATW700F",
+                        "code": "F",
+                        "rank": "15",
+                        "value": "50.55",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }
+                    }, {
+                        "order": "16",
+                        "identifier": "ATW700G",
+                        "code": "G",
+                        "rank": "16",
+                        "value": "2:06.55",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Time"
+                        }
+                    }],
+                    "country": {
+                        "identifier": "GBR",
+                        "name": "Great Britain",
+                        "longName": "Great Britain"
+                    },
+                    "participant": {
+                        "order": "1",
+                        "competitor": {
+                            "identifier": "7012137",
+                            "firstName": "Louise",
+                            "lastName": "Hazel",
+                            "fullName": "Louise Hazel"
+                        }
+                    }
+                }, {
+                    "order": "21",
+                    "type": "Individual",
+                    "rank": "21",
+                    "value": "5633",
+                    "property": {
+                        "type": "Result Type",
+                        "value": "Points"
+                    },
+                    "phaseResult": [{
+                        "order": "15",
+                        "identifier": "ATW700A",
+                        "code": "A",
+                        "rank": "14",
+                        "value": "12.89",
+                        "property": [{
+                            "type": "Result Type",
+                            "value": "Time"
+                        }, {
+                            "type": "Wind Speed",
+                            "value": "-0.7"
+                        }]
+                    }, {
+                        "order": "16",
+                        "identifier": "ATW700B",
+                        "code": "B",
+                        "rank": "15",
+                        "value": "1.62",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }
+                    }, {
+                        "order": "10",
+                        "identifier": "ATW700C",
+                        "code": "C",
+                        "rank": "10",
+                        "value": "14.44",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }
+                    }, {
+                        "order": "11",
+                        "identifier": "ATW700D",
+                        "code": "D",
+                        "rank": "11",
+                        "value": "22.52",
+                        "property": [{
+                            "type": "Result Type",
+                            "value": "Time"
+                        }, {
+                            "type": "Wind Speed",
+                            "value": "+1.9"
+                        }]
+                    }, {
+                        "order": "24",
+                        "identifier": "ATW700E",
+                        "code": "E",
+                        "rank": "24",
+                        "value": "5.52",
+                        "property": [{
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }, {
+                            "type": "Wind Speed",
+                            "value": "-0.5"
+                        }]
+                    }, {
+                        "order": "25",
+                        "identifier": "ATW700F",
+                        "code": "F",
+                        "property": {
+                            "type": "Invalid Result Mark",
+                            "value": "No Mark"
+                        }
+                    }, {
+                        "order": "3",
+                        "identifier": "ATW700G",
+                        "code": "G",
+                        "rank": "3",
+                        "value": "2:02.50",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Time"
+                        }
+                    }],
+                    "country": {
+                        "identifier": "LAT",
+                        "name": "Latvia",
+                        "longName": "Latvia"
+                    },
+                    "participant": {
+                        "order": "1",
+                        "competitor": {
+                            "identifier": "7011886",
+                            "firstName": "Laura",
+                            "lastName": "Ikauniece",
+                            "fullName": "Laura Ikauniece"
+                        }
+                    }
+                }, {
+                    "order": "22",
+                    "type": "Individual",
+                    "rank": "22",
+                    "value": "5550",
+                    "property": {
+                        "type": "Result Type",
+                        "value": "Points"
+                    },
+                    "phaseResult": [{
+                        "order": "29",
+                        "identifier": "ATW700A",
+                        "code": "A",
+                        "rank": "29",
+                        "value": "13.40",
+                        "property": [{
+                            "type": "Result Type",
+                            "value": "Time"
+                        }, {
+                            "type": "Wind Speed",
+                            "value": "+1.5"
+                        }]
+                    }, {
+                        "order": "5",
+                        "identifier": "ATW700B",
+                        "code": "B",
+                        "rank": "5",
+                        "value": "1.68",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }
+                    }, {
+                        "order": "20",
+                        "identifier": "ATW700C",
+                        "code": "C",
+                        "rank": "20",
+                        "value": "13.73",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }
+                    }, {
+                        "order": "21",
+                        "identifier": "ATW700D",
+                        "code": "D",
+                        "rank": "21",
+                        "value": "23.13",
+                        "property": [{
+                            "type": "Result Type",
+                            "value": "Time"
+                        }, {
+                            "type": "Wind Speed",
+                            "value": "-0.3"
+                        }]
+                    }, {
+                        "order": "12",
+                        "identifier": "ATW700E",
+                        "code": "E",
+                        "rank": "12",
+                        "value": "6.65",
+                        "property": [{
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }, {
+                            "type": "Wind Speed",
+                            "value": "-1.6"
+                        }]
+                    }, {
+                        "order": "22",
+                        "identifier": "ATW700F",
+                        "code": "F",
+                        "rank": "22",
+                        "value": "44.67",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }
+                    }, {
+                        "order": "26",
+                        "identifier": "ATW700G",
+                        "code": "G",
+                        "property": {
+                            "type": "Invalid Result Mark",
+                            "value": "Did Not Finish"
+                        }
+                    }],
+                    "country": {
+                        "identifier": "FRA",
+                        "name": "France",
+                        "longName": "France"
+                    },
+                    "participant": {
+                        "order": "1",
+                        "competitor": {
+                            "identifier": "7013332",
+                            "firstName": "Marisa",
+                            "lastName": "de Aniceto",
+                            "fullName": "Marisa de Aniceto"
+                        }
+                    }
+                }, {
+                    "order": "23",
+                    "type": "Individual",
+                    "rank": "23",
+                    "value": "5530",
+                    "property": {
+                        "type": "Result Type",
+                        "value": "Points"
+                    },
+                    "phaseResult": [{
+                        "order": "26",
+                        "identifier": "ATW700A",
+                        "code": "A",
+                        "rank": "26",
+                        "value": "13.22",
+                        "property": [{
+                            "type": "Result Type",
+                            "value": "Time"
+                        }, {
+                            "type": "Wind Speed",
+                            "value": "+1.5"
+                        }]
+                    }, {
+                        "order": "23",
+                        "identifier": "ATW700B",
+                        "code": "B",
+                        "rank": "21",
+                        "value": "1.59",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }
+                    }, {
+                        "order": "5",
+                        "identifier": "ATW700C",
+                        "code": "C",
+                        "rank": "5",
+                        "value": "14.73",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }
+                    }, {
+                        "order": "24",
+                        "identifier": "ATW700D",
+                        "code": "D",
+                        "rank": "24",
+                        "value": "23.57",
+                        "property": [{
+                            "type": "Result Type",
+                            "value": "Time"
+                        }, {
+                            "type": "Wind Speed",
+                            "value": "-0.3"
+                        }]
+                    }, {
+                        "order": "27",
+                        "identifier": "ATW700E",
+                        "code": "E",
+                        "property": {
+                            "type": "Invalid Result Mark",
+                            "value": "No Mark"
+                        }
+                    }, {
+                        "order": "20",
+                        "identifier": "ATW700F",
+                        "code": "F",
+                        "rank": "20",
+                        "value": "48.05",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }
+                    }, {
+                        "order": "14",
+                        "identifier": "ATW700G",
+                        "code": "G",
+                        "rank": "14",
+                        "value": "2:05.76",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Time"
+                        }
+                    }],
+                    "country": {
+                        "identifier": "USA",
+                        "name": "United States",
+                        "longName": "United States of America"
+                    },
+                    "participant": {
+                        "order": "1",
+                        "competitor": {
+                            "identifier": "7013840",
+                            "firstName": "Hyleas",
+                            "lastName": "Fountain",
+                            "fullName": "Hyleas Fountain"
+                        }
+                    }
+                }, {
+                    "order": "24",
+                    "type": "Individual",
+                    "rank": "24",
+                    "value": "5529",
+                    "property": {
+                        "type": "Result Type",
+                        "value": "Points"
+                    },
+                    "phaseResult": [{
+                        "order": "8",
+                        "identifier": "ATW700A",
+                        "code": "A",
+                        "rank": "8",
+                        "value": "12.77",
+                        "property": [{
+                            "type": "Result Type",
+                            "value": "Time"
+                        }, {
+                            "type": "Wind Speed",
+                            "value": "+1.5"
+                        }]
+                    }, {
+                        "order": "22",
+                        "identifier": "ATW700B",
+                        "code": "B",
+                        "rank": "21",
+                        "value": "1.59",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }
+                    }, {
+                        "order": "1",
+                        "identifier": "ATW700C",
+                        "code": "C",
+                        "rank": "1",
+                        "value": "14.99",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }
+                    }, {
+                        "order": "18",
+                        "identifier": "ATW700D",
+                        "code": "D",
+                        "rank": "17",
+                        "value": "22.84",
+                        "property": [{
+                            "type": "Result Type",
+                            "value": "Time"
+                        }, {
+                            "type": "Wind Speed",
+                            "value": "-0.3"
+                        }]
+                    }, {
+                        "order": "25",
+                        "identifier": "ATW700E",
+                        "code": "E",
+                        "rank": "25",
+                        "value": "5.45",
+                        "property": [{
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }, {
+                            "type": "Wind Speed",
+                            "value": "-0.5"
+                        }]
+                    }, {
+                        "order": "24",
+                        "identifier": "ATW700F",
+                        "code": "F",
+                        "property": {
+                            "type": "Invalid Result Mark",
+                            "value": "No Mark"
+                        }
+                    }, {
+                        "order": "20",
+                        "identifier": "ATW700G",
+                        "code": "G",
+                        "rank": "20",
+                        "value": "2:07.27",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Time"
+                        }
+                    }],
+                    "country": {
+                        "identifier": "USA",
+                        "name": "United States",
+                        "longName": "United States of America"
+                    },
+                    "participant": {
+                        "order": "1",
+                        "competitor": {
+                            "identifier": "7013899",
+                            "firstName": "Sharon",
+                            "lastName": "Day",
+                            "fullName": "Sharon Day"
+                        }
+                    }
+                }, {
+                    "order": "25",
+                    "type": "Individual",
+                    "rank": "25",
+                    "value": "5505",
+                    "property": {
+                        "type": "Result Type",
+                        "value": "Points"
+                    },
+                    "phaseResult": [{
+                        "order": "30",
+                        "identifier": "ATW700A",
+                        "code": "A",
+                        "property": [{
+                            "type": "Invalid Result Mark",
+                            "value": "Did Not Finish"
+                        }, {
+                            "type": "Wind Speed",
+                            "value": "-0.7"
+                        }]
+                    }, {
+                        "order": "11",
+                        "identifier": "ATW700B",
+                        "code": "B",
+                        "rank": "9",
+                        "value": "1.65",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }
+                    }, {
+                        "order": "23",
+                        "identifier": "ATW700C",
+                        "code": "C",
+                        "rank": "23",
+                        "value": "13.40",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }
+                    }, {
+                        "order": "12",
+                        "identifier": "ATW700D",
+                        "code": "D",
+                        "rank": "11",
+                        "value": "22.52",
+                        "property": [{
+                            "type": "Result Type",
+                            "value": "Time"
+                        }, {
+                            "type": "Wind Speed",
+                            "value": "+0.2"
+                        }]
+                    }, {
+                        "order": "18",
+                        "identifier": "ATW700E",
+                        "code": "E",
+                        "rank": "18",
+                        "value": "6.42",
+                        "property": [{
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }, {
+                            "type": "Wind Speed",
+                            "value": "-1.4"
+                        }]
+                    }, {
+                        "order": "19",
+                        "identifier": "ATW700F",
+                        "code": "F",
+                        "rank": "18",
+                        "value": "48.60",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }
+                    }, {
+                        "order": "19",
+                        "identifier": "ATW700G",
+                        "code": "G",
+                        "rank": "19",
+                        "value": "2:06.62",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Time"
+                        }
+                    }],
+                    "country": {
+                        "identifier": "UKR",
+                        "name": "Ukraine",
+                        "longName": "Ukraine"
+                    },
+                    "participant": {
+                        "order": "1",
+                        "competitor": {
+                            "identifier": "7011387",
+                            "firstName": "Hanna",
+                            "lastName": "Melnychenko",
+                            "fullName": "Hanna Melnychenko"
+                        }
+                    }
+                }, {
+                    "order": "26",
+                    "type": "Individual",
+                    "rank": "26",
+                    "value": "4898",
+                    "property": {
+                        "type": "Result Type",
+                        "value": "Points"
+                    },
+                    "phaseResult": [{
+                        "order": "11",
+                        "identifier": "ATW700A",
+                        "code": "A",
+                        "rank": "11",
+                        "value": "12.85",
+                        "property": [{
+                            "type": "Result Type",
+                            "value": "Time"
+                        }, {
+                            "type": "Wind Speed",
+                            "value": "+1.5"
+                        }]
+                    }, {
+                        "order": "6",
+                        "identifier": "ATW700B",
+                        "code": "B",
+                        "rank": "5",
+                        "value": "1.68",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }
+                    }, {
+                        "order": "31",
+                        "identifier": "ATW700C",
+                        "code": "C",
+                        "property": {
+                            "type": "Invalid Result Mark",
+                            "value": "No Mark"
+                        }
+                    }, {
+                        "order": "23",
+                        "identifier": "ATW700D",
+                        "code": "D",
+                        "rank": "23",
+                        "value": "23.35",
+                        "property": [{
+                            "type": "Result Type",
+                            "value": "Time"
+                        }, {
+                            "type": "Wind Speed",
+                            "value": "-0.3"
+                        }]
+                    }, {
+                        "order": "32",
+                        "identifier": "ATW700E",
+                        "code": "E",
+                        "property": {
+                            "type": "Invalid Result Mark",
+                            "value": "Disqualified"
+                        }
+                    }, {
+                        "order": "17",
+                        "identifier": "ATW700F",
+                        "code": "F",
+                        "rank": "17",
+                        "value": "50.10",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }
+                    }, {
+                        "order": "17",
+                        "identifier": "ATW700G",
+                        "code": "G",
+                        "rank": "17",
+                        "value": "2:06.59",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Time"
+                        }
+                    }],
+                    "country": {
+                        "identifier": "GBR",
+                        "name": "Great Britain",
+                        "longName": "Great Britain"
+                    },
+                    "participant": {
+                        "order": "1",
+                        "competitor": {
+                            "identifier": "7013693",
+                            "firstName": "Katarina",
+                            "lastName": "Johnson-Thompson",
+                            "fullName": "Katarina Johnson-Thompson"
+                        }
+                    }
+                }, {
+                    "order": "27",
+                    "type": "Individual",
+                    "property": {
+                        "type": "Invalid Result Mark",
+                        "value": "Did Not Finish"
+                    },
+                    "phaseResult": [{
+                        "order": "13",
+                        "identifier": "ATW700A",
+                        "code": "A",
+                        "rank": "13",
+                        "value": "12.86",
+                        "property": [{
+                            "type": "Result Type",
+                            "value": "Time"
+                        }, {
+                            "type": "Wind Speed",
+                            "value": "+0.1"
+                        }]
+                    }, {
+                        "order": "7",
+                        "identifier": "ATW700B",
+                        "code": "B",
+                        "rank": "5",
+                        "value": "1.68",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }
+                    }, {
+                        "order": "32",
+                        "identifier": "ATW700C",
+                        "code": "C",
+                        "property": {
+                            "type": "Invalid Result Mark",
+                            "value": "No Mark"
+                        }
+                    }, {
+                        "order": "29",
+                        "identifier": "ATW700D",
+                        "code": "D",
+                        "property": [{
+                            "type": "Invalid Result Mark",
+                            "value": "Disqualified"
+                        }, {
+                            "type": "Wind Speed",
+                            "value": "+1.9"
+                        }]
+                    }, {
+                        "order": "6",
+                        "identifier": "ATW700E",
+                        "code": "E",
+                        "rank": "6",
+                        "value": "6.91",
+                        "property": [{
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }, {
+                            "type": "Wind Speed",
+                            "value": "-1.9"
+                        }]
+                    }, {
+                        "order": "16",
+                        "identifier": "ATW700F",
+                        "code": "F",
+                        "rank": "15",
+                        "value": "50.55",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }
+                    }, {
+                        "order": "27",
+                        "identifier": "ATW700G",
+                        "code": "G",
+                        "property": {
+                            "type": "Invalid Result Mark",
+                            "value": "Did Not Start"
+                        }
+                    }],
+                    "country": {
+                        "identifier": "CZE",
+                        "name": "Czech Republic",
+                        "longName": "Czech Republic"
+                    },
+                    "participant": {
+                        "order": "1",
+                        "competitor": {
+                            "identifier": "7012863",
+                            "firstName": "Eliska",
+                            "lastName": "Klucinova",
+                            "fullName": "Eliska Klucinova"
+                        }
+                    }
+                }, {
+                    "order": "28",
+                    "type": "Individual",
+                    "property": {
+                        "type": "Invalid Result Mark",
+                        "value": "Did Not Finish"
+                    },
+                    "phaseResult": [{
+                        "order": "2",
+                        "identifier": "ATW700A",
+                        "code": "A",
+                        "rank": "2",
+                        "value": "12.59",
+                        "property": [{
+                            "type": "Result Type",
+                            "value": "Time"
+                        }, {
+                            "type": "Wind Speed",
+                            "value": "+0.1"
+                        }]
+                    }, {
+                        "order": "8",
+                        "identifier": "ATW700B",
+                        "code": "B",
+                        "rank": "5",
+                        "value": "1.68",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }
+                    }, {
+                        "order": "11",
+                        "identifier": "ATW700C",
+                        "code": "C",
+                        "rank": "11",
+                        "value": "14.41",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }
+                    }, {
+                        "order": "31",
+                        "identifier": "ATW700D",
+                        "code": "D",
+                        "property": [{
+                            "type": "Invalid Result Mark",
+                            "value": "Disqualified"
+                        }, {
+                            "type": "Wind Speed",
+                            "value": "+1.9"
+                        }]
+                    }, {
+                        "order": "8",
+                        "identifier": "ATW700E",
+                        "code": "E",
+                        "rank": "8",
+                        "value": "6.88",
+                        "property": [{
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }, {
+                            "type": "Wind Speed",
+                            "value": "-1.8"
+                        }]
+                    }, {
+                        "order": "26",
+                        "identifier": "ATW700F",
+                        "code": "F",
+                        "property": {
+                            "type": "Invalid Result Mark",
+                            "value": "No Mark"
+                        }
+                    }, {
+                        "order": "28",
+                        "identifier": "ATW700G",
+                        "code": "G",
+                        "property": {
+                            "type": "Invalid Result Mark",
+                            "value": "Did Not Start"
+                        }
+                    }],
+                    "country": {
+                        "identifier": "GHA",
+                        "name": "Ghana",
+                        "longName": "Ghana"
+                    },
+                    "participant": {
+                        "order": "1",
+                        "competitor": {
+                            "identifier": "7012025",
+                            "firstName": "Margaret",
+                            "lastName": "Simpson",
+                            "fullName": "Margaret Simpson"
+                        }
+                    }
+                }, {
+                    "order": "29",
+                    "type": "Individual",
+                    "property": {
+                        "type": "Invalid Result Mark",
+                        "value": "Did Not Finish"
+                    },
+                    "phaseResult": [{
+                        "order": "16",
+                        "identifier": "ATW700A",
+                        "code": "A",
+                        "rank": "16",
+                        "value": "12.90",
+                        "property": [{
+                            "type": "Result Type",
+                            "value": "Time"
+                        }, {
+                            "type": "Wind Speed",
+                            "value": "+0.6"
+                        }]
+                    }, {
+                        "order": "15",
+                        "identifier": "ATW700B",
+                        "code": "B",
+                        "rank": "15",
+                        "value": "1.62",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }
+                    }, {
+                        "order": "16",
+                        "identifier": "ATW700C",
+                        "code": "C",
+                        "rank": "16",
+                        "value": "14.13",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }
+                    }, {
+                        "order": "26",
+                        "identifier": "ATW700D",
+                        "code": "D",
+                        "rank": "26",
+                        "value": "25.98",
+                        "property": [{
+                            "type": "Result Type",
+                            "value": "Time"
+                        }, {
+                            "type": "Wind Speed",
+                            "value": "+2.5"
+                        }]
+                    }, {
+                        "order": "19",
+                        "identifier": "ATW700E",
+                        "code": "E",
+                        "rank": "19",
+                        "value": "6.14",
+                        "property": [{
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }, {
+                            "type": "Wind Speed",
+                            "value": "+1.1"
+                        }]
+                    }, {
+                        "order": "29",
+                        "identifier": "ATW700F",
+                        "code": "F",
+                        "property": {
+                            "type": "Invalid Result Mark",
+                            "value": "Did Not Start"
+                        }
+                    }],
+                    "country": {
+                        "identifier": "GBR",
+                        "name": "Great Britain",
+                        "longName": "Great Britain"
+                    },
+                    "participant": {
+                        "order": "1",
+                        "competitor": {
+                            "identifier": "7012132",
+                            "firstName": "Jessica",
+                            "lastName": "Ennis",
+                            "fullName": "Jessica Ennis"
+                        }
+                    }
+                }, {
+                    "order": "30",
+                    "type": "Individual",
+                    "property": {
+                        "type": "Invalid Result Mark",
+                        "value": "Did Not Finish"
+                    },
+                    "phaseResult": [{
+                        "order": "31",
+                        "identifier": "ATW700A",
+                        "code": "A",
+                        "property": {
+                            "type": "Invalid Result Mark",
+                            "value": "Did Not Finish"
+                        }
+                    }, {
+                        "order": "12",
+                        "identifier": "ATW700B",
+                        "code": "B",
+                        "rank": "9",
+                        "value": "1.65",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }
+                    }, {
+                        "order": "19",
+                        "identifier": "ATW700C",
+                        "code": "C",
+                        "rank": "19",
+                        "value": "13.90",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }
+                    }, {
+                        "order": "27",
+                        "identifier": "ATW700D",
+                        "code": "D",
+                        "rank": "27",
+                        "value": "32.15",
+                        "property": [{
+                            "type": "Result Type",
+                            "value": "Time"
+                        }, {
+                            "type": "Wind Speed",
+                            "value": "+2.5"
+                        }]
+                    }, {
+                        "order": "4",
+                        "identifier": "ATW700E",
+                        "code": "E",
+                        "rank": "3",
+                        "value": "7.27",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }
+                    }, {
+                        "order": "30",
+                        "identifier": "ATW700F",
+                        "code": "F",
+                        "property": {
+                            "type": "Invalid Result Mark",
+                            "value": "Did Not Start"
+                        }
+                    }],
+                    "country": {
+                        "identifier": "FRA",
+                        "name": "France",
+                        "longName": "France"
+                    },
+                    "participant": {
+                        "order": "1",
+                        "competitor": {
+                            "identifier": "7013358",
+                            "firstName": "Antoinette",
+                            "lastName": "Nana Djimou Ida",
+                            "fullName": "Antoinette Nana Djimou Ida"
+                        }
+                    }
+                }, {
+                    "order": "31",
+                    "type": "Individual",
+                    "property": {
+                        "type": "Invalid Result Mark",
+                        "value": "Did Not Finish"
+                    },
+                    "phaseResult": [{
+                        "order": "32",
+                        "identifier": "ATW700A",
+                        "code": "A",
+                        "property": {
+                            "type": "Invalid Result Mark",
+                            "value": "Did Not Finish"
+                        }
+                    }, {
+                        "order": "13",
+                        "identifier": "ATW700B",
+                        "code": "B",
+                        "rank": "9",
+                        "value": "1.65",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }
+                    }, {
+                        "order": "22",
+                        "identifier": "ATW700C",
+                        "code": "C",
+                        "rank": "21",
+                        "value": "13.57",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }
+                    }, {
+                        "order": "3",
+                        "identifier": "ATW700D",
+                        "code": "D",
+                        "rank": "3",
+                        "value": "22.03",
+                        "property": [{
+                            "type": "Result Type",
+                            "value": "Time"
+                        }, {
+                            "type": "Wind Speed",
+                            "value": "+2.5"
+                        }]
+                    }, {
+                        "order": "26",
+                        "identifier": "ATW700E",
+                        "code": "E",
+                        "rank": "26",
+                        "value": "5.30",
+                        "property": [{
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }, {
+                            "type": "Wind Speed",
+                            "value": "-0.3"
+                        }]
+                    }, {
+                        "order": "31",
+                        "identifier": "ATW700F",
+                        "code": "F",
+                        "property": {
+                            "type": "Invalid Result Mark",
+                            "value": "Did Not Start"
+                        }
+                    }],
+                    "country": {
+                        "identifier": "RUS",
+                        "name": "Russian Federation",
+                        "longName": "Russian Federation"
+                    },
+                    "participant": {
+                        "order": "1",
+                        "competitor": {
+                            "identifier": "7010219",
+                            "firstName": "Kristina",
+                            "lastName": "Savitskaya",
+                            "fullName": "Kristina Savitskaya"
+                        }
+                    }
+                }, {
+                    "order": "32",
+                    "type": "Individual",
+                    "property": {
+                        "type": "Invalid Result Mark",
+                        "value": "Did Not Finish"
+                    },
+                    "phaseResult": [{
+                        "order": "27",
+                        "identifier": "ATW700A",
+                        "code": "A",
+                        "rank": "27",
+                        "value": "13.24",
+                        "property": [{
+                            "type": "Result Type",
+                            "value": "Time"
+                        }, {
+                            "type": "Wind Speed",
+                            "value": "-0.7"
+                        }]
+                    }, {
+                        "order": "28",
+                        "identifier": "ATW700B",
+                        "code": "B",
+                        "rank": "21",
+                        "value": "1.59",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }
+                    }, {
+                        "order": "14",
+                        "identifier": "ATW700C",
+                        "code": "C",
+                        "rank": "13",
+                        "value": "14.29",
+                        "property": {
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }
+                    }, {
+                        "order": "32",
+                        "identifier": "ATW700D",
+                        "code": "D",
+                        "property": [{
+                            "type": "Invalid Result Mark",
+                            "value": "Disqualified"
+                        }, {
+                            "type": "Wind Speed",
+                            "value": "+0.2"
+                        }]
+                    }, {
+                        "order": "11",
+                        "identifier": "ATW700E",
+                        "code": "E",
+                        "rank": "11",
+                        "value": "6.71",
+                        "property": [{
+                            "type": "Result Type",
+                            "value": "Distance"
+                        }, {
+                            "type": "Wind Speed",
+                            "value": "-1.7"
+                        }]
+                    }, {
+                        "order": "32",
+                        "identifier": "ATW700F",
+                        "code": "F",
+                        "property": {
+                            "type": "Invalid Result Mark",
+                            "value": "Did Not Start"
+                        }
+                    }],
+                    "country": {
+                        "identifier": "CAN",
+                        "name": "Canada",
+                        "longName": "Canada"
+                    },
+                    "participant": {
+                        "order": "1",
+                        "competitor": {
+                            "identifier": "7011460",
+                            "firstName": "Brianne",
+                            "lastName": "Theisen",
+                            "fullName": "Brianne Theisen"
+                        }
+                    }
+                }]
+            }
+        }
+    }
+}
