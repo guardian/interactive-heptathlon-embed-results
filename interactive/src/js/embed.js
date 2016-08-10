@@ -1,11 +1,10 @@
 import iframeMessenger from 'guardian/iframe-messenger'
 import results from '../renderer/results_parsed.json!json'
-import athletes from '../renderer/athletes.json!json'
 import * as d3 from './lib/d3'
 import { roundPathCorners } from './lib/roundPathCorners'
+import athletesList from '../renderer/athletesList.json!json'
 
-
-let illuOffsets = [4, -22, 15, 15, 7, 15, 15]
+let illuOffsets = [1, -22, 15, 15, 7, 15, 15]
 
 Array.prototype.flatMap = function (lambda) {
     return Array.prototype.concat.apply([], this.map(lambda))
@@ -36,6 +35,8 @@ let formatDiff = (d, arr) => {
 let justSecs = (d) => {
     return (d % 60).toFixed(2)
 }
+
+let currentIndex = -1
 
 let disciplines = [
     {
@@ -132,7 +133,7 @@ let start = null
 
 let r = 5
 
-let medalIds = ['7011724']
+let medalIds = [0]
 
 let easeInOut = null
 
@@ -158,6 +159,7 @@ function grow(circles, _id, ts) {
             grow(circles, _id, ts)
         })
     } else {
+        circles.forEach(c => c.setAttribute('r', r*easeInOut(150)))
         delete anims[_id].grow
     }
 }
@@ -176,89 +178,106 @@ function shrink(circles, _id, ts) {
             shrink(circles, _id, ts)
         })
     } else {
+        circles.forEach(c => c.setAttribute('r', r/easeInOut(150)*2))
         delete anims[_id].shrink
     }
 }
 
-let highlight = (_id) => {
-    $(`.hepta-line[data-id="${_id}"]`).classList.remove('hepta-hidden')
+let highlight = (i) => {
 
-    d3.selectAll('.hepta-result-group')
-        .sort((a, b) => {
+    if(i !== currentIndex){
+        let athlete = athletesList[i]
+        if(athlete){
+            unhighlight(currentIndex)
+            currentIndex = i
+            let _id = athlete._id
 
-            let cmp = [_id].indexOf(a.e.identifier) - [_id].indexOf(b.e.identifier)
+            $(`.hepta-line[data-id="${_id}"]`).classList.remove('hepta-hidden')
 
-            return cmp !== 0 ?
-                cmp :
-                ['bronze', 'silver', 'gold'].indexOf(a.e.medal) - ['bronze', 'silver', 'gold'].indexOf(b.e.medal)
-        })
+            d3.selectAll('.hepta-result-group')
+                .sort((a, b) => {
 
-    let circles = $$(`.hepta-result-group[data-id="${_id}"] circle`)
-    let labels = $$(`.hepta-result-group[data-id="${_id}"] text`)
+                    let cmp = [_id].indexOf(a.e.identifier) - [_id].indexOf(b.e.identifier)
 
-    $('.hepta-athlete-name').innerHTML = athletes[_id]
+                    return cmp !== 0 ?
+                        cmp :
+                        ['bronze', 'silver', 'gold'].indexOf(a.e.medal) - ['bronze', 'silver', 'gold'].indexOf(b.e.medal)
+                })
 
-    // let topCircles = circles.map(c => c.cloneNode())
-    // topCircles.forEach(tc => {
-    //     tc.classList.add('hepta-hl')
-    //     tc.setAttribute('data-id', _id)
-    //     $('.hepta-top-group').appendChild(tc)
-    // })
+            let circles = $$(`.hepta-result-group[data-id="${_id}"] circle`)
+            let labels = $$(`.hepta-result-group[data-id="${_id}"] text`)
 
-    window.requestAnimationFrame(ts => {
-        grow(circles, _id, ts)
-    })
+            let rank = athlete.rank ? athlete.rank + '.' : ''
 
-    circles.forEach(c => {
-        c.classList.add('hepta-hl')
-    })
-    labels.forEach(l => {
-        l.classList.remove('hepta-hidden')
-    })
+            $('.hepta-athlete-name').innerHTML = `${rank} ${athlete.name} (${athlete.country})`
+
+            window.requestAnimationFrame(ts => {
+                grow(circles, _id, ts)
+            })
+
+            circles.forEach(c => {
+                c.classList.add('hepta-hl')
+            })
+            labels.forEach(l => {
+                l.classList.remove('hepta-hidden')
+            })
+
+            $$('.hepta-button').forEach(b => b.classList.remove('hepta-hidden'))
+
+            if(!athletesList[i+1]){
+                $('.hepta-button-left').classList.add('hepta-hidden')
+            }
+            if(!athletesList[i-1]){
+                $('.hepta-button-right').classList.add('hepta-hidden')
+            }
+        }
+    }
 }
 
-let unhighlight = (_id) => {
-    $(`.hepta-line[data-id="${_id}"`).classList.add('hepta-hidden')
-    let circles = $$(`.hepta-result-group[data-id="${_id}"] circle`)
-    //let circles = $$(`.hepta-top-group circle[data-id="${_id}"]`)
-    let labels = $$(`.hepta-result-group[data-id="${_id}"] text`)
+let unhighlight = (i) => {
 
-    window.requestAnimationFrame(ts => {
-        shrink(circles, _id, ts)
-    })
-    circles.forEach(c => {
-        c.classList.remove('hepta-hl')
-    })
-    labels.forEach(l => {
-        l.classList.add('hepta-hidden')
-    })
+    let athlete = athletesList[i]
+
+    if(athlete){
+        let _id = athlete._id
+
+        $(`.hepta-line[data-id="${_id}"`).classList.add('hepta-hidden')
+        let circles = $$(`.hepta-result-group[data-id="${_id}"] circle`)
+        let labels = $$(`.hepta-result-group[data-id="${_id}"] text`)
+
+        window.requestAnimationFrame(ts => {
+            shrink(circles, _id, ts)
+        })
+        circles.forEach(c => {
+            c.classList.remove('hepta-hl')
+        })
+        labels.forEach(l => {
+            l.classList.add('hepta-hidden')
+        })
+    }
 }
 
 let highlightMedals = () => {
-    medalIds.forEach( _id => {
-        highlight(_id)
-    })
-}
-
-let unhighlightMedals = () => {
-    medalIds.forEach( _id => {
-        unhighlight(_id)
+    medalIds.forEach( i => {
+        highlight(i)
     })
 }
 
 let drawDiscipline = (discipline, width, height, offset, svg) => {
 
-    svg.append('line')
+    svg
+        .append('line')
         .attr('x1', margin)
-        .attr('x2', width-margin)
+        .attr('x2', width - margin)
         .attr('y1', offset + height/2)
         .attr('y2', offset + height/2)
         .attr('class', 'hepta-axis')
 
+
     let nodeGroup = svg.append('g')
         .attr('class', 'hepta-discipline')
 
-    svg.append('text')
+    svg.append('g')
         .text(discipline.name)
         .attr('y', offset + height/2 - 16)
         .attr('x', illuWidth + 4)
@@ -330,7 +349,7 @@ let drawLines = (width, height, lineGroup, svg) => {
         .y(d => d.y)
         .defined(d => d.finished)
 
-    let groups = Object.keys(athletes).map(identifier => {
+    let groups = athletesList.map(a => a._id).map(identifier => {
         return svg.selectAll(`.hepta-result-group[data-id="${identifier}"]`).nodes()
             .map(n => {
                 return {
@@ -426,7 +445,7 @@ let drawViz = (width, height, svg) => {
 
     let lineGroup = svg
         .selectAll('.hepta-lines')
-        .data(width)
+        .data([width])
         .enter()
         .append('g')
         .attr('class', 'hepta-lines')
@@ -434,7 +453,7 @@ let drawViz = (width, height, svg) => {
     disciplines.forEach((d, i) => {
         d.data = results[i]
         drawDiscipline(d, width, height, height*i, svg)
-    })
+     })
     drawLines(width, height, lineGroup, svg)
     drawVoronoi(width, height, svg)
 
@@ -444,14 +463,44 @@ window.init = function init(el, config) {
 
     iframeMessenger.enableAutoResize();
 
+    let topDiv = document.createElement('div')
+    topDiv.classList.add('hepta-top')
+    let goLeft = document.createElement('div')
+    goLeft.className = 'hepta-button hepta-button-left'
+    let goRight = document.createElement('div')
+    goRight.className = 'hepta-button hepta-button-right'
     let athleteName = document.createElement('h2')
     athleteName.classList.add('hepta-athlete-name')
 
+    goLeft.addEventListener('click', () => {
+        highlight(currentIndex+1)
+    })
+    goRight.addEventListener('click', () => {
+        highlight(currentIndex-1)
+    })
+
+
+    topDiv.appendChild(goLeft)
+    topDiv.appendChild(athleteName)
+    topDiv.appendChild(goRight)
+
     let vizDiv = document.createElement('div')
     vizDiv.classList.add('hepta-viz-container')
-
-    el.appendChild(athleteName)
+    el.appendChild(topDiv)
     el.appendChild(vizDiv)
+
+    window.addEventListener('orientationchange', () => {
+        $('.hepta-viz-container').innerHTML = ''
+        drawEverything(vizDiv, config)
+        highlightMedals()
+    })
+    window.addEventListener('load', () => {
+        drawEverything(vizDiv, config)
+        highlightMedals()
+    })
+};
+
+let drawEverything = (vizDiv, config) => {
 
     let svg = d3.select(vizDiv)
         .append('svg')
@@ -461,41 +510,26 @@ window.init = function init(el, config) {
 
     let width = window.innerWidth*0.9
 
-    window.addEventListener('resize', () => {
-        width = window.innerWidth*0.9
-        drawViz(width, overallHeight/7, svg)
-    })
-
     drawViz(width, overallHeight/7, svg)
 
-    // circles = $$('.hepta-result')
-    // labels = $$('.hepta-result-label')
-    // titles = $$('.hepta-discipline-title')
+    circles = $$('.hepta-result')
+    labels = $$('.hepta-result-label')
+    titles = $$('.hepta-discipline-title')
 
-    // easeInOut = cubicEasing(150)
+    easeInOut = cubicEasing(150)
 
-    // drawIllus(overallHeight/7, `${config.assetPath}/assets/imgs`, vizDiv)
+    drawIllus(overallHeight/7, `${config.assetPath}/assets/imgs`, vizDiv)
 
-    // $$('.hepta-voronoi').forEach(function(e) {
+    $$('.hepta-voronoi').forEach(function(e) {
 
-    //     let _id = e.getAttribute('data-id')
+        let i = athletesList.findIndex(a => a._id === e.getAttribute('data-id'))
 
-    // 	e.addEventListener('mouseenter', function(e) {
-    //     	highlight(_id)
-    // 	})
-    //     e.addEventListener('mouseleave', function(e) {
-    //         unhighlight(_id)
-    //     })
-    // })
+        e.addEventListener('mouseenter', function(e) {
+            highlight(i)
+        })
+    })
 
-    // $('svg').addEventListener('mouseleave', () => {
-    //     highlightMedals()
-    // })
-
-    // $('svg').addEventListener('mouseenter', () => {
-    //     unhighlightMedals()
-    // })
-
-    // window.onload = () => highlightMedals()
-
-};
+    $('svg').addEventListener('mouseleave', () => {
+        highlightMedals()
+    })
+}

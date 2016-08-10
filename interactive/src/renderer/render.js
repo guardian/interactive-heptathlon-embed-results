@@ -63,9 +63,18 @@ let athletesDict = _(entrant.map(e => {
 	.fromPairs()
 	.valueOf()
 
-console.log(athletesDict)
-
 fs.writeFileSync('athletes.json', JSON.stringify(athletesDict, null, 2))
+
+let athletesList = entrant.map(e => {
+	return {
+		'_id' : e.participant.competitor.identifier,
+		'name' : e.participant.competitor.fullName,
+		'country' : e.country.identifier,
+		'rank' : e.rank
+	} 
+})
+
+fs.writeFileSync('athletesList.json', JSON.stringify(athletesList, null, 2))
 
 let height = 100
 let width = 1024

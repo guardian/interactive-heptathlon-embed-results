@@ -15,8 +15,18 @@ body {
 .interactive-embed {
 }
 
-.hepta-athlete-name {
+.hepta-top {
+
+	width: 300px;
+	margin: auto;
+	position: relative;
 	text-align: center;
+}
+
+.hepta-athlete-name {
+	display: inline-block;
+	height: 72px;
+	padding: 0 24px;
 }
 
 .hepta-viz-container {
@@ -24,10 +34,35 @@ body {
 	position: relative;
 }
 
+.hepta-button {
+	position: absolute;
+	width: 16px;
+	height: 16px;
+	border-radius: 100px;
+	background: #bdbdbd;
+	cursor: pointer;
+
+	box-sizing: border-box;
+
+	&.hepta-button-left {
+		top: 22px;
+		left: 0;
+
+		border-left: 3px solid #777;
+	}
+
+	&.hepta-button-right {
+		top: 22px;
+		right: 0;
+
+		border-right: 3px solid #777;
+	}
+}
+
 .hepta-svg {
 
 	box-sizing: border-box;
-	padding-left: 0;
+	margin-left: 5%;
 	width: 90%;
 	height: 700px;
 
@@ -70,11 +105,12 @@ body {
 
 .hepta-illu {
 	position: absolute;
-	left: 0;
+	left: 5%;
 }
 
 .hepta-axis {
-	stroke: #bdbdbd;
+	stroke: #999;
+	stroke-dasharray: 1,1;
 }
 
 .hepta-discipline-title {

@@ -1,0 +1,4418 @@
+[
+  [
+    {
+      "e": {
+        "name": "Hanna Melnychenko",
+        "identifier": "7011387",
+        "medal": null
+      },
+      "pr": {
+        "order": "30",
+        "identifier": "ATW700A",
+        "code": "A",
+        "property": [
+          {
+            "type": "Invalid Result Mark",
+            "value": "Did Not Finish"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "-0.7"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Antoinette Nana Djimou Ida",
+        "identifier": "7013358",
+        "medal": null
+      },
+      "pr": {
+        "order": "31",
+        "identifier": "ATW700A",
+        "code": "A",
+        "property": {
+          "type": "Invalid Result Mark",
+          "value": "Did Not Finish"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Kristina Savitskaya",
+        "identifier": "7010219",
+        "medal": null
+      },
+      "pr": {
+        "order": "32",
+        "identifier": "ATW700A",
+        "code": "A",
+        "property": {
+          "type": "Invalid Result Mark",
+          "value": "Did Not Finish"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Marisa de Aniceto",
+        "identifier": "7013332",
+        "medal": null
+      },
+      "pr": {
+        "order": "29",
+        "identifier": "ATW700A",
+        "code": "A",
+        "rank": "29",
+        "value": "13.40",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Time"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "+1.5"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Uhunoma Osazuwa",
+        "identifier": "7014453",
+        "medal": null
+      },
+      "pr": {
+        "order": "28",
+        "identifier": "ATW700A",
+        "code": "A",
+        "rank": "28",
+        "value": "13.29",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Time"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "+1.5"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Brianne Theisen",
+        "identifier": "7011460",
+        "medal": null
+      },
+      "pr": {
+        "order": "27",
+        "identifier": "ATW700A",
+        "code": "A",
+        "rank": "27",
+        "value": "13.24",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Time"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "-0.7"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Hyleas Fountain",
+        "identifier": "7013840",
+        "medal": null
+      },
+      "pr": {
+        "order": "26",
+        "identifier": "ATW700A",
+        "code": "A",
+        "rank": "26",
+        "value": "13.22",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Time"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "+1.5"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Lyudmyla Yosypenko",
+        "identifier": "7012273",
+        "medal": null
+      },
+      "pr": {
+        "order": "25",
+        "identifier": "ATW700A",
+        "code": "A",
+        "rank": "25",
+        "value": "13.14",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Time"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "+0.6"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Gyorgyi Farkas",
+        "identifier": "7010962",
+        "medal": null
+      },
+      "pr": {
+        "order": "24",
+        "identifier": "ATW700A",
+        "code": "A",
+        "rank": "24",
+        "value": "13.13",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Time"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "-0.7"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Jessica Zelinka",
+        "identifier": "7011463",
+        "medal": null
+      },
+      "pr": {
+        "order": "21",
+        "identifier": "ATW700A",
+        "code": "A",
+        "rank": "21",
+        "value": "13.04",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Time"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "+0.6"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Olga Kurban",
+        "identifier": "7010091",
+        "medal": null
+      },
+      "pr": {
+        "order": "20",
+        "identifier": "ATW700A",
+        "code": "A",
+        "rank": "20",
+        "value": "13.01",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Time"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "+0.6"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Chantae McMillan",
+        "identifier": "7014426",
+        "medal": null
+      },
+      "pr": {
+        "order": "19",
+        "identifier": "ATW700A",
+        "code": "A",
+        "rank": "19",
+        "value": "12.99",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Time"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "+1.5"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Nadine Broersen",
+        "identifier": "7013061",
+        "medal": null
+      },
+      "pr": {
+        "order": "17",
+        "identifier": "ATW700A",
+        "code": "A",
+        "rank": "17",
+        "value": "12.95",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Time"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "+0.1"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Jessica Ennis",
+        "identifier": "7012132",
+        "medal": null
+      },
+      "pr": {
+        "order": "16",
+        "identifier": "ATW700A",
+        "code": "A",
+        "rank": "16",
+        "value": "12.90",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Time"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "+0.6"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Ivona Dadic",
+        "identifier": "7014620",
+        "medal": null
+      },
+      "pr": {
+        "order": "14",
+        "identifier": "ATW700A",
+        "code": "A",
+        "rank": "14",
+        "value": "12.89",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Time"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "+1.5"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Laura Ikauniece",
+        "identifier": "7011886",
+        "medal": null
+      },
+      "pr": {
+        "order": "15",
+        "identifier": "ATW700A",
+        "code": "A",
+        "rank": "14",
+        "value": "12.89",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Time"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "-0.7"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Eliska Klucinova",
+        "identifier": "7012863",
+        "medal": null
+      },
+      "pr": {
+        "order": "13",
+        "identifier": "ATW700A",
+        "code": "A",
+        "rank": "13",
+        "value": "12.86",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Time"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "+0.1"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Jennifer Oeser",
+        "identifier": "7013233",
+        "medal": null
+      },
+      "pr": {
+        "order": "12",
+        "identifier": "ATW700A",
+        "code": "A",
+        "rank": "11",
+        "value": "12.85",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Time"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "+0.1"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Katarina Johnson-Thompson",
+        "identifier": "7013693",
+        "medal": null
+      },
+      "pr": {
+        "order": "11",
+        "identifier": "ATW700A",
+        "code": "A",
+        "rank": "11",
+        "value": "12.85",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Time"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "+1.5"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Yana Maksimava",
+        "identifier": "7010559",
+        "medal": null
+      },
+      "pr": {
+        "order": "9",
+        "identifier": "ATW700A",
+        "code": "A",
+        "rank": "9",
+        "value": "12.83",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Time"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "+0.6"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Jessica Samuel",
+        "identifier": "7011135",
+        "medal": null
+      },
+      "pr": {
+        "order": "10",
+        "identifier": "ATW700A",
+        "code": "A",
+        "rank": "9",
+        "value": "12.83",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Time"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "-0.7"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Sharon Day",
+        "identifier": "7013899",
+        "medal": null
+      },
+      "pr": {
+        "order": "8",
+        "identifier": "ATW700A",
+        "code": "A",
+        "rank": "8",
+        "value": "12.77",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Time"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "+1.5"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Karolina Tyminska",
+        "identifier": "7011148",
+        "medal": null
+      },
+      "pr": {
+        "order": "7",
+        "identifier": "ATW700A",
+        "code": "A",
+        "rank": "7",
+        "value": "12.75",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Time"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "-0.7"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Tatyana Chernova",
+        "identifier": "7010180",
+        "medal": null
+      },
+      "pr": {
+        "order": "6",
+        "identifier": "ATW700A",
+        "code": "A",
+        "rank": "6",
+        "value": "12.74",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Time"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "+0.6"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Julia Machtig",
+        "identifier": "7013220",
+        "medal": null
+      },
+      "pr": {
+        "order": "4",
+        "identifier": "ATW700A",
+        "code": "A",
+        "rank": "4",
+        "value": "12.73",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Time"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "+0.1"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Lilli Schwarzkopf",
+        "identifier": "7013253",
+        "medal": null
+      },
+      "pr": {
+        "order": "5",
+        "identifier": "ATW700A",
+        "code": "A",
+        "rank": "4",
+        "value": "12.73",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Time"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "+0.1"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Louise Hazel",
+        "identifier": "7012137",
+        "medal": null
+      },
+      "pr": {
+        "order": "3",
+        "identifier": "ATW700A",
+        "code": "A",
+        "rank": "3",
+        "value": "12.65",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Time"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "+0.1"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Margaret Simpson",
+        "identifier": "7012025",
+        "medal": null
+      },
+      "pr": {
+        "order": "2",
+        "identifier": "ATW700A",
+        "code": "A",
+        "rank": "2",
+        "value": "12.59",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Time"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "+0.1"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Dafne Schippers",
+        "identifier": "7013076",
+        "medal": null
+      },
+      "pr": {
+        "order": "1",
+        "identifier": "ATW700A",
+        "code": "A",
+        "rank": "1",
+        "value": "12.55",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Time"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "+0.1"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Ellen Sprunger",
+        "identifier": "7013720",
+        "medal": "bronze"
+      },
+      "pr": {
+        "order": "23",
+        "identifier": "ATW700A",
+        "code": "A",
+        "rank": "23",
+        "value": "13.11",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Time"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "+1.5"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Aiga Grabuste",
+        "identifier": "7011875",
+        "medal": "silver"
+      },
+      "pr": {
+        "order": "18",
+        "identifier": "ATW700A",
+        "code": "A",
+        "rank": "18",
+        "value": "12.97",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Time"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "-0.7"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Grit Sadeiko",
+        "identifier": "7011724",
+        "medal": "gold"
+      },
+      "pr": {
+        "order": "22",
+        "identifier": "ATW700A",
+        "code": "A",
+        "rank": "22",
+        "value": "13.05",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Time"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "-0.7"
+          }
+        ]
+      }
+    }
+  ],
+  [
+    {
+      "e": {
+        "name": "Gyorgyi Farkas",
+        "identifier": "7010962",
+        "medal": null
+      },
+      "pr": {
+        "order": "31",
+        "identifier": "ATW700B",
+        "code": "B",
+        "property": {
+          "type": "Invalid Result Mark",
+          "value": "No Mark"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Nadine Broersen",
+        "identifier": "7013061",
+        "medal": null
+      },
+      "pr": {
+        "order": "30",
+        "identifier": "ATW700B",
+        "code": "B",
+        "property": {
+          "type": "Invalid Result Mark",
+          "value": "No Mark"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Lilli Schwarzkopf",
+        "identifier": "7013253",
+        "medal": null
+      },
+      "pr": {
+        "order": "32",
+        "identifier": "ATW700B",
+        "code": "B",
+        "property": {
+          "type": "Invalid Result Mark",
+          "value": "No Mark"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Karolina Tyminska",
+        "identifier": "7011148",
+        "medal": null
+      },
+      "pr": {
+        "order": "4",
+        "identifier": "ATW700B",
+        "code": "B",
+        "rank": "1",
+        "value": "1.80",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Jessica Samuel",
+        "identifier": "7011135",
+        "medal": null
+      },
+      "pr": {
+        "order": "3",
+        "identifier": "ATW700B",
+        "code": "B",
+        "rank": "1",
+        "value": "1.80",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Louise Hazel",
+        "identifier": "7012137",
+        "medal": null
+      },
+      "pr": {
+        "order": "1",
+        "identifier": "ATW700B",
+        "code": "B",
+        "rank": "1",
+        "value": "1.80",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Marisa de Aniceto",
+        "identifier": "7013332",
+        "medal": null
+      },
+      "pr": {
+        "order": "5",
+        "identifier": "ATW700B",
+        "code": "B",
+        "rank": "5",
+        "value": "1.68",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Katarina Johnson-Thompson",
+        "identifier": "7013693",
+        "medal": null
+      },
+      "pr": {
+        "order": "6",
+        "identifier": "ATW700B",
+        "code": "B",
+        "rank": "5",
+        "value": "1.68",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Eliska Klucinova",
+        "identifier": "7012863",
+        "medal": null
+      },
+      "pr": {
+        "order": "7",
+        "identifier": "ATW700B",
+        "code": "B",
+        "rank": "5",
+        "value": "1.68",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Margaret Simpson",
+        "identifier": "7012025",
+        "medal": null
+      },
+      "pr": {
+        "order": "8",
+        "identifier": "ATW700B",
+        "code": "B",
+        "rank": "5",
+        "value": "1.68",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Julia Machtig",
+        "identifier": "7013220",
+        "medal": null
+      },
+      "pr": {
+        "order": "10",
+        "identifier": "ATW700B",
+        "code": "B",
+        "rank": "9",
+        "value": "1.65",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Hanna Melnychenko",
+        "identifier": "7011387",
+        "medal": null
+      },
+      "pr": {
+        "order": "11",
+        "identifier": "ATW700B",
+        "code": "B",
+        "rank": "9",
+        "value": "1.65",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Antoinette Nana Djimou Ida",
+        "identifier": "7013358",
+        "medal": null
+      },
+      "pr": {
+        "order": "12",
+        "identifier": "ATW700B",
+        "code": "B",
+        "rank": "9",
+        "value": "1.65",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Kristina Savitskaya",
+        "identifier": "7010219",
+        "medal": null
+      },
+      "pr": {
+        "order": "13",
+        "identifier": "ATW700B",
+        "code": "B",
+        "rank": "9",
+        "value": "1.65",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Jennifer Oeser",
+        "identifier": "7013233",
+        "medal": null
+      },
+      "pr": {
+        "order": "17",
+        "identifier": "ATW700B",
+        "code": "B",
+        "rank": "15",
+        "value": "1.62",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Jessica Zelinka",
+        "identifier": "7011463",
+        "medal": null
+      },
+      "pr": {
+        "order": "20",
+        "identifier": "ATW700B",
+        "code": "B",
+        "rank": "15",
+        "value": "1.62",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Uhunoma Osazuwa",
+        "identifier": "7014453",
+        "medal": null
+      },
+      "pr": {
+        "order": "18",
+        "identifier": "ATW700B",
+        "code": "B",
+        "rank": "15",
+        "value": "1.62",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Lyudmyla Yosypenko",
+        "identifier": "7012273",
+        "medal": null
+      },
+      "pr": {
+        "order": "19",
+        "identifier": "ATW700B",
+        "code": "B",
+        "rank": "15",
+        "value": "1.62",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Laura Ikauniece",
+        "identifier": "7011886",
+        "medal": null
+      },
+      "pr": {
+        "order": "16",
+        "identifier": "ATW700B",
+        "code": "B",
+        "rank": "15",
+        "value": "1.62",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Jessica Ennis",
+        "identifier": "7012132",
+        "medal": null
+      },
+      "pr": {
+        "order": "15",
+        "identifier": "ATW700B",
+        "code": "B",
+        "rank": "15",
+        "value": "1.62",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Yana Maksimava",
+        "identifier": "7010559",
+        "medal": null
+      },
+      "pr": {
+        "order": "25",
+        "identifier": "ATW700B",
+        "code": "B",
+        "rank": "21",
+        "value": "1.59",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Ivona Dadic",
+        "identifier": "7014620",
+        "medal": null
+      },
+      "pr": {
+        "order": "21",
+        "identifier": "ATW700B",
+        "code": "B",
+        "rank": "21",
+        "value": "1.59",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Dafne Schippers",
+        "identifier": "7013076",
+        "medal": null
+      },
+      "pr": {
+        "order": "27",
+        "identifier": "ATW700B",
+        "code": "B",
+        "rank": "21",
+        "value": "1.59",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Olga Kurban",
+        "identifier": "7010091",
+        "medal": null
+      },
+      "pr": {
+        "order": "24",
+        "identifier": "ATW700B",
+        "code": "B",
+        "rank": "21",
+        "value": "1.59",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Chantae McMillan",
+        "identifier": "7014426",
+        "medal": null
+      },
+      "pr": {
+        "order": "26",
+        "identifier": "ATW700B",
+        "code": "B",
+        "rank": "21",
+        "value": "1.59",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Hyleas Fountain",
+        "identifier": "7013840",
+        "medal": null
+      },
+      "pr": {
+        "order": "23",
+        "identifier": "ATW700B",
+        "code": "B",
+        "rank": "21",
+        "value": "1.59",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Sharon Day",
+        "identifier": "7013899",
+        "medal": null
+      },
+      "pr": {
+        "order": "22",
+        "identifier": "ATW700B",
+        "code": "B",
+        "rank": "21",
+        "value": "1.59",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Brianne Theisen",
+        "identifier": "7011460",
+        "medal": null
+      },
+      "pr": {
+        "order": "28",
+        "identifier": "ATW700B",
+        "code": "B",
+        "rank": "21",
+        "value": "1.59",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Tatyana Chernova",
+        "identifier": "7010180",
+        "medal": null
+      },
+      "pr": {
+        "order": "29",
+        "identifier": "ATW700B",
+        "code": "B",
+        "rank": "29",
+        "value": "1.29",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Ellen Sprunger",
+        "identifier": "7013720",
+        "medal": "bronze"
+      },
+      "pr": {
+        "order": "14",
+        "identifier": "ATW700B",
+        "code": "B",
+        "rank": "9",
+        "value": "1.65",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Aiga Grabuste",
+        "identifier": "7011875",
+        "medal": "silver"
+      },
+      "pr": {
+        "order": "9",
+        "identifier": "ATW700B",
+        "code": "B",
+        "rank": "9",
+        "value": "1.65",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Grit Sadeiko",
+        "identifier": "7011724",
+        "medal": "gold"
+      },
+      "pr": {
+        "order": "2",
+        "identifier": "ATW700B",
+        "code": "B",
+        "rank": "1",
+        "value": "1.80",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    }
+  ],
+  [
+    {
+      "e": {
+        "name": "Katarina Johnson-Thompson",
+        "identifier": "7013693",
+        "medal": null
+      },
+      "pr": {
+        "order": "31",
+        "identifier": "ATW700C",
+        "code": "C",
+        "property": {
+          "type": "Invalid Result Mark",
+          "value": "No Mark"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Eliska Klucinova",
+        "identifier": "7012863",
+        "medal": null
+      },
+      "pr": {
+        "order": "32",
+        "identifier": "ATW700C",
+        "code": "C",
+        "property": {
+          "type": "Invalid Result Mark",
+          "value": "No Mark"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Sharon Day",
+        "identifier": "7013899",
+        "medal": null
+      },
+      "pr": {
+        "order": "1",
+        "identifier": "ATW700C",
+        "code": "C",
+        "rank": "1",
+        "value": "14.99",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Dafne Schippers",
+        "identifier": "7013076",
+        "medal": null
+      },
+      "pr": {
+        "order": "2",
+        "identifier": "ATW700C",
+        "code": "C",
+        "rank": "2",
+        "value": "14.93",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Lyudmyla Yosypenko",
+        "identifier": "7012273",
+        "medal": null
+      },
+      "pr": {
+        "order": "4",
+        "identifier": "ATW700C",
+        "code": "C",
+        "rank": "3",
+        "value": "14.90",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Hyleas Fountain",
+        "identifier": "7013840",
+        "medal": null
+      },
+      "pr": {
+        "order": "5",
+        "identifier": "ATW700C",
+        "code": "C",
+        "rank": "5",
+        "value": "14.73",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Jessica Zelinka",
+        "identifier": "7011463",
+        "medal": null
+      },
+      "pr": {
+        "order": "6",
+        "identifier": "ATW700C",
+        "code": "C",
+        "rank": "6",
+        "value": "14.62",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Olga Kurban",
+        "identifier": "7010091",
+        "medal": null
+      },
+      "pr": {
+        "order": "7",
+        "identifier": "ATW700C",
+        "code": "C",
+        "rank": "7",
+        "value": "14.60",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Louise Hazel",
+        "identifier": "7012137",
+        "medal": null
+      },
+      "pr": {
+        "order": "8",
+        "identifier": "ATW700C",
+        "code": "C",
+        "rank": "8",
+        "value": "14.52",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Jennifer Oeser",
+        "identifier": "7013233",
+        "medal": null
+      },
+      "pr": {
+        "order": "9",
+        "identifier": "ATW700C",
+        "code": "C",
+        "rank": "9",
+        "value": "14.50",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Laura Ikauniece",
+        "identifier": "7011886",
+        "medal": null
+      },
+      "pr": {
+        "order": "10",
+        "identifier": "ATW700C",
+        "code": "C",
+        "rank": "10",
+        "value": "14.44",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Margaret Simpson",
+        "identifier": "7012025",
+        "medal": null
+      },
+      "pr": {
+        "order": "11",
+        "identifier": "ATW700C",
+        "code": "C",
+        "rank": "11",
+        "value": "14.41",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Nadine Broersen",
+        "identifier": "7013061",
+        "medal": null
+      },
+      "pr": {
+        "order": "12",
+        "identifier": "ATW700C",
+        "code": "C",
+        "rank": "12",
+        "value": "14.34",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Yana Maksimava",
+        "identifier": "7010559",
+        "medal": null
+      },
+      "pr": {
+        "order": "13",
+        "identifier": "ATW700C",
+        "code": "C",
+        "rank": "13",
+        "value": "14.29",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Brianne Theisen",
+        "identifier": "7011460",
+        "medal": null
+      },
+      "pr": {
+        "order": "14",
+        "identifier": "ATW700C",
+        "code": "C",
+        "rank": "13",
+        "value": "14.29",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Chantae McMillan",
+        "identifier": "7014426",
+        "medal": null
+      },
+      "pr": {
+        "order": "15",
+        "identifier": "ATW700C",
+        "code": "C",
+        "rank": "15",
+        "value": "14.18",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Jessica Ennis",
+        "identifier": "7012132",
+        "medal": null
+      },
+      "pr": {
+        "order": "16",
+        "identifier": "ATW700C",
+        "code": "C",
+        "rank": "16",
+        "value": "14.13",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Karolina Tyminska",
+        "identifier": "7011148",
+        "medal": null
+      },
+      "pr": {
+        "order": "17",
+        "identifier": "ATW700C",
+        "code": "C",
+        "rank": "17",
+        "value": "14.11",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Uhunoma Osazuwa",
+        "identifier": "7014453",
+        "medal": null
+      },
+      "pr": {
+        "order": "18",
+        "identifier": "ATW700C",
+        "code": "C",
+        "rank": "18",
+        "value": "13.98",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Antoinette Nana Djimou Ida",
+        "identifier": "7013358",
+        "medal": null
+      },
+      "pr": {
+        "order": "19",
+        "identifier": "ATW700C",
+        "code": "C",
+        "rank": "19",
+        "value": "13.90",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Marisa de Aniceto",
+        "identifier": "7013332",
+        "medal": null
+      },
+      "pr": {
+        "order": "20",
+        "identifier": "ATW700C",
+        "code": "C",
+        "rank": "20",
+        "value": "13.73",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Kristina Savitskaya",
+        "identifier": "7010219",
+        "medal": null
+      },
+      "pr": {
+        "order": "22",
+        "identifier": "ATW700C",
+        "code": "C",
+        "rank": "21",
+        "value": "13.57",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Hanna Melnychenko",
+        "identifier": "7011387",
+        "medal": null
+      },
+      "pr": {
+        "order": "23",
+        "identifier": "ATW700C",
+        "code": "C",
+        "rank": "23",
+        "value": "13.40",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Julia Machtig",
+        "identifier": "7013220",
+        "medal": null
+      },
+      "pr": {
+        "order": "24",
+        "identifier": "ATW700C",
+        "code": "C",
+        "rank": "24",
+        "value": "13.34",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Jessica Samuel",
+        "identifier": "7011135",
+        "medal": null
+      },
+      "pr": {
+        "order": "25",
+        "identifier": "ATW700C",
+        "code": "C",
+        "rank": "25",
+        "value": "13.23",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Lilli Schwarzkopf",
+        "identifier": "7013253",
+        "medal": null
+      },
+      "pr": {
+        "order": "26",
+        "identifier": "ATW700C",
+        "code": "C",
+        "rank": "26",
+        "value": "13.07",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Tatyana Chernova",
+        "identifier": "7010180",
+        "medal": null
+      },
+      "pr": {
+        "order": "28",
+        "identifier": "ATW700C",
+        "code": "C",
+        "rank": "28",
+        "value": "12.63",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Gyorgyi Farkas",
+        "identifier": "7010962",
+        "medal": null
+      },
+      "pr": {
+        "order": "29",
+        "identifier": "ATW700C",
+        "code": "C",
+        "rank": "29",
+        "value": "12.39",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Ivona Dadic",
+        "identifier": "7014620",
+        "medal": null
+      },
+      "pr": {
+        "order": "30",
+        "identifier": "ATW700C",
+        "code": "C",
+        "rank": "30",
+        "value": "12.24",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Ellen Sprunger",
+        "identifier": "7013720",
+        "medal": "bronze"
+      },
+      "pr": {
+        "order": "3",
+        "identifier": "ATW700C",
+        "code": "C",
+        "rank": "3",
+        "value": "14.90",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Aiga Grabuste",
+        "identifier": "7011875",
+        "medal": "silver"
+      },
+      "pr": {
+        "order": "27",
+        "identifier": "ATW700C",
+        "code": "C",
+        "rank": "27",
+        "value": "12.84",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Grit Sadeiko",
+        "identifier": "7011724",
+        "medal": "gold"
+      },
+      "pr": {
+        "order": "21",
+        "identifier": "ATW700C",
+        "code": "C",
+        "rank": "21",
+        "value": "13.57",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    }
+  ],
+  [
+    {
+      "e": {
+        "name": "Chantae McMillan",
+        "identifier": "7014426",
+        "medal": null
+      },
+      "pr": {
+        "order": "30",
+        "identifier": "ATW700D",
+        "code": "D",
+        "property": {
+          "type": "Invalid Result Mark",
+          "value": "Disqualified"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Louise Hazel",
+        "identifier": "7012137",
+        "medal": null
+      },
+      "pr": {
+        "order": "28",
+        "identifier": "ATW700D",
+        "code": "D",
+        "property": {
+          "type": "Invalid Result Mark",
+          "value": "Did Not Finish"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Eliska Klucinova",
+        "identifier": "7012863",
+        "medal": null
+      },
+      "pr": {
+        "order": "29",
+        "identifier": "ATW700D",
+        "code": "D",
+        "property": [
+          {
+            "type": "Invalid Result Mark",
+            "value": "Disqualified"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "+1.9"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Margaret Simpson",
+        "identifier": "7012025",
+        "medal": null
+      },
+      "pr": {
+        "order": "31",
+        "identifier": "ATW700D",
+        "code": "D",
+        "property": [
+          {
+            "type": "Invalid Result Mark",
+            "value": "Disqualified"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "+1.9"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Brianne Theisen",
+        "identifier": "7011460",
+        "medal": null
+      },
+      "pr": {
+        "order": "32",
+        "identifier": "ATW700D",
+        "code": "D",
+        "property": [
+          {
+            "type": "Invalid Result Mark",
+            "value": "Disqualified"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "+0.2"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Antoinette Nana Djimou Ida",
+        "identifier": "7013358",
+        "medal": null
+      },
+      "pr": {
+        "order": "27",
+        "identifier": "ATW700D",
+        "code": "D",
+        "rank": "27",
+        "value": "32.15",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Time"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "+2.5"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Jessica Ennis",
+        "identifier": "7012132",
+        "medal": null
+      },
+      "pr": {
+        "order": "26",
+        "identifier": "ATW700D",
+        "code": "D",
+        "rank": "26",
+        "value": "25.98",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Time"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "+2.5"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Jessica Zelinka",
+        "identifier": "7011463",
+        "medal": null
+      },
+      "pr": {
+        "order": "25",
+        "identifier": "ATW700D",
+        "code": "D",
+        "rank": "25",
+        "value": "25.63",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Time"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "+2.5"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Hyleas Fountain",
+        "identifier": "7013840",
+        "medal": null
+      },
+      "pr": {
+        "order": "24",
+        "identifier": "ATW700D",
+        "code": "D",
+        "rank": "24",
+        "value": "23.57",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Time"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "-0.3"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Katarina Johnson-Thompson",
+        "identifier": "7013693",
+        "medal": null
+      },
+      "pr": {
+        "order": "23",
+        "identifier": "ATW700D",
+        "code": "D",
+        "rank": "23",
+        "value": "23.35",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Time"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "-0.3"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Julia Machtig",
+        "identifier": "7013220",
+        "medal": null
+      },
+      "pr": {
+        "order": "22",
+        "identifier": "ATW700D",
+        "code": "D",
+        "rank": "22",
+        "value": "23.15",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Time"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "+1.9"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Marisa de Aniceto",
+        "identifier": "7013332",
+        "medal": null
+      },
+      "pr": {
+        "order": "21",
+        "identifier": "ATW700D",
+        "code": "D",
+        "rank": "21",
+        "value": "23.13",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Time"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "-0.3"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Lilli Schwarzkopf",
+        "identifier": "7013253",
+        "medal": null
+      },
+      "pr": {
+        "order": "20",
+        "identifier": "ATW700D",
+        "code": "D",
+        "rank": "20",
+        "value": "22.95",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Time"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "+1.9"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Ivona Dadic",
+        "identifier": "7014620",
+        "medal": null
+      },
+      "pr": {
+        "order": "17",
+        "identifier": "ATW700D",
+        "code": "D",
+        "rank": "17",
+        "value": "22.84",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Time"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "-0.3"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Sharon Day",
+        "identifier": "7013899",
+        "medal": null
+      },
+      "pr": {
+        "order": "18",
+        "identifier": "ATW700D",
+        "code": "D",
+        "rank": "17",
+        "value": "22.84",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Time"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "-0.3"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Jennifer Oeser",
+        "identifier": "7013233",
+        "medal": null
+      },
+      "pr": {
+        "order": "16",
+        "identifier": "ATW700D",
+        "code": "D",
+        "rank": "16",
+        "value": "22.74",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Time"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "+1.9"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Uhunoma Osazuwa",
+        "identifier": "7014453",
+        "medal": null
+      },
+      "pr": {
+        "order": "15",
+        "identifier": "ATW700D",
+        "code": "D",
+        "rank": "15",
+        "value": "22.64",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Time"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "-0.3"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Karolina Tyminska",
+        "identifier": "7011148",
+        "medal": null
+      },
+      "pr": {
+        "order": "13",
+        "identifier": "ATW700D",
+        "code": "D",
+        "rank": "13",
+        "value": "22.61",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Time"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "+0.2"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Laura Ikauniece",
+        "identifier": "7011886",
+        "medal": null
+      },
+      "pr": {
+        "order": "11",
+        "identifier": "ATW700D",
+        "code": "D",
+        "rank": "11",
+        "value": "22.52",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Time"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "+1.9"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Hanna Melnychenko",
+        "identifier": "7011387",
+        "medal": null
+      },
+      "pr": {
+        "order": "12",
+        "identifier": "ATW700D",
+        "code": "D",
+        "rank": "11",
+        "value": "22.52",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Time"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "+0.2"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Tatyana Chernova",
+        "identifier": "7010180",
+        "medal": null
+      },
+      "pr": {
+        "order": "9",
+        "identifier": "ATW700D",
+        "code": "D",
+        "rank": "9",
+        "value": "22.35",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Time"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "+2.5"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Nadine Broersen",
+        "identifier": "7013061",
+        "medal": null
+      },
+      "pr": {
+        "order": "8",
+        "identifier": "ATW700D",
+        "code": "D",
+        "rank": "8",
+        "value": "22.32",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Time"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "+1.9"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Yana Maksimava",
+        "identifier": "7010559",
+        "medal": null
+      },
+      "pr": {
+        "order": "7",
+        "identifier": "ATW700D",
+        "code": "D",
+        "rank": "7",
+        "value": "22.22",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Time"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "+0.2"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Gyorgyi Farkas",
+        "identifier": "7010962",
+        "medal": null
+      },
+      "pr": {
+        "order": "5",
+        "identifier": "ATW700D",
+        "code": "D",
+        "rank": "5",
+        "value": "22.21",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Time"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "+0.2"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Jessica Samuel",
+        "identifier": "7011135",
+        "medal": null
+      },
+      "pr": {
+        "order": "6",
+        "identifier": "ATW700D",
+        "code": "D",
+        "rank": "5",
+        "value": "22.21",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Time"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "+0.2"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Lyudmyla Yosypenko",
+        "identifier": "7012273",
+        "medal": null
+      },
+      "pr": {
+        "order": "4",
+        "identifier": "ATW700D",
+        "code": "D",
+        "rank": "3",
+        "value": "22.03",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Time"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "+2.5"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Kristina Savitskaya",
+        "identifier": "7010219",
+        "medal": null
+      },
+      "pr": {
+        "order": "3",
+        "identifier": "ATW700D",
+        "code": "D",
+        "rank": "3",
+        "value": "22.03",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Time"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "+2.5"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Olga Kurban",
+        "identifier": "7010091",
+        "medal": null
+      },
+      "pr": {
+        "order": "2",
+        "identifier": "ATW700D",
+        "code": "D",
+        "rank": "2",
+        "value": "22.01",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Time"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "+2.5"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Dafne Schippers",
+        "identifier": "7013076",
+        "medal": null
+      },
+      "pr": {
+        "order": "1",
+        "identifier": "ATW700D",
+        "code": "D",
+        "rank": "1",
+        "value": "22.00",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Time"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "+2.5"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Ellen Sprunger",
+        "identifier": "7013720",
+        "medal": "bronze"
+      },
+      "pr": {
+        "order": "19",
+        "identifier": "ATW700D",
+        "code": "D",
+        "rank": "19",
+        "value": "22.93",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Time"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "-0.3"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Aiga Grabuste",
+        "identifier": "7011875",
+        "medal": "silver"
+      },
+      "pr": {
+        "order": "14",
+        "identifier": "ATW700D",
+        "code": "D",
+        "rank": "14",
+        "value": "22.63",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Time"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "+0.2"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Grit Sadeiko",
+        "identifier": "7011724",
+        "medal": "gold"
+      },
+      "pr": {
+        "order": "10",
+        "identifier": "ATW700D",
+        "code": "D",
+        "rank": "10",
+        "value": "22.49",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Time"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "+0.2"
+          }
+        ]
+      }
+    }
+  ],
+  [
+    {
+      "e": {
+        "name": "Jessica Samuel",
+        "identifier": "7011135",
+        "medal": null
+      },
+      "pr": {
+        "order": "29",
+        "identifier": "ATW700E",
+        "code": "E",
+        "property": {
+          "type": "Invalid Result Mark",
+          "value": "No Mark"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Dafne Schippers",
+        "identifier": "7013076",
+        "medal": null
+      },
+      "pr": {
+        "order": "30",
+        "identifier": "ATW700E",
+        "code": "E",
+        "property": {
+          "type": "Invalid Result Mark",
+          "value": "No Mark"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Olga Kurban",
+        "identifier": "7010091",
+        "medal": null
+      },
+      "pr": {
+        "order": "28",
+        "identifier": "ATW700E",
+        "code": "E",
+        "property": {
+          "type": "Invalid Result Mark",
+          "value": "No Mark"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Lyudmyla Yosypenko",
+        "identifier": "7012273",
+        "medal": null
+      },
+      "pr": {
+        "order": "31",
+        "identifier": "ATW700E",
+        "code": "E",
+        "property": {
+          "type": "Invalid Result Mark",
+          "value": "No Mark"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Hyleas Fountain",
+        "identifier": "7013840",
+        "medal": null
+      },
+      "pr": {
+        "order": "27",
+        "identifier": "ATW700E",
+        "code": "E",
+        "property": {
+          "type": "Invalid Result Mark",
+          "value": "No Mark"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Katarina Johnson-Thompson",
+        "identifier": "7013693",
+        "medal": null
+      },
+      "pr": {
+        "order": "32",
+        "identifier": "ATW700E",
+        "code": "E",
+        "property": {
+          "type": "Invalid Result Mark",
+          "value": "Disqualified"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Uhunoma Osazuwa",
+        "identifier": "7014453",
+        "medal": null
+      },
+      "pr": {
+        "order": "2",
+        "identifier": "ATW700E",
+        "code": "E",
+        "rank": "1",
+        "value": "7.28",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Distance"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "-2.3"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Chantae McMillan",
+        "identifier": "7014426",
+        "medal": null
+      },
+      "pr": {
+        "order": "1",
+        "identifier": "ATW700E",
+        "code": "E",
+        "rank": "1",
+        "value": "7.28",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Distance"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "-1.2"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Tatyana Chernova",
+        "identifier": "7010180",
+        "medal": null
+      },
+      "pr": {
+        "order": "3",
+        "identifier": "ATW700E",
+        "code": "E",
+        "rank": "3",
+        "value": "7.27",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Antoinette Nana Djimou Ida",
+        "identifier": "7013358",
+        "medal": null
+      },
+      "pr": {
+        "order": "4",
+        "identifier": "ATW700E",
+        "code": "E",
+        "rank": "3",
+        "value": "7.27",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Eliska Klucinova",
+        "identifier": "7012863",
+        "medal": null
+      },
+      "pr": {
+        "order": "6",
+        "identifier": "ATW700E",
+        "code": "E",
+        "rank": "6",
+        "value": "6.91",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Distance"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "-1.9"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Gyorgyi Farkas",
+        "identifier": "7010962",
+        "medal": null
+      },
+      "pr": {
+        "order": "7",
+        "identifier": "ATW700E",
+        "code": "E",
+        "rank": "7",
+        "value": "6.89",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Distance"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "+1.9"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Karolina Tyminska",
+        "identifier": "7011148",
+        "medal": null
+      },
+      "pr": {
+        "order": "9",
+        "identifier": "ATW700E",
+        "code": "E",
+        "rank": "8",
+        "value": "6.88",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Distance"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "-1.8"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Margaret Simpson",
+        "identifier": "7012025",
+        "medal": null
+      },
+      "pr": {
+        "order": "8",
+        "identifier": "ATW700E",
+        "code": "E",
+        "rank": "8",
+        "value": "6.88",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Distance"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "-1.8"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Brianne Theisen",
+        "identifier": "7011460",
+        "medal": null
+      },
+      "pr": {
+        "order": "11",
+        "identifier": "ATW700E",
+        "code": "E",
+        "rank": "11",
+        "value": "6.71",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Distance"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "-1.7"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Marisa de Aniceto",
+        "identifier": "7013332",
+        "medal": null
+      },
+      "pr": {
+        "order": "12",
+        "identifier": "ATW700E",
+        "code": "E",
+        "rank": "12",
+        "value": "6.65",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Distance"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "-1.6"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Jessica Zelinka",
+        "identifier": "7011463",
+        "medal": null
+      },
+      "pr": {
+        "order": "13",
+        "identifier": "ATW700E",
+        "code": "E",
+        "rank": "13",
+        "value": "6.61",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Distance"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "+0.4"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Lilli Schwarzkopf",
+        "identifier": "7013253",
+        "medal": null
+      },
+      "pr": {
+        "order": "15",
+        "identifier": "ATW700E",
+        "code": "E",
+        "rank": "15",
+        "value": "6.53",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Distance"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "-1.5"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Julia Machtig",
+        "identifier": "7013220",
+        "medal": null
+      },
+      "pr": {
+        "order": "16",
+        "identifier": "ATW700E",
+        "code": "E",
+        "rank": "16",
+        "value": "6.47",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Distance"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "-1.5"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Yana Maksimava",
+        "identifier": "7010559",
+        "medal": null
+      },
+      "pr": {
+        "order": "17",
+        "identifier": "ATW700E",
+        "code": "E",
+        "rank": "17",
+        "value": "6.44",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Distance"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "+1.4"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Hanna Melnychenko",
+        "identifier": "7011387",
+        "medal": null
+      },
+      "pr": {
+        "order": "18",
+        "identifier": "ATW700E",
+        "code": "E",
+        "rank": "18",
+        "value": "6.42",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Distance"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "-1.4"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Jessica Ennis",
+        "identifier": "7012132",
+        "medal": null
+      },
+      "pr": {
+        "order": "19",
+        "identifier": "ATW700E",
+        "code": "E",
+        "rank": "19",
+        "value": "6.14",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Distance"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "+1.1"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Ivona Dadic",
+        "identifier": "7014620",
+        "medal": null
+      },
+      "pr": {
+        "order": "20",
+        "identifier": "ATW700E",
+        "code": "E",
+        "rank": "20",
+        "value": "6.08",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Distance"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "-1.1"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Louise Hazel",
+        "identifier": "7012137",
+        "medal": null
+      },
+      "pr": {
+        "order": "21",
+        "identifier": "ATW700E",
+        "code": "E",
+        "rank": "21",
+        "value": "5.80",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Distance"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "+0.8"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Nadine Broersen",
+        "identifier": "7013061",
+        "medal": null
+      },
+      "pr": {
+        "order": "22",
+        "identifier": "ATW700E",
+        "code": "E",
+        "rank": "22",
+        "value": "5.78",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Distance"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "-0.8"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Jennifer Oeser",
+        "identifier": "7013233",
+        "medal": null
+      },
+      "pr": {
+        "order": "23",
+        "identifier": "ATW700E",
+        "code": "E",
+        "rank": "23",
+        "value": "5.63",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Distance"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "-0.7"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Laura Ikauniece",
+        "identifier": "7011886",
+        "medal": null
+      },
+      "pr": {
+        "order": "24",
+        "identifier": "ATW700E",
+        "code": "E",
+        "rank": "24",
+        "value": "5.52",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Distance"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "-0.5"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Sharon Day",
+        "identifier": "7013899",
+        "medal": null
+      },
+      "pr": {
+        "order": "25",
+        "identifier": "ATW700E",
+        "code": "E",
+        "rank": "25",
+        "value": "5.45",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Distance"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "-0.5"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Kristina Savitskaya",
+        "identifier": "7010219",
+        "medal": null
+      },
+      "pr": {
+        "order": "26",
+        "identifier": "ATW700E",
+        "code": "E",
+        "rank": "26",
+        "value": "5.30",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Distance"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "-0.3"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Ellen Sprunger",
+        "identifier": "7013720",
+        "medal": "bronze"
+      },
+      "pr": {
+        "order": "5",
+        "identifier": "ATW700E",
+        "code": "E",
+        "rank": "5",
+        "value": "6.92",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Distance"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "-1.9"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Aiga Grabuste",
+        "identifier": "7011875",
+        "medal": "silver"
+      },
+      "pr": {
+        "order": "14",
+        "identifier": "ATW700E",
+        "code": "E",
+        "rank": "14",
+        "value": "6.59",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Distance"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "+1.6"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Grit Sadeiko",
+        "identifier": "7011724",
+        "medal": "gold"
+      },
+      "pr": {
+        "order": "10",
+        "identifier": "ATW700E",
+        "code": "E",
+        "rank": "10",
+        "value": "6.87",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Distance"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "-1.8"
+          }
+        ]
+      }
+    }
+  ],
+  [
+    {
+      "e": {
+        "name": "Karolina Tyminska",
+        "identifier": "7011148",
+        "medal": null
+      },
+      "pr": {
+        "order": "27",
+        "identifier": "ATW700F",
+        "code": "F",
+        "property": {
+          "type": "Invalid Result Mark",
+          "value": "No Mark"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Uhunoma Osazuwa",
+        "identifier": "7014453",
+        "medal": null
+      },
+      "pr": {
+        "order": "28",
+        "identifier": "ATW700F",
+        "code": "F",
+        "property": {
+          "type": "Invalid Result Mark",
+          "value": "Disqualified"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Laura Ikauniece",
+        "identifier": "7011886",
+        "medal": null
+      },
+      "pr": {
+        "order": "25",
+        "identifier": "ATW700F",
+        "code": "F",
+        "property": {
+          "type": "Invalid Result Mark",
+          "value": "No Mark"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Sharon Day",
+        "identifier": "7013899",
+        "medal": null
+      },
+      "pr": {
+        "order": "24",
+        "identifier": "ATW700F",
+        "code": "F",
+        "property": {
+          "type": "Invalid Result Mark",
+          "value": "No Mark"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Margaret Simpson",
+        "identifier": "7012025",
+        "medal": null
+      },
+      "pr": {
+        "order": "26",
+        "identifier": "ATW700F",
+        "code": "F",
+        "property": {
+          "type": "Invalid Result Mark",
+          "value": "No Mark"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Jessica Ennis",
+        "identifier": "7012132",
+        "medal": null
+      },
+      "pr": {
+        "order": "29",
+        "identifier": "ATW700F",
+        "code": "F",
+        "property": {
+          "type": "Invalid Result Mark",
+          "value": "Did Not Start"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Antoinette Nana Djimou Ida",
+        "identifier": "7013358",
+        "medal": null
+      },
+      "pr": {
+        "order": "30",
+        "identifier": "ATW700F",
+        "code": "F",
+        "property": {
+          "type": "Invalid Result Mark",
+          "value": "Did Not Start"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Kristina Savitskaya",
+        "identifier": "7010219",
+        "medal": null
+      },
+      "pr": {
+        "order": "31",
+        "identifier": "ATW700F",
+        "code": "F",
+        "property": {
+          "type": "Invalid Result Mark",
+          "value": "Did Not Start"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Brianne Theisen",
+        "identifier": "7011460",
+        "medal": null
+      },
+      "pr": {
+        "order": "32",
+        "identifier": "ATW700F",
+        "code": "F",
+        "property": {
+          "type": "Invalid Result Mark",
+          "value": "Did Not Start"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Gyorgyi Farkas",
+        "identifier": "7010962",
+        "medal": null
+      },
+      "pr": {
+        "order": "2",
+        "identifier": "ATW700F",
+        "code": "F",
+        "rank": "2",
+        "value": "65.00",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Julia Machtig",
+        "identifier": "7013220",
+        "medal": null
+      },
+      "pr": {
+        "order": "7",
+        "identifier": "ATW700F",
+        "code": "F",
+        "rank": "4",
+        "value": "56.01",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Ivona Dadic",
+        "identifier": "7014620",
+        "medal": null
+      },
+      "pr": {
+        "order": "5",
+        "identifier": "ATW700F",
+        "code": "F",
+        "rank": "4",
+        "value": "56.01",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Dafne Schippers",
+        "identifier": "7013076",
+        "medal": null
+      },
+      "pr": {
+        "order": "8",
+        "identifier": "ATW700F",
+        "code": "F",
+        "rank": "4",
+        "value": "56.01",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Nadine Broersen",
+        "identifier": "7013061",
+        "medal": null
+      },
+      "pr": {
+        "order": "4",
+        "identifier": "ATW700F",
+        "code": "F",
+        "rank": "4",
+        "value": "56.01",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Olga Kurban",
+        "identifier": "7010091",
+        "medal": null
+      },
+      "pr": {
+        "order": "6",
+        "identifier": "ATW700F",
+        "code": "F",
+        "rank": "4",
+        "value": "56.01",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Jessica Samuel",
+        "identifier": "7011135",
+        "medal": null
+      },
+      "pr": {
+        "order": "9",
+        "identifier": "ATW700F",
+        "code": "F",
+        "rank": "9",
+        "value": "55.85",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Chantae McMillan",
+        "identifier": "7014426",
+        "medal": null
+      },
+      "pr": {
+        "order": "10",
+        "identifier": "ATW700F",
+        "code": "F",
+        "rank": "10",
+        "value": "53.95",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Jennifer Oeser",
+        "identifier": "7013233",
+        "medal": null
+      },
+      "pr": {
+        "order": "11",
+        "identifier": "ATW700F",
+        "code": "F",
+        "rank": "11",
+        "value": "53.83",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Jessica Zelinka",
+        "identifier": "7011463",
+        "medal": null
+      },
+      "pr": {
+        "order": "12",
+        "identifier": "ATW700F",
+        "code": "F",
+        "rank": "12",
+        "value": "52.16",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Lyudmyla Yosypenko",
+        "identifier": "7012273",
+        "medal": null
+      },
+      "pr": {
+        "order": "13",
+        "identifier": "ATW700F",
+        "code": "F",
+        "rank": "13",
+        "value": "51.40",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Louise Hazel",
+        "identifier": "7012137",
+        "medal": null
+      },
+      "pr": {
+        "order": "15",
+        "identifier": "ATW700F",
+        "code": "F",
+        "rank": "15",
+        "value": "50.55",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Eliska Klucinova",
+        "identifier": "7012863",
+        "medal": null
+      },
+      "pr": {
+        "order": "16",
+        "identifier": "ATW700F",
+        "code": "F",
+        "rank": "15",
+        "value": "50.55",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Katarina Johnson-Thompson",
+        "identifier": "7013693",
+        "medal": null
+      },
+      "pr": {
+        "order": "17",
+        "identifier": "ATW700F",
+        "code": "F",
+        "rank": "17",
+        "value": "50.10",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Tatyana Chernova",
+        "identifier": "7010180",
+        "medal": null
+      },
+      "pr": {
+        "order": "18",
+        "identifier": "ATW700F",
+        "code": "F",
+        "rank": "18",
+        "value": "48.60",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Hanna Melnychenko",
+        "identifier": "7011387",
+        "medal": null
+      },
+      "pr": {
+        "order": "19",
+        "identifier": "ATW700F",
+        "code": "F",
+        "rank": "18",
+        "value": "48.60",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Hyleas Fountain",
+        "identifier": "7013840",
+        "medal": null
+      },
+      "pr": {
+        "order": "20",
+        "identifier": "ATW700F",
+        "code": "F",
+        "rank": "20",
+        "value": "48.05",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Lilli Schwarzkopf",
+        "identifier": "7013253",
+        "medal": null
+      },
+      "pr": {
+        "order": "21",
+        "identifier": "ATW700F",
+        "code": "F",
+        "rank": "21",
+        "value": "47.35",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Marisa de Aniceto",
+        "identifier": "7013332",
+        "medal": null
+      },
+      "pr": {
+        "order": "22",
+        "identifier": "ATW700F",
+        "code": "F",
+        "rank": "22",
+        "value": "44.67",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Yana Maksimava",
+        "identifier": "7010559",
+        "medal": null
+      },
+      "pr": {
+        "order": "23",
+        "identifier": "ATW700F",
+        "code": "F",
+        "rank": "23",
+        "value": "44.31",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Ellen Sprunger",
+        "identifier": "7013720",
+        "medal": "bronze"
+      },
+      "pr": {
+        "order": "14",
+        "identifier": "ATW700F",
+        "code": "F",
+        "rank": "14",
+        "value": "50.99",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Aiga Grabuste",
+        "identifier": "7011875",
+        "medal": "silver"
+      },
+      "pr": {
+        "order": "1",
+        "identifier": "ATW700F",
+        "code": "F",
+        "rank": "1",
+        "value": "65.01",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Grit Sadeiko",
+        "identifier": "7011724",
+        "medal": "gold"
+      },
+      "pr": {
+        "order": "3",
+        "identifier": "ATW700F",
+        "code": "F",
+        "rank": "3",
+        "value": "64.64",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    }
+  ],
+  [
+    {
+      "e": {
+        "name": "Marisa de Aniceto",
+        "identifier": "7013332",
+        "medal": null
+      },
+      "pr": {
+        "order": "26",
+        "identifier": "ATW700G",
+        "code": "G",
+        "property": {
+          "type": "Invalid Result Mark",
+          "value": "Did Not Finish"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Eliska Klucinova",
+        "identifier": "7012863",
+        "medal": null
+      },
+      "pr": {
+        "order": "27",
+        "identifier": "ATW700G",
+        "code": "G",
+        "property": {
+          "type": "Invalid Result Mark",
+          "value": "Did Not Start"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Margaret Simpson",
+        "identifier": "7012025",
+        "medal": null
+      },
+      "pr": {
+        "order": "28",
+        "identifier": "ATW700G",
+        "code": "G",
+        "property": {
+          "type": "Invalid Result Mark",
+          "value": "Did Not Start"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Yana Maksimava",
+        "identifier": "7010559",
+        "medal": null
+      },
+      "pr": {
+        "order": "25",
+        "identifier": "ATW700G",
+        "code": "G",
+        "rank": "25",
+        "value": "2:08.83",
+        "property": {
+          "type": "Result Type",
+          "value": "Time"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Uhunoma Osazuwa",
+        "identifier": "7014453",
+        "medal": null
+      },
+      "pr": {
+        "order": "24",
+        "identifier": "ATW700G",
+        "code": "G",
+        "rank": "24",
+        "value": "2:07.84",
+        "property": {
+          "type": "Result Type",
+          "value": "Time"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Karolina Tyminska",
+        "identifier": "7011148",
+        "medal": null
+      },
+      "pr": {
+        "order": "23",
+        "identifier": "ATW700G",
+        "code": "G",
+        "rank": "23",
+        "value": "2:07.77",
+        "property": {
+          "type": "Result Type",
+          "value": "Time"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Dafne Schippers",
+        "identifier": "7013076",
+        "medal": null
+      },
+      "pr": {
+        "order": "22",
+        "identifier": "ATW700G",
+        "code": "G",
+        "rank": "22",
+        "value": "2:07.71",
+        "property": {
+          "type": "Result Type",
+          "value": "Time"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Ivona Dadic",
+        "identifier": "7014620",
+        "medal": null
+      },
+      "pr": {
+        "order": "21",
+        "identifier": "ATW700G",
+        "code": "G",
+        "rank": "21",
+        "value": "2:07.41",
+        "property": {
+          "type": "Result Type",
+          "value": "Time"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Sharon Day",
+        "identifier": "7013899",
+        "medal": null
+      },
+      "pr": {
+        "order": "20",
+        "identifier": "ATW700G",
+        "code": "G",
+        "rank": "20",
+        "value": "2:07.27",
+        "property": {
+          "type": "Result Type",
+          "value": "Time"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Hanna Melnychenko",
+        "identifier": "7011387",
+        "medal": null
+      },
+      "pr": {
+        "order": "19",
+        "identifier": "ATW700G",
+        "code": "G",
+        "rank": "19",
+        "value": "2:06.62",
+        "property": {
+          "type": "Result Type",
+          "value": "Time"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Chantae McMillan",
+        "identifier": "7014426",
+        "medal": null
+      },
+      "pr": {
+        "order": "18",
+        "identifier": "ATW700G",
+        "code": "G",
+        "rank": "17",
+        "value": "2:06.59",
+        "property": {
+          "type": "Result Type",
+          "value": "Time"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Katarina Johnson-Thompson",
+        "identifier": "7013693",
+        "medal": null
+      },
+      "pr": {
+        "order": "17",
+        "identifier": "ATW700G",
+        "code": "G",
+        "rank": "17",
+        "value": "2:06.59",
+        "property": {
+          "type": "Result Type",
+          "value": "Time"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Louise Hazel",
+        "identifier": "7012137",
+        "medal": null
+      },
+      "pr": {
+        "order": "16",
+        "identifier": "ATW700G",
+        "code": "G",
+        "rank": "16",
+        "value": "2:06.55",
+        "property": {
+          "type": "Result Type",
+          "value": "Time"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Jessica Samuel",
+        "identifier": "7011135",
+        "medal": null
+      },
+      "pr": {
+        "order": "15",
+        "identifier": "ATW700G",
+        "code": "G",
+        "rank": "15",
+        "value": "2:05.86",
+        "property": {
+          "type": "Result Type",
+          "value": "Time"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Hyleas Fountain",
+        "identifier": "7013840",
+        "medal": null
+      },
+      "pr": {
+        "order": "14",
+        "identifier": "ATW700G",
+        "code": "G",
+        "rank": "14",
+        "value": "2:05.76",
+        "property": {
+          "type": "Result Type",
+          "value": "Time"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Jennifer Oeser",
+        "identifier": "7013233",
+        "medal": null
+      },
+      "pr": {
+        "order": "13",
+        "identifier": "ATW700G",
+        "code": "G",
+        "rank": "13",
+        "value": "2:05.40",
+        "property": {
+          "type": "Result Type",
+          "value": "Time"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Julia Machtig",
+        "identifier": "7013220",
+        "medal": null
+      },
+      "pr": {
+        "order": "12",
+        "identifier": "ATW700G",
+        "code": "G",
+        "rank": "12",
+        "value": "2:05.30",
+        "property": {
+          "type": "Result Type",
+          "value": "Time"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Jessica Zelinka",
+        "identifier": "7011463",
+        "medal": null
+      },
+      "pr": {
+        "order": "11",
+        "identifier": "ATW700G",
+        "code": "G",
+        "rank": "11",
+        "value": "2:05.16",
+        "property": {
+          "type": "Result Type",
+          "value": "Time"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Gyorgyi Farkas",
+        "identifier": "7010962",
+        "medal": null
+      },
+      "pr": {
+        "order": "10",
+        "identifier": "ATW700G",
+        "code": "G",
+        "rank": "10",
+        "value": "2:05.09",
+        "property": {
+          "type": "Result Type",
+          "value": "Time"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Lyudmyla Yosypenko",
+        "identifier": "7012273",
+        "medal": null
+      },
+      "pr": {
+        "order": "8",
+        "identifier": "ATW700G",
+        "code": "G",
+        "rank": "8",
+        "value": "2:04.61",
+        "property": {
+          "type": "Result Type",
+          "value": "Time"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Nadine Broersen",
+        "identifier": "7013061",
+        "medal": null
+      },
+      "pr": {
+        "order": "7",
+        "identifier": "ATW700G",
+        "code": "G",
+        "rank": "7",
+        "value": "2:04.25",
+        "property": {
+          "type": "Result Type",
+          "value": "Time"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Olga Kurban",
+        "identifier": "7010091",
+        "medal": null
+      },
+      "pr": {
+        "order": "6",
+        "identifier": "ATW700G",
+        "code": "G",
+        "rank": "6",
+        "value": "2:04.01",
+        "property": {
+          "type": "Result Type",
+          "value": "Time"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Tatyana Chernova",
+        "identifier": "7010180",
+        "medal": null
+      },
+      "pr": {
+        "order": "4",
+        "identifier": "ATW700G",
+        "code": "G",
+        "rank": "4",
+        "value": "2:02.98",
+        "property": {
+          "type": "Result Type",
+          "value": "Time"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Laura Ikauniece",
+        "identifier": "7011886",
+        "medal": null
+      },
+      "pr": {
+        "order": "3",
+        "identifier": "ATW700G",
+        "code": "G",
+        "rank": "3",
+        "value": "2:02.50",
+        "property": {
+          "type": "Result Type",
+          "value": "Time"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Lilli Schwarzkopf",
+        "identifier": "7013253",
+        "medal": null
+      },
+      "pr": {
+        "order": "2",
+        "identifier": "ATW700G",
+        "code": "G",
+        "rank": "2",
+        "value": "2:02.00",
+        "property": {
+          "type": "Result Type",
+          "value": "Time"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Ellen Sprunger",
+        "identifier": "7013720",
+        "medal": "bronze"
+      },
+      "pr": {
+        "order": "9",
+        "identifier": "ATW700G",
+        "code": "G",
+        "rank": "9",
+        "value": "2:04.83",
+        "property": {
+          "type": "Result Type",
+          "value": "Time"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Aiga Grabuste",
+        "identifier": "7011875",
+        "medal": "silver"
+      },
+      "pr": {
+        "order": "5",
+        "identifier": "ATW700G",
+        "code": "G",
+        "rank": "5",
+        "value": "2:03.29",
+        "property": {
+          "type": "Result Type",
+          "value": "Time"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Grit Sadeiko",
+        "identifier": "7011724",
+        "medal": "gold"
+      },
+      "pr": {
+        "order": "1",
+        "identifier": "ATW700G",
+        "code": "G",
+        "rank": "1",
+        "value": "2:01.80",
+        "property": {
+          "type": "Result Type",
+          "value": "Time"
+        }
+      }
+    }
+  ]
+]
