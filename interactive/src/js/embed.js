@@ -1,7 +1,96 @@
 import iframeMessenger from 'guardian/iframe-messenger'
-import reqwest from 'reqwest'
-import embedHTML from './text/embed.html!text'
-import embedSVG from '../renderer/heptathlon.svg!text'
+import results from '../renderer/results_parsed.json!json'
+import athletes from '../renderer/athletes.json!json'
+import * as d3 from './lib/d3'
+import { roundPathCorners } from './lib/roundPathCorners'
+
+
+let illuOffsets = [4, -22, 15, 15, 7, 15, 15]
+
+Array.prototype.flatMap = function (lambda) {
+    return Array.prototype.concat.apply([], this.map(lambda))
+    }
+
+Array.prototype.uniqueWith = function (lambda) {
+    return this.filter((e1, i) => {
+        return this.findIndex(e2 => lambda(e1, e2)) === i
+    })
+}
+
+Array.prototype.sortBy = function (lambda) {
+    return this.slice().sort( (a, b) => lambda(a) > lambda(b) ? 1 : -1 )
+}
+
+Array.prototype.immutableReverse = function () {
+    return this.slice().reverse()
+}
+
+let formatDiff = (d, arr) => {
+    if(d){
+        let diff = d - Math.min(...arr.filter(d => d))
+        return diff > 0 ? `${d}s (+${diff.toFixed(2)})` : `${d}s`
+    }
+    return ''
+}
+
+let justSecs = (d) => {
+    return (d % 60).toFixed(2)
+}
+
+let disciplines = [
+    {
+        'name' : '100m hurdles',
+        'resMapper' : d => d,
+        'format' : formatDiff,
+        'reverseScale' : true
+    },{
+        'name' : 'High jump',
+        'resMapper' : d => d,
+        'format' : d => d ? d + 'm' : '' 
+    },{
+        'name' : 'Shot put',
+        'resMapper' : d => d,
+        'format' : d => d ? d + 'm' : ''
+    },{
+        'name' : '200m run',
+        'resMapper' : d => d,
+        'format' : formatDiff,
+        'reverseScale' : true
+    },{
+        'name' : 'Long jump',
+        'resMapper' : d => d,
+        'format' : d => d ? d + 'm' : ''
+    },{
+        'name' : 'Javelin throw',
+        'resMapper' : d => d,
+        'format' : d => d ? d + 'm' : ''
+    },{
+        'name' : '800m run',
+        'resMapper' : (r) => {
+            if(r) {
+                let [mins, secs] = r.split(':')
+                return parseInt(mins)*60 + parseFloat(secs)
+            }
+            return undefined
+        },
+        'format' : (d, arr) => {
+
+            if(d) {
+                let [mins, secs] = d.split(':')
+                let total = parseInt(mins)*60 + parseFloat(secs)
+                let min = Math.min(...arr.filter(d => d).map(d => {
+                    let [mins, secs] = d.split(':')
+                    return parseInt(mins)*60 + parseFloat(secs)
+                }))
+
+                let diff = total - min
+                return diff > 0 ? `${d} (+${ justSecs(diff) })` : d
+            }
+            return ''
+        },
+        'reverseScale' : true
+    }
+]
 
 function $(el, s) {
     if (!s) { s = el; el = document; }
@@ -13,12 +102,17 @@ function $$(el, s) {
     return [].slice.apply(el.querySelectorAll(s));
 }
 
+
+let illuWidth = 80;
+
 let drawIllus = (height, path, el) => {
-    Array(7).fill().forEach((x, i) => {
+    illuOffsets.forEach((offset, i) => {
         let img = document.createElement('img')
         img.setAttribute('src', `${path}/heptathlon-0${i+1}.svg`)
         img.setAttribute('class', 'hepta-illu')
-        img.style.top = i*height - 15 + 'px'
+        img.style.top = i*height - offset + 'px'
+        img.style.width = illuWidth + 'px'
+        img.style.height = illuWidth + 'px'
         el.appendChild(img)
     })
 }
@@ -42,16 +136,7 @@ let medalIds = ['7011724']
 
 let easeInOut = null
 
-let parseViewBoxWidth = (svgEl) => {
-
-    return 700
-}
-
-let getScale = (svgElWidth, viewBoxWidth) => {
-    return x => {
-        return x*viewBoxWidth/svgElWidth
-    }
-}
+let margin = 16
 
 let circles = null
 let labels = null
@@ -97,13 +182,33 @@ function shrink(circles, _id, ts) {
 
 let highlight = (_id) => {
     $(`.hepta-line[data-id="${_id}"]`).classList.remove('hepta-hidden')
+
+    d3.selectAll('.hepta-result-group')
+        .sort((a, b) => {
+
+            let cmp = [_id].indexOf(a.e.identifier) - [_id].indexOf(b.e.identifier)
+
+            return cmp !== 0 ?
+                cmp :
+                ['bronze', 'silver', 'gold'].indexOf(a.e.medal) - ['bronze', 'silver', 'gold'].indexOf(b.e.medal)
+        })
+
     let circles = $$(`.hepta-result-group[data-id="${_id}"] circle`)
     let labels = $$(`.hepta-result-group[data-id="${_id}"] text`)
 
-    window.requestAnimationFrame(ts => {
+    $('.hepta-athlete-name').innerHTML = athletes[_id]
 
+    // let topCircles = circles.map(c => c.cloneNode())
+    // topCircles.forEach(tc => {
+    //     tc.classList.add('hepta-hl')
+    //     tc.setAttribute('data-id', _id)
+    //     $('.hepta-top-group').appendChild(tc)
+    // })
+
+    window.requestAnimationFrame(ts => {
         grow(circles, _id, ts)
     })
+
     circles.forEach(c => {
         c.classList.add('hepta-hl')
     })
@@ -115,6 +220,7 @@ let highlight = (_id) => {
 let unhighlight = (_id) => {
     $(`.hepta-line[data-id="${_id}"`).classList.add('hepta-hidden')
     let circles = $$(`.hepta-result-group[data-id="${_id}"] circle`)
+    //let circles = $$(`.hepta-top-group circle[data-id="${_id}"]`)
     let labels = $$(`.hepta-result-group[data-id="${_id}"] text`)
 
     window.requestAnimationFrame(ts => {
@@ -130,7 +236,6 @@ let unhighlight = (_id) => {
 
 let highlightMedals = () => {
     medalIds.forEach( _id => {
-
         highlight(_id)
     })
 }
@@ -141,54 +246,256 @@ let unhighlightMedals = () => {
     })
 }
 
-let resizeSvgElements = (svg) => {
-    let scale = getScale(svg.clientWidth, parseViewBoxWidth(svg))
-        titles.forEach(t => t.setAttribute('font-size', scale(14)))
-        labels.forEach(l => l.setAttribute('font-size', scale(12)))
-        circles.forEach(c => c.setAttribute('r', scale(5)))
-        r = scale(5)
+let drawDiscipline = (discipline, width, height, offset, svg) => {
+
+    svg.append('line')
+        .attr('x1', margin)
+        .attr('x2', width-margin)
+        .attr('y1', offset + height/2)
+        .attr('y2', offset + height/2)
+        .attr('class', 'hepta-axis')
+
+    let nodeGroup = svg.append('g')
+        .attr('class', 'hepta-discipline')
+
+    svg.append('text')
+        .text(discipline.name)
+        .attr('y', offset + height/2 - 16)
+        .attr('x', illuWidth + 4)
+        .attr('class', 'hepta-discipline-title')
+
+    let extent = d3.extent(discipline.data.map(r => discipline.resMapper(r.pr.value)))
+    let range = discipline.reverseScale ? [width-margin, margin+illuWidth] : [margin+illuWidth, width-margin] 
+
+    let yScale = d3.scaleLinear()
+        .domain(extent)
+        .range(range)
+
+    let groups = nodeGroup.selectAll('.hepta-result-group')
+        .data(discipline.data)
+        .enter()
+        .append('g')
+        .attr('class', 'hepta-result-group')
+        .attr('data-id', d => d.e.identifier)
+        .attr('data-finished', d => d.pr.value)
+
+    let circles = groups
+        .append('circle')
+        .attr('class', 'hepta-result')
+        .attr('class', d => {
+            let clazz = 'hepta-result'
+
+            if(!d.pr.value) {
+                clazz += ' hepta-hidden'
+            }
+            if(d.e.medal) {
+                clazz += ` hepta-medal--${d.e.medal}`
+            }
+            return clazz
+        })
+        .attr('cx', d => {
+            let cx = d.pr.value ? yScale(discipline.resMapper(d.pr.value)) : 0
+            return cx
+        })
+        .attr('cy', offset + height/2)
+        .attr('r', 4)
+        .attr('data-id', d => d.e.identifier)
+
+    groups
+        .append('text')
+        .attr('class', 'hepta-result-label hepta-hidden')
+        .text( (d) => {
+            return discipline.format(d.pr.value, discipline.data.map(d => d.pr.value))
+        })
+        .attr('x', d => {
+
+            let labelOffset = yScale(discipline.resMapper(d.pr.value)) > width/2 ? -8 : 8
+
+            let x = d.pr.value ? yScale(discipline.resMapper(d.pr.value)) + labelOffset : 0
+            return x
+        })
+
+        .attr('text-anchor', d => {
+            return yScale(discipline.resMapper(d.pr.value)) > width/2 ? 'end' : 'start'
+        })
+
+        .attr('y', offset + height/2 + 32)
+
 }
 
+let drawLines = (width, height, lineGroup, svg) => {
 
-let xScale = x => x*window.innerWidth/1024
+    let lineGen = d3.line()
+        .x(d => d.x)
+        .y(d => d.y)
+        .defined(d => d.finished)
+
+    let groups = Object.keys(athletes).map(identifier => {
+        return svg.selectAll(`.hepta-result-group[data-id="${identifier}"]`).nodes()
+            .map(n => {
+                return {
+                    _id : n.getAttribute('data-id'),
+                    finished : n.getAttribute('data-finished'),
+                    x : n.querySelector('circle').getAttribute('cx'),
+                    y : n.querySelector('circle').getAttribute('cy')
+                }
+            })
+
+    })
+
+    let nodes =
+        groups.map(group => {
+            return group
+                    .flatMap((node, i, arr) => {
+                        if(arr[i+1]){
+                            let nextNode = arr[i+1]
+                            return [
+                                node,
+                                {
+                                    x : node.x ,
+                                    y : parseFloat(node.y) + height/2,
+                                    _id : node._id,
+                                    finished : node.finished && nextNode.finished
+                                },
+                                {
+                                    x : nextNode.x ,
+                                    y : parseFloat(node.y) + height/2,
+                                    _id : node._id,
+                                    finished : node.finished
+                                }
+                            ]
+                        }
+                        return node
+                    })
+        })
+
+    lineGroup.selectAll('.hepta-line')
+        .data(nodes)
+        .enter()
+        .append('path')
+        .attr('d', d => {
+            return roundPathCorners(lineGen(d).replace(/([A-Za-z])/g, ' $1 ').replace(/,/g, ' ').slice(1), 20)
+        })
+        .attr('data-id', d => d[0]._id)
+        .attr('class', 'hepta-line hepta-hidden')
+
+}
+
+let drawVoronoi = (width, height, svg) => {
+    let voronoi = d3.voronoi()
+        .extent([[0, 0], [width, height*7]])
+        .x(d => d.x)
+        .y(d => d.y)
+
+    let voronoiNodes = svg.selectAll('.hepta-result-group').nodes()
+        .filter(g => g.getAttribute('data-finished'))
+        .map(node => {
+
+            let m = node.querySelector('circle').classList.toString().match(/medal--(.*)/)
+            m = m ? m[1] : null
+
+            return {
+                x : parseFloat(node.querySelector('circle').getAttribute('cx')),
+                y : parseFloat(node.querySelector('circle').getAttribute('cy')),
+                _id : node.getAttribute('data-id'),
+                medal : m
+            }
+        })
+        .sortBy(
+            n => ['bronze', 'silver', 'gold'].indexOf(n.medal)
+        )
+        .immutableReverse()
+        .uniqueWith((a,b) => {
+            return a.x === b.x && a.y === b.y
+        })
+
+    let polys = voronoi(voronoiNodes).polygons()
+
+    svg.selectAll('.hepta-voronoi')
+        .data(polys)
+        .enter()
+        .append('path')
+        .attr('d', (d, i) => {
+            return "M" + d.join("L") + "Z";
+        })
+        .attr('class', 'hepta-voronoi')
+        .attr('data-id', d => d.data._id)
+}
+
+let drawViz = (width, height, svg) => {
+
+    let lineGroup = svg
+        .selectAll('.hepta-lines')
+        .data(width)
+        .enter()
+        .append('g')
+        .attr('class', 'hepta-lines')
+
+    disciplines.forEach((d, i) => {
+        d.data = results[i]
+        drawDiscipline(d, width, height, height*i, svg)
+    })
+    drawLines(width, height, lineGroup, svg)
+    drawVoronoi(width, height, svg)
+
+}
 
 window.init = function init(el, config) {
 
     iframeMessenger.enableAutoResize();
 
-    el.innerHTML += embedSVG;
+    let athleteName = document.createElement('h2')
+    athleteName.classList.add('hepta-athlete-name')
 
-    let svg = $('svg')
+    let vizDiv = document.createElement('div')
+    vizDiv.classList.add('hepta-viz-container')
 
-    circles = $$('.hepta-result')
-    labels = $$('.hepta-result-label')
-    titles = $$('.hepta-discipline-title')
+    el.appendChild(athleteName)
+    el.appendChild(vizDiv)
 
-    easeInOut = cubicEasing(150)
+    let svg = d3.select(vizDiv)
+        .append('svg')
+        .attr('class', 'hepta-svg')
 
-    let h = $('svg').clientHeight/7
-    drawIllus(h, `${config.assetPath}/assets/imgs`, el)
+    let overallHeight = 700
 
-    $$('.hepta-voronoi').forEach(function(e) {
+    let width = window.innerWidth*0.9
 
-        let _id = e.getAttribute('data-id')
-
-    	e.addEventListener('mouseenter', function(e) {
-        	highlight(_id)
-    	})
-        e.addEventListener('mouseleave', function(e) {
-            unhighlight(_id)
-        })
+    window.addEventListener('resize', () => {
+        width = window.innerWidth*0.9
+        drawViz(width, overallHeight/7, svg)
     })
 
-    $('svg').addEventListener('mouseleave', () => {
-        highlightMedals()
-    })
+    drawViz(width, overallHeight/7, svg)
 
-    $('svg').addEventListener('mouseenter', () => {
-        unhighlightMedals()
-    })
+    // circles = $$('.hepta-result')
+    // labels = $$('.hepta-result-label')
+    // titles = $$('.hepta-discipline-title')
 
-    highlightMedals()
+    // easeInOut = cubicEasing(150)
+
+    // drawIllus(overallHeight/7, `${config.assetPath}/assets/imgs`, vizDiv)
+
+    // $$('.hepta-voronoi').forEach(function(e) {
+
+    //     let _id = e.getAttribute('data-id')
+
+    // 	e.addEventListener('mouseenter', function(e) {
+    //     	highlight(_id)
+    // 	})
+    //     e.addEventListener('mouseleave', function(e) {
+    //         unhighlight(_id)
+    //     })
+    // })
+
+    // $('svg').addEventListener('mouseleave', () => {
+    //     highlightMedals()
+    // })
+
+    // $('svg').addEventListener('mouseenter', () => {
+    //     unhighlightMedals()
+    // })
+
+    // window.onload = () => highlightMedals()
 
 };

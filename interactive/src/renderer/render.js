@@ -57,6 +57,16 @@ let allResultsByDiscipline = _(entrant)
 
 let athletes = entrant.map(e => e.participant.competitor.identifier)
 
+let athletesDict = _(entrant.map(e => {
+		return [e.participant.competitor.identifier, e.participant.competitor.fullName]
+	}))
+	.fromPairs()
+	.valueOf()
+
+console.log(athletesDict)
+
+fs.writeFileSync('athletes.json', JSON.stringify(athletesDict, null, 2))
+
 let height = 100
 let width = 1024
 
@@ -65,32 +75,32 @@ let margin = 16
 let disciplines = [
 	{
 		'name' : '100m hurdles',
-		'resMapper' : _.identity,
+		'resMapper' : d => d,
 		'format' : (r, arr) => {
 			return 'heya'
 		},
 		'reverseScale' : true
 	},{
 		'name' : 'High jump',
-		'resMapper' : _.identity,
-		'format' : _.identity
+		'resMapper' : d => d,
+		'format' : d => d
 	},{
 		'name' : 'Shot put',
-		'resMapper' : _.identity,
-		'format' : _.identity
+		'resMapper' : d => d,
+		'format' : d => d
 	},{
 		'name' : '200m run',
-		'resMapper' : _.identity,
-		'format' : _.identity,
+		'resMapper' : d => d,
+		'format' : d => d,
 		'reverseScale' : true
 	},{
 		'name' : 'Long jump',
-		'resMapper' : _.identity,
-		'format' : _.identity
+		'resMapper' : d => d,
+		'format' : d => d
 	},{
 		'name' : 'Javelin throw',
-		'resMapper' : _.identity,
-		'format' : _.identity
+		'resMapper' : d => d,
+		'format' : d => d
 	},{
 		'name' : '800m run',
 		'resMapper' : (r) => {
@@ -100,7 +110,7 @@ let disciplines = [
 			}
 			return undefined
 		},
-		'format' : _.identity,
+		'format' : d => d,
 		'reverseScale' : true
 	}
 ]
@@ -181,10 +191,21 @@ disciplines.forEach((d,i) => {
 
 })
 
+let outJson = disciplines.map( (d, i) => {
+	return {
+		'name' : d.name,
+		'resMapper' : d.resMapper,
+		'format' : d.format,
+		'reverseScale' : d.reverseScale,
+		'data' : allResultsByDiscipline[i]
+	}
+})
+
+fs.writeFileSync('results_parsed.json', JSON.stringify(allResultsByDiscipline, null, 2))
+
 let lineGen = d3.line()
 	.x(d => d.x)
 	.y(d => d.y)
-	//.curve(d3.curveCardinal.tension(0.1))
 	.defined(d => d.finished)
 
 let nodes = athletes.map(identifier => {
@@ -229,9 +250,6 @@ lineGroup.selectAll('.hepta-line')
 	.append('path')
 	.attr('d', d => {
 
-		console.log(lineGen(d))
-		//console.log(roundPathCorners(lineGen(d), 10))
-		console.log('--')
 		return roundPathCorners(lineGen(d).replace(/([A-Za-z])/g, ' $1 ').replace(/,/g, ' ').slice(1), 20)
 	})
 	.attr('data-id', d => d[0]._id)
@@ -242,8 +260,6 @@ let voronoi = d3.voronoi()
 	.extent([[0, 0], [width, height*7]])
 	.x(d => d.x)
 	.y(d => d.y)
-
-console.log(`height: ${height}`)
 
 let voronoiNodes = _(svg.selectAll('.hepta-result-group').nodes())
 	.filter(g => g.getAttribute('data-finished'))
@@ -265,7 +281,6 @@ let voronoiNodes = _(svg.selectAll('.hepta-result-group').nodes())
 	)
 	.reverse()
 	.map(x => {
-		console.log(x.medal)
 		return x
 	})
 	.uniqWith((a,b) => {
@@ -274,8 +289,6 @@ let voronoiNodes = _(svg.selectAll('.hepta-result-group').nodes())
 	.valueOf()
 
 let polys = voronoi(voronoiNodes).polygons()
-
-//console.log(polys)
 
 svg.selectAll('.hepta-voronoi')
 	.data(polys)

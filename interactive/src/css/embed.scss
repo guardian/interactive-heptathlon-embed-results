@@ -15,12 +15,20 @@ body {
 .interactive-embed {
 }
 
-svg {
+.hepta-athlete-name {
+	text-align: center;
+}
 
-	border: 1px solid black;
-	box-sizing: border-box;
-	padding-left: 50px;
+.hepta-viz-container {
 	width: 100%;
+	position: relative;
+}
+
+.hepta-svg {
+
+	box-sizing: border-box;
+	padding-left: 0;
+	width: 90%;
 	height: 700px;
 
 	& path, & line {
@@ -33,7 +41,7 @@ svg {
 	fill: #aad8f1;
 
 	&.hepta-hl {
-		stroke: #333;
+		stroke: #bdbdbd;
 		stroke-width: 2px;
 	}
 }
@@ -63,8 +71,6 @@ svg {
 .hepta-illu {
 	position: absolute;
 	left: 0;
-	height: 80px;
-	width: 80px;
 }
 
 .hepta-axis {
@@ -78,10 +84,8 @@ svg {
 
 .hepta-result-label {
 	@include f-textSans;
-	text-anchor: middle;
 }
 
 .hepta-voronoi {
 	fill-opacity: 0;
-	stroke: none;
 }
