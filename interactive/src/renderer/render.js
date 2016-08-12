@@ -55,6 +55,16 @@ let allResultsByDiscipline = _(entrant)
 	})
 	.valueOf()
 
+	allResultsByDiscipline
+	.unshift( entrant.map(e => {
+		return {
+			e : parseEntrant(e),
+			pr : {
+				value : e.value
+			}
+		}
+	}) )
+
 let athletes = entrant.map(e => e.participant.competitor.identifier)
 
 let athletesDict = _(entrant.map(e => {

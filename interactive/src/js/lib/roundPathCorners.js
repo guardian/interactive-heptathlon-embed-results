@@ -4,7 +4,10 @@ export function roundPathCorners(pathString, radius, useFractionalRadius) {
     var height = (targetPoint.y - movingPoint.y);
     
     var distance = Math.sqrt(width*width + height*height);
-    
+
+    while(amount > distance/2 && width > 0){
+       amount -= 1
+    }
     return moveTowardsFractional(movingPoint, targetPoint, Math.min(1, amount / distance));
   }
   function moveTowardsFractional(movingPoint, targetPoint, fraction) {

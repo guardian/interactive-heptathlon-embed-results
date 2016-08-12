@@ -7,6 +7,8 @@ import athletesList from '../renderer/athletesList.json!json'
 let illuOffsets = [0.65, 0.35, 0.85, 0.85,0.7,0.85,0.85]
 let horOffsets = [0, -0.15, 0.25, 0, 0, 0, 0]
 
+let showTotal = true
+
 Array.prototype.flatMap = function (lambda) {
     return Array.prototype.concat.apply([], this.map(lambda))
 }
@@ -43,11 +45,12 @@ let windowWidth = window.innerWidth
 
 let disciplines = [
 
-    // {
-    //     'name' : 'Overall ranking',
-    //     'resMapper' : d => d,
-    //     'format' : d => d
-    // },
+    {
+         'name' : 'Overall ranking',
+         'resMapper' : d => d,
+         'format' : d => d,
+         'total' : true
+    },
     {
         'name' : '100m hurdles',
         'resMapper' : d => d,
@@ -102,6 +105,12 @@ let disciplines = [
     }
 ]
 
+if(!showTotal) {
+    disciplines = disciplines.slice(1)
+}
+
+let dNum = disciplines.length
+
 function $(el, s) {
     if (!s) { s = el; el = document; }
     return el.querySelector(s);
@@ -120,7 +129,10 @@ let drawIllus = (height, path, el) => {
         let img = document.createElement('img')
         img.setAttribute('src', `${path}/heptathlon-0${i+1}.svg`)
         img.setAttribute('class', 'hepta-illu')
-        img.style.top = (i+0.5)*height - offset*illuWidth + 'px'
+
+        let topOffset = disciplines.length === 8 ? height : 0
+
+        img.style.top = margin + (i+0.5)*height + topOffset - offset*illuWidth + 'px'
         img.style.left = horOffsets[i]*illuWidth + 'px'
         img.style.width = illuWidth + 'px'
         img.style.height = illuWidth + 'px'
@@ -278,7 +290,7 @@ let drawDiscipline = (discipline, width, height, offset, svg) => {
 
 
     let nodeGroup = svg.append('g')
-        .attr('class', 'hepta-discipline')
+        .attr('class', discipline.total ? 'hepta-discipline hepta-discipline--total' : 'hepta-discipline')
 
     svg.append('text')
         .text(discipline.name)
@@ -293,11 +305,14 @@ let drawDiscipline = (discipline, width, height, offset, svg) => {
         .domain(extent)
         .range(range)
 
+    console.log(discipline.name)
+    console.log(discipline.data)
+
     let groups = nodeGroup.selectAll('.hepta-result-group')
         .data(discipline.data)
         .enter()
         .append('g')
-        .attr('class', 'hepta-result-group')
+        .attr('class', discipline.total ? 'hepta-result-group hepta-result-group--total' : 'hepta-result-group')
         .attr('data-id', d => d.e.identifier)
         .attr('data-finished', d => d.pr.value)
 
@@ -354,6 +369,7 @@ let drawLines = (width, height, lineGroup, svg) => {
 
     let groups = athletesList.map(a => a._id).map(identifier => {
         return svg.selectAll(`.hepta-result-group[data-id="${identifier}"]`).nodes()
+            .filter(n => !n.classList.contains('hepta-result-group--total'))
             .map(n => {
                 return {
                     _id : n.getAttribute('data-id'),
@@ -405,7 +421,7 @@ let drawLines = (width, height, lineGroup, svg) => {
 
 let drawVoronoi = (width, height, svg) => {
     let voronoi = d3.voronoi()
-        .extent([[0, 0], [width, height*7]])
+        .extent([[0, 0], [width, height*dNum]])
         .x(d => d.x)
         .y(d => d.y)
 
@@ -453,9 +469,18 @@ let drawViz = (width, height, svg) => {
         .append('g')
         .attr('class', 'hepta-lines')
 
+    if(disciplines.length === 8) {
+        svg.append('rect')
+            .attr('class', 'hepta-total-background')
+            .attr('x', margin)
+            .attr('y', margin)
+            .attr('width', width)
+            .attr('height', height)
+    }
+
     disciplines.forEach((d, i) => {
-        d.data = results[i]
-        drawDiscipline(d, width, height, height*i, svg)
+        d.data = disciplines.length === 8 ? results[i] : results[i+1]
+        drawDiscipline(d, width, height, margin + height*i, svg)
      })
     drawLines(width, height, lineGroup, svg)
     drawVoronoi(width, height, svg)
@@ -535,10 +560,10 @@ let drawEverything = (vizDiv, config) => {
         .append('svg')
         .attr('class', 'hepta-svg')
 
-    let overallHeight = 700
+    let overallHeight = 800
     let width = parseFloat(window.getComputedStyle($('.hepta-svg')).width)
     illuWidth = windowWidth < 740 ? 80 : 120
-    drawViz(width, overallHeight/7, svg)
+    drawViz(width, overallHeight/dNum, svg)
 
     circles = $$('.hepta-result')
     labels = $$('.hepta-result-label')
@@ -546,7 +571,7 @@ let drawEverything = (vizDiv, config) => {
 
     easeInOut = cubicEasing(150)
 
-    drawIllus(overallHeight/7, `${config.assetPath}/assets/imgs`, vizDiv)
+    drawIllus(overallHeight/dNum, `${config.assetPath}/assets/imgs`, vizDiv)
 
     $$('.hepta-voronoi').forEach(function(e) {
 
