@@ -8,7 +8,7 @@ let illuOffsets = [1, -22, 15, 15, 7, 15, 15]
 
 Array.prototype.flatMap = function (lambda) {
     return Array.prototype.concat.apply([], this.map(lambda))
-    }
+}
 
 Array.prototype.uniqueWith = function (lambda) {
     return this.filter((e1, i) => {
@@ -36,7 +36,6 @@ let justSecs = (d) => {
     return (d % 60).toFixed(2)
 }
 
-let currentIndex = -1
 let currentId = null
 
 let windowWidth = window.innerWidth
@@ -136,7 +135,7 @@ let start = null
 
 let r = 5
 
-let medalIds = ['7011724']
+let medalIds = [athletesList[0]._id] // highlight just the gold medal
 
 let easeInOut = null
 
@@ -505,10 +504,7 @@ window.init = function init(el, config) {
         highlight(select.value)
     })
 
-    console.log($$('.hepta-viz-container'))
-
     let vizDiv = $('.hepta-viz-container')
-
     window.addEventListener('resize', () => {
 
         let curWidth = window.innerWidth
