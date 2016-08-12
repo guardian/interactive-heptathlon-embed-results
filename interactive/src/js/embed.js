@@ -107,7 +107,7 @@ function $$(el, s) {
 }
 
 
-let illuWidth = 80;
+let illuWidth = 80; // TODO change for desktop
 
 let drawIllus = (height, path, el) => {
     illuOffsets.forEach((offset, i) => {
