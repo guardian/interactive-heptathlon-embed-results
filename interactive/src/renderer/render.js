@@ -66,13 +66,21 @@ let athletesDict = _(entrant.map(e => {
 fs.writeFileSync('athletes.json', JSON.stringify(athletesDict, null, 2))
 
 let athletesList = entrant.map(e => {
+
+	let medalProp = forceArray(e.property).find(p => p.type === 'Medal Awarded')
+	let medal = medalProp ? medalProp.value.toLowerCase() : null
+
 	return {
 		'_id' : e.participant.competitor.identifier,
 		'name' : e.participant.competitor.fullName,
 		'country' : e.country.identifier,
-		'rank' : e.rank
+		'rank' : e.rank,
+		'score' : parseInt(e.value),
+		'medal' : medal
 	} 
 })
+
+console.log(athletesList)
 
 fs.writeFileSync('athletesList.json', JSON.stringify(athletesList, null, 2))
 

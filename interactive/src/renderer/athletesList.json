@@ -3,186 +3,244 @@
     "_id": "7011724",
     "name": "Grit Sadeiko",
     "country": "EST",
-    "rank": "1"
+    "rank": "1",
+    "score": "7352",
+    "medal": "gold"
   },
   {
     "_id": "7011875",
     "name": "Aiga Grabuste",
     "country": "LAT",
-    "rank": "2"
+    "rank": "2",
+    "score": "7011",
+    "medal": "silver"
   },
   {
     "_id": "7013720",
     "name": "Ellen Sprunger",
     "country": "SUI",
-    "rank": "3"
+    "rank": "3",
+    "score": "6909",
+    "medal": "bronze"
   },
   {
     "_id": "7013220",
     "name": "Julia Machtig",
     "country": "GER",
-    "rank": "4"
+    "rank": "4",
+    "score": "6783",
+    "medal": null
   },
   {
     "_id": "7010180",
     "name": "Tatyana Chernova",
     "country": "RUS",
-    "rank": "5"
+    "rank": "5",
+    "score": "6578",
+    "medal": null
   },
   {
     "_id": "7010559",
     "name": "Yana Maksimava",
     "country": "BLR",
-    "rank": "6"
+    "rank": "6",
+    "score": "6565",
+    "medal": null
   },
   {
     "_id": "7013233",
     "name": "Jennifer Oeser",
     "country": "GER",
-    "rank": "7"
+    "rank": "7",
+    "score": "6543",
+    "medal": null
   },
   {
     "_id": "7011463",
     "name": "Jessica Zelinka",
     "country": "CAN",
-    "rank": "8"
+    "rank": "8",
+    "score": "6524",
+    "medal": null
   },
   {
     "_id": "7014620",
     "name": "Ivona Dadic",
     "country": "AUT",
-    "rank": "9"
+    "rank": "9",
+    "score": "6491",
+    "medal": null
   },
   {
     "_id": "7010962",
     "name": "Gyorgyi Farkas",
     "country": "HUN",
-    "rank": "10"
+    "rank": "10",
+    "score": "6276",
+    "medal": null
   },
   {
     "_id": "7011148",
     "name": "Karolina Tyminska",
     "country": "POL",
-    "rank": "11"
+    "rank": "11",
+    "score": "6189",
+    "medal": null
   },
   {
     "_id": "7011135",
     "name": "Jessica Samuel",
     "country": "SWE",
-    "rank": "12"
+    "rank": "12",
+    "score": "6030",
+    "medal": null
   },
   {
     "_id": "7014453",
     "name": "Uhunoma Osazuwa",
     "country": "NGR",
-    "rank": "13"
+    "rank": "13",
+    "score": "6012",
+    "medal": null
   },
   {
     "_id": "7013076",
     "name": "Dafne Schippers",
     "country": "NED",
-    "rank": "14"
+    "rank": "14",
+    "score": "5929",
+    "medal": null
   },
   {
     "_id": "7013061",
     "name": "Nadine Broersen",
     "country": "NED",
-    "rank": "15"
+    "rank": "15",
+    "score": "5907",
+    "medal": null
   },
   {
     "_id": "7010091",
     "name": "Olga Kurban",
     "country": "RUS",
-    "rank": "16"
+    "rank": "16",
+    "score": "5892",
+    "medal": null
   },
   {
     "_id": "7013253",
     "name": "Lilli Schwarzkopf",
     "country": "GER",
-    "rank": "17"
+    "rank": "17",
+    "score": "5892",
+    "medal": null
   },
   {
     "_id": "7014426",
     "name": "Chantae McMillan",
     "country": "USA",
-    "rank": "18"
+    "rank": "18",
+    "score": "5876",
+    "medal": null
   },
   {
     "_id": "7012273",
     "name": "Lyudmyla Yosypenko",
     "country": "UKR",
-    "rank": "19"
+    "rank": "19",
+    "score": "5826",
+    "medal": null
   },
   {
     "_id": "7012137",
     "name": "Louise Hazel",
     "country": "GBR",
-    "rank": "20"
+    "rank": "20",
+    "score": "5661",
+    "medal": null
   },
   {
     "_id": "7011886",
     "name": "Laura Ikauniece",
     "country": "LAT",
-    "rank": "21"
+    "rank": "21",
+    "score": "5633",
+    "medal": null
   },
   {
     "_id": "7013332",
     "name": "Marisa de Aniceto",
     "country": "FRA",
-    "rank": "22"
+    "rank": "22",
+    "score": "5550",
+    "medal": null
   },
   {
     "_id": "7013840",
     "name": "Hyleas Fountain",
     "country": "USA",
-    "rank": "23"
+    "rank": "23",
+    "score": "5530",
+    "medal": null
   },
   {
     "_id": "7013899",
     "name": "Sharon Day",
     "country": "USA",
-    "rank": "24"
+    "rank": "24",
+    "score": "5529",
+    "medal": null
   },
   {
     "_id": "7011387",
     "name": "Hanna Melnychenko",
     "country": "UKR",
-    "rank": "25"
+    "rank": "25",
+    "score": "5505",
+    "medal": null
   },
   {
     "_id": "7013693",
     "name": "Katarina Johnson-Thompson",
     "country": "GBR",
-    "rank": "26"
+    "rank": "26",
+    "score": "4898",
+    "medal": null
   },
   {
     "_id": "7012863",
     "name": "Eliska Klucinova",
-    "country": "CZE"
+    "country": "CZE",
+    "medal": null
   },
   {
     "_id": "7012025",
     "name": "Margaret Simpson",
-    "country": "GHA"
+    "country": "GHA",
+    "medal": null
   },
   {
     "_id": "7012132",
     "name": "Jessica Ennis",
-    "country": "GBR"
+    "country": "GBR",
+    "medal": null
   },
   {
     "_id": "7013358",
     "name": "Antoinette Nana Djimou Ida",
-    "country": "FRA"
+    "country": "FRA",
+    "medal": null
   },
   {
     "_id": "7010219",
     "name": "Kristina Savitskaya",
-    "country": "RUS"
+    "country": "RUS",
+    "medal": null
   },
   {
     "_id": "7011460",
     "name": "Brianne Theisen",
-    "country": "CAN"
+    "country": "CAN",
+    "medal": null
   }
 ]

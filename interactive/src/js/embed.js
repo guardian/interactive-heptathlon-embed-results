@@ -37,6 +37,9 @@ let justSecs = (d) => {
 }
 
 let currentIndex = -1
+let currentId = null
+
+let windowWidth = window.innerWidth
 
 let disciplines = [
     {
@@ -133,7 +136,7 @@ let start = null
 
 let r = 5
 
-let medalIds = [0]
+let medalIds = ['7011724']
 
 let easeInOut = null
 
@@ -183,83 +186,76 @@ function shrink(circles, _id, ts) {
     }
 }
 
-let highlight = (i) => {
+let highlight = (_id, redrawn) => {
 
-    if(i !== currentIndex){
-        let athlete = athletesList[i]
-        if(athlete){
-            unhighlight(currentIndex)
-            currentIndex = i
-            let _id = athlete._id
-
-            $(`.hepta-line[data-id="${_id}"]`).classList.remove('hepta-hidden')
-
-            d3.selectAll('.hepta-result-group')
-                .sort((a, b) => {
-
-                    let cmp = [_id].indexOf(a.e.identifier) - [_id].indexOf(b.e.identifier)
-
-                    return cmp !== 0 ?
-                        cmp :
-                        ['bronze', 'silver', 'gold'].indexOf(a.e.medal) - ['bronze', 'silver', 'gold'].indexOf(b.e.medal)
-                })
-
-            let circles = $$(`.hepta-result-group[data-id="${_id}"] circle`)
-            let labels = $$(`.hepta-result-group[data-id="${_id}"] text`)
-
-            let rank = athlete.rank ? athlete.rank + '.' : ''
-
-            $('.hepta-athlete-name').innerHTML = `${rank} ${athlete.name} (${athlete.country})`
-
-            window.requestAnimationFrame(ts => {
-                grow(circles, _id, ts)
-            })
-
-            circles.forEach(c => {
-                c.classList.add('hepta-hl')
-            })
-            labels.forEach(l => {
-                l.classList.remove('hepta-hidden')
-            })
-
-            $$('.hepta-button').forEach(b => b.classList.remove('hepta-hidden'))
-
-            if(!athletesList[i+1]){
-                $('.hepta-button-left').classList.add('hepta-hidden')
-            }
-            if(!athletesList[i-1]){
-                $('.hepta-button-right').classList.add('hepta-hidden')
-            }
+    if(_id !== currentId || redrawn ){
+        if(currentId !== null){
+            unhighlight(currentId)
         }
-    }
-}
 
-let unhighlight = (i) => {
+        currentId = _id
+        let athlete = athletesList.find(a => a._id === _id)
 
-    let athlete = athletesList[i]
+        $('.hepta-select').selectedIndex = athletesList.findIndex(a => a._id === _id)
 
-    if(athlete){
-        let _id = athlete._id
+        $('.hepta-select').className = athlete.medal ?
+            `hepta-select hepta-select--${athlete.medal}` : 'hepta-select'
 
-        $(`.hepta-line[data-id="${_id}"`).classList.add('hepta-hidden')
+        $(`.hepta-tr[data-id="${_id}"]`).classList.add('hepta-hl')
+
+        $(`.hepta-line[data-id="${_id}"]`).classList.remove('hepta-hidden')
+
+        d3.selectAll('.hepta-result-group')
+            .sort((a, b) => {
+
+                let cmp = [_id].indexOf(a.e.identifier) - [_id].indexOf(b.e.identifier)
+
+                return cmp !== 0 ?
+                    cmp :
+                    ['bronze', 'silver', 'gold'].indexOf(a.e.medal) - ['bronze', 'silver', 'gold'].indexOf(b.e.medal)
+            })
+
         let circles = $$(`.hepta-result-group[data-id="${_id}"] circle`)
         let labels = $$(`.hepta-result-group[data-id="${_id}"] text`)
 
+        let rank = athlete.rank ? athlete.rank + '.' : ''
+
+        //$('.hepta-athlete-name').innerHTML = `${rank} ${athlete.name} (${athlete.country})`
+
         window.requestAnimationFrame(ts => {
-            shrink(circles, _id, ts)
+            grow(circles, _id, ts)
         })
+
         circles.forEach(c => {
-            c.classList.remove('hepta-hl')
+            c.classList.add('hepta-hl')
         })
         labels.forEach(l => {
-            l.classList.add('hepta-hidden')
+            l.classList.remove('hepta-hidden')
         })
     }
 }
 
+let unhighlight = (_id) => {
+
+    $(`.hepta-tr[data-id="${_id}"]`).classList.remove('hepta-hl')
+    $(`.hepta-line[data-id="${_id}"`).classList.add('hepta-hidden')
+    let circles = $$(`.hepta-result-group[data-id="${_id}"] circle`)
+    let labels = $$(`.hepta-result-group[data-id="${_id}"] text`)
+
+    window.requestAnimationFrame(ts => {
+        shrink(circles, _id, ts)
+    })
+    circles.forEach(c => {
+        c.classList.remove('hepta-hl')
+    })
+    labels.forEach(l => {
+        l.classList.add('hepta-hidden')
+    })
+}
+
 let highlightMedals = () => {
-    medalIds.forEach( i => {
-        highlight(i)
+    medalIds.forEach( _id => {
+        highlight(_id, true)
     })
 }
 
@@ -277,7 +273,7 @@ let drawDiscipline = (discipline, width, height, offset, svg) => {
     let nodeGroup = svg.append('g')
         .attr('class', 'hepta-discipline')
 
-    svg.append('g')
+    svg.append('text')
         .text(discipline.name)
         .attr('y', offset + height/2 - 16)
         .attr('x', illuWidth + 4)
@@ -465,34 +461,63 @@ window.init = function init(el, config) {
 
     let topDiv = document.createElement('div')
     topDiv.classList.add('hepta-top')
-    let goLeft = document.createElement('div')
-    goLeft.className = 'hepta-button hepta-button-left'
-    let goRight = document.createElement('div')
-    goRight.className = 'hepta-button hepta-button-right'
+
     let athleteName = document.createElement('h2')
     athleteName.classList.add('hepta-athlete-name')
 
-    goLeft.addEventListener('click', () => {
-        highlight(currentIndex+1)
+    let select = $('.hepta-select')
+    let tbody = $('.hepta-tbody')
+
+    athletesList.forEach(a => {
+
+        // table (desktop)
+
+        let tr = document.createElement('tr')
+        tr.className = a.medal ? `hepta-tr hepta-tr--${a.medal}` : 'hepta-tr'
+        tr.setAttribute('data-id', a._id)
+        let rank = document.createElement('td')
+        rank.className = 'hepta-td--rank'
+        let name = document.createElement('td')
+        name.className = 'hepta-td--athlete'
+        let score = document.createElement('td')
+        score.className = 'hepta-td--score'
+        score.innerHTML = a.score ? a.score : '-'
+        rank.innerHTML = a.rank ? a.rank + '.' : 'DNF'
+        name.innerHTML = `${a.name} (${a.country})`
+        tr.appendChild(rank)
+        tr.appendChild(name)
+        tr.appendChild(score)
+        tr.addEventListener('mouseenter', function(e) {
+            highlight(a._id)
+        })
+        tbody.appendChild(tr)
+
+        //select (mobile)
+
+        let o = document.createElement('option')
+        o.setAttribute('value', a._id)
+        o.className = a.medal ? `hepta-option hepta-option--${a.medal}` : 'hepta-option'
+        o.innerHTML = a.rank ? a.rank + '. ' + `${a.name} (${a.country})` : `${a.name} (${a.country})`
+        select.appendChild(o)
     })
-    goRight.addEventListener('click', () => {
-        highlight(currentIndex-1)
+
+    select.addEventListener('change', () => {
+        highlight(select.value)
     })
 
+    console.log($$('.hepta-viz-container'))
 
-    topDiv.appendChild(goLeft)
-    topDiv.appendChild(athleteName)
-    topDiv.appendChild(goRight)
+    let vizDiv = $('.hepta-viz-container')
 
-    let vizDiv = document.createElement('div')
-    vizDiv.classList.add('hepta-viz-container')
-    el.appendChild(topDiv)
-    el.appendChild(vizDiv)
+    window.addEventListener('resize', () => {
 
-    window.addEventListener('orientationchange', () => {
-        $('.hepta-viz-container').innerHTML = ''
-        drawEverything(vizDiv, config)
-        highlightMedals()
+        let curWidth = window.innerWidth
+        if(Math.abs(curWidth-windowWidth) > 50) {
+            windowWidth = curWidth
+            $('.hepta-viz-container').innerHTML = ''
+            drawEverything(vizDiv, config)
+            highlightMedals()
+        }
     })
     window.addEventListener('load', () => {
         drawEverything(vizDiv, config)
@@ -507,9 +532,7 @@ let drawEverything = (vizDiv, config) => {
         .attr('class', 'hepta-svg')
 
     let overallHeight = 700
-
-    let width = window.innerWidth*0.9
-
+    let width = parseFloat(window.getComputedStyle($('.hepta-svg')).width)
     drawViz(width, overallHeight/7, svg)
 
     circles = $$('.hepta-result')
@@ -522,14 +545,11 @@ let drawEverything = (vizDiv, config) => {
 
     $$('.hepta-voronoi').forEach(function(e) {
 
-        let i = athletesList.findIndex(a => a._id === e.getAttribute('data-id'))
+        let _id = e.getAttribute('data-id')
 
         e.addEventListener('mouseenter', function(e) {
-            highlight(i)
+            highlight(_id)
         })
     })
 
-    $('svg').addEventListener('mouseleave', () => {
-        highlightMedals()
-    })
 }

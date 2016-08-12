@@ -6,7 +6,24 @@
     <link rel="stylesheet" type="text/css" href="<%= assetPath %>/embed.css" />
 </head>
 <body>
-    <div class="interactive-embed js-interactive"></div>
+    <div class="interactive-embed js-interactive">
+    
+        <select class='hepta-select'>
+        </select>
+
+        <div class='hepta-viz-container'>
+        </div>
+        <table class='hepta-table'>
+        <thead>
+            <tr>
+                <th>Rank</th><th>Athlete</th><th>Score</th>
+            </tr>
+        </thead>
+            <tbody class='hepta-tbody'>
+            </tbody>
+        </table>
+
+    </div>
     <script src="<%= assetPath %>/embed.js"></script>
     <script>
         init(document.querySelector('.js-interactive'), {'assetPath': '<%= assetPath %>'});
