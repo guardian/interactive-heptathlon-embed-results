@@ -4,7 +4,8 @@ import * as d3 from './lib/d3'
 import { roundPathCorners } from './lib/roundPathCorners'
 import athletesList from '../renderer/athletesList.json!json'
 
-let illuOffsets = [1, -22, 15, 15, 7, 15, 15]
+let illuOffsets = [0.65, 0.35, 0.85, 0.85,0.7,0.85,0.85]
+let horOffsets = [0, -0.15, 0.25, 0, 0, 0, 0]
 
 Array.prototype.flatMap = function (lambda) {
     return Array.prototype.concat.apply([], this.map(lambda))
@@ -41,6 +42,12 @@ let currentId = null
 let windowWidth = window.innerWidth
 
 let disciplines = [
+
+    // {
+    //     'name' : 'Overall ranking',
+    //     'resMapper' : d => d,
+    //     'format' : d => d
+    // },
     {
         'name' : '100m hurdles',
         'resMapper' : d => d,
@@ -106,14 +113,15 @@ function $$(el, s) {
 }
 
 
-let illuWidth = 80; // TODO change for desktop
+let illuWidth = null
 
 let drawIllus = (height, path, el) => {
     illuOffsets.forEach((offset, i) => {
         let img = document.createElement('img')
         img.setAttribute('src', `${path}/heptathlon-0${i+1}.svg`)
         img.setAttribute('class', 'hepta-illu')
-        img.style.top = i*height - offset + 'px'
+        img.style.top = (i+0.5)*height - offset*illuWidth + 'px'
+        img.style.left = horOffsets[i]*illuWidth + 'px'
         img.style.width = illuWidth + 'px'
         img.style.height = illuWidth + 'px'
         el.appendChild(img)
@@ -529,6 +537,7 @@ let drawEverything = (vizDiv, config) => {
 
     let overallHeight = 700
     let width = parseFloat(window.getComputedStyle($('.hepta-svg')).width)
+    illuWidth = windowWidth < 740 ? 80 : 120
     drawViz(width, overallHeight/7, svg)
 
     circles = $$('.hepta-result')
