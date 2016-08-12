@@ -16,6 +16,7 @@ let parseEntrant = e => {
 
 	return {
 		name : e.participant.competitor.fullName,
+		country : e.country.identifier,
 		identifier : e.participant.competitor.identifier,
 		medal : medal
 	}

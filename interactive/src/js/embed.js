@@ -48,7 +48,7 @@ let disciplines = [
     {
          'name' : 'Overall ranking',
          'resMapper' : d => d,
-         'format' : d => d,
+         'format' : d => d + ' pts.',
          'total' : true
     },
     {
@@ -342,6 +342,10 @@ let drawDiscipline = (discipline, width, height, offset, svg) => {
         .append('text')
         .attr('class', 'hepta-result-label hepta-hidden')
         .text( (d) => {
+
+            if(discipline.total){
+                return `${d.e.name} (${d.e.country})`
+            }
             return discipline.format(d.pr.value, discipline.data.map(d => d.pr.value))
         })
         .attr('x', d => {
