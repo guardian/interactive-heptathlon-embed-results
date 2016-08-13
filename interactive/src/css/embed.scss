@@ -39,6 +39,27 @@ body {
     }
 }
 
+.hepta-table-medal {
+    display: inline-block;
+    margin-top: 5px;
+    width: 10px;
+    height: 10px;
+    border-radius: 6px;
+    background-color: red;
+
+    &.hepta-medal--gold {
+        background-color: $gold;
+    }
+
+    &.hepta-medal--silver {
+        background-color: $silver;
+    }
+
+    &.hepta-medal--bronze {
+        background-color: $bronze;
+    }
+}
+
 .hepta-td--rank {
     text-align: right;
     padding-right: 8px;
@@ -94,6 +115,8 @@ body {
 }
 
 .hepta-tr {
+
+    height: 20px;
 
     opacity: 0.2;
 

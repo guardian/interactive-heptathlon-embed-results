@@ -217,7 +217,8 @@ let highlight = (_id, redrawn) => {
 
         $(`.hepta-line[data-id="${_id}"]`).classList.remove('hepta-hidden')
 
-        d3.selectAll('.hepta-result-group')
+        $$(`.hepta-discipline`).forEach(d => {
+            d3.select(d).selectAll('.hepta-result-group')
             .sort((a, b) => {
 
                 let cmp = [_id].indexOf(a.e.identifier) - [_id].indexOf(b.e.identifier)
@@ -227,12 +228,12 @@ let highlight = (_id, redrawn) => {
                     ['bronze', 'silver', 'gold'].indexOf(a.e.medal) - ['bronze', 'silver', 'gold'].indexOf(b.e.medal)
             })
 
+        })
+
         let circles = $$(`.hepta-result-group[data-id="${_id}"] circle`)
         let labels = $$(`.hepta-result-group[data-id="${_id}"] text`)
 
         let rank = athlete.rank ? athlete.rank + '.' : ''
-
-        //$('.hepta-athlete-name').innerHTML = `${rank} ${athlete.name} (${athlete.country})`
 
         window.requestAnimationFrame(ts => {
             grow(circles, _id, ts)
@@ -273,23 +274,16 @@ let highlightMedals = () => {
 
 let drawDiscipline = (discipline, width, height, offset, svg) => {
 
-    svg
+    let nodeGroup = svg.append('g')
+        .attr('class', discipline.total ? 'hepta-discipline hepta-discipline--total' : 'hepta-discipline')
+
+    nodeGroup
         .append('line')
         .attr('x1', margin)
         .attr('x2', width - margin)
         .attr('y1', offset + height/2)
         .attr('y2', offset + height/2)
         .attr('class', 'hepta-axis')
-
-
-    let nodeGroup = svg.append('g')
-        .attr('class', discipline.total ? 'hepta-discipline hepta-discipline--total' : 'hepta-discipline')
-
-    svg.append('text')
-        .text(discipline.name)
-        .attr('y', offset + height/2 - 8)
-        .attr('x', 15)
-        .attr('class', 'hepta-discipline-title')
 
     let extent = d3.extent(discipline.data.map(r => discipline.resMapper(r.pr.value)))
     let range = discipline.reverseScale ? [width-margin, margin+illuWidth] : [margin+illuWidth, width-margin] 
@@ -298,8 +292,7 @@ let drawDiscipline = (discipline, width, height, offset, svg) => {
         .domain(extent)
         .range(range)
 
-    console.log(discipline.name)
-    console.log(discipline.data)
+    console.log(nodeGroup.node())
 
     let groups = nodeGroup.selectAll('.hepta-result-group')
         .data(discipline.data)
@@ -354,6 +347,12 @@ let drawDiscipline = (discipline, width, height, offset, svg) => {
         })
 
         .attr('y', offset + height/2 + 32)
+
+    nodeGroup.append('text')
+        .text(discipline.name)
+        .attr('y', offset + height/2 - 8)
+        .attr('x', 15)
+        .attr('class', 'hepta-discipline-title')
 
 }
 
@@ -511,7 +510,10 @@ window.init = function init(el, config) {
         let score = document.createElement('td')
         score.className = 'hepta-td--score'
         score.innerHTML = a.score ? a.score : '-'
-        rank.innerHTML = a.rank ? a.rank + '.' : 'DNF'
+
+        rank.innerHTML = a.medal ? 
+            `<span class='hepta-table-medal hepta-medal--${a.medal}'></span>`:
+            (a.rank ? a.rank + '.' : 'DNF')
         name.innerHTML = `${a.name} (${a.country})`
         tr.appendChild(rank)
         tr.appendChild(name)
