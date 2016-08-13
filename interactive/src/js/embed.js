@@ -294,8 +294,8 @@ let drawDiscipline = (discipline, width, height, offset, svg) => {
 
     svg.append('text')
         .text(discipline.name)
-        .attr('y', offset + height/2 - 16)
-        .attr('x', illuWidth + 4)
+        .attr('y', offset + height/2 - 8)
+        .attr('x', 15)
         .attr('class', 'hepta-discipline-title')
 
     let extent = d3.extent(discipline.data.map(r => discipline.resMapper(r.pr.value)))
@@ -575,7 +575,7 @@ let drawEverything = (vizDiv, config) => {
 
     easeInOut = cubicEasing(150)
 
-    drawIllus(overallHeight/dNum, `${config.assetPath}/assets/imgs`, vizDiv)
+    // drawIllus(overallHeight/dNum, `${config.assetPath}/assets/imgs`, vizDiv)
 
     $$('.hepta-voronoi').forEach(function(e) {
 
