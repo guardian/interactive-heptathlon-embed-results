@@ -101,15 +101,15 @@ body {
 
         opacity: 1;
 
-        background-color: $lightblue;
+        background-color: rgba($lightblue, 0.4);
         &.hepta-tr--gold {
-            background-color: $gold;
+            background-color: rgba($gold, 0.4);
         }
         &.hepta-tr--silver {
-            background-color: $silver;
+            background-color: rgba($silver, 0.4);
         }
         &.hepta-tr--bronze {
-            background-color: $bronze;
+            background-color: rgba($bronze, 0.4);
         }
     }
 }

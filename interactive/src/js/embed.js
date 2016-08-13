@@ -44,13 +44,6 @@ let currentId = null
 let windowWidth = window.innerWidth
 
 let disciplines = [
-
-    {
-         'name' : 'Overall ranking',
-         'resMapper' : d => d,
-         'format' : d => d + ' pts.',
-         'total' : true
-    },
     {
         'name' : '100m hurdles',
         'resMapper' : d => d,
