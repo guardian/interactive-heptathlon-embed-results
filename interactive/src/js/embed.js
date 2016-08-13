@@ -504,11 +504,11 @@ window.init = function init(el, config) {
         tr.className = a.medal ? `hepta-tr hepta-tr--${a.medal}` : 'hepta-tr'
         tr.setAttribute('data-id', a._id)
         let rank = document.createElement('td')
-        rank.className = 'hepta-td--rank'
+        rank.className = 'hepta-td hepta-td--rank'
         let name = document.createElement('td')
-        name.className = 'hepta-td--athlete'
+        name.className = 'hepta-td hepta-td--athlete'
         let score = document.createElement('td')
-        score.className = 'hepta-td--score'
+        score.className = 'hepta-td hepta-td--score'
         score.innerHTML = a.score ? a.score : '-'
 
         rank.innerHTML = a.medal ? 
