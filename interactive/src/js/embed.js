@@ -4,11 +4,6 @@ import * as d3 from './lib/d3'
 import { roundPathCorners } from './lib/roundPathCorners'
 import athletesList from '../renderer/athletesList.json!json'
 
-let illuOffsets = [0.65, 0.35, 0.85, 0.85,0.7,0.85,0.85]
-let horOffsets = [0, -0.15, 0.25, 0, 0, 0, 0]
-
-let showTotal = true
-
 Array.prototype.flatMap = function (lambda) {
     return Array.prototype.concat.apply([], this.map(lambda))
 }
@@ -98,12 +93,6 @@ let disciplines = [
     }
 ]
 
-if(!showTotal) {
-    disciplines = disciplines.slice(1)
-}
-
-let dNum = disciplines.length
-
 function $(el, s) {
     if (!s) { s = el; el = document; }
     return el.querySelector(s);
@@ -130,7 +119,7 @@ let anims = {}
 
 let start = null
 
-let r = 5
+let r = 4
 
 let medalIds = [athletesList[0]._id] // highlight just the gold medal
 
@@ -352,7 +341,7 @@ let drawDiscipline = (discipline, width, height, offset, svg) => {
         .attr('text-anchor', d => {
 
             if(discipline.name === '800m run' &&
-            Math.abs(yScale(discipline.resMapper(d.pr.value)) - width/2)/width < 0.3) {
+            Math.abs(yScale(discipline.resMapper(d.pr.value)) - width/2)/width < 0.25) {
                 return 'middle'
             }
 
@@ -430,7 +419,7 @@ let drawLines = (width, height, lineGroup, svg) => {
 
 let drawVoronoi = (width, height, svg) => {
     let voronoi = d3.voronoi()
-        .extent([[0, 0], [width, height*dNum]])
+        .extent([[0, 0], [width, height*7]])
         .x(d => d.x)
         .y(d => d.y)
 
@@ -566,7 +555,7 @@ let drawEverything = (vizDiv, config) => {
     let overallHeight = 735
     let width = parseFloat(window.getComputedStyle($('.hepta-svg')).width)
     illuWidth = windowWidth < 740 ? 80 : 120
-    drawViz(width, overallHeight/dNum, svg)
+    drawViz(width, overallHeight/7, svg)
 
     circles = $$('.hepta-result')
     labels = $$('.hepta-result-label')

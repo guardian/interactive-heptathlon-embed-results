@@ -8,19 +8,7 @@
         "medal": null
       },
       "pr": {
-        "order": "31",
-        "identifier": "ATW700A",
-        "code": "A",
-        "property": [
-          {
-            "type": "Invalid Result Mark",
-            "value": "Did Not Finish"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "+0.3"
-          }
-        ]
+        "identifier": "ATW700A"
       }
     },
     {
@@ -31,21 +19,8 @@
         "medal": null
       },
       "pr": {
-        "order": "30",
         "identifier": "ATW700A",
-        "code": "A",
-        "rank": "30",
-        "value": "15.21",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Time"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "-0.2"
-          }
-        ]
+        "value": "15.21"
       }
     },
     {
@@ -56,21 +31,8 @@
         "medal": null
       },
       "pr": {
-        "order": "29",
         "identifier": "ATW700A",
-        "code": "A",
-        "rank": "29",
-        "value": "14.24",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Time"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "-0.2"
-          }
-        ]
+        "value": "14.24"
       }
     },
     {
@@ -81,21 +43,8 @@
         "medal": null
       },
       "pr": {
-        "order": "28",
         "identifier": "ATW700A",
-        "code": "A",
-        "rank": "28",
-        "value": "14.10",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Time"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "-0.2"
-          }
-        ]
+        "value": "14.10"
       }
     },
     {
@@ -106,21 +55,8 @@
         "medal": null
       },
       "pr": {
-        "order": "27",
         "identifier": "ATW700A",
-        "code": "A",
-        "rank": "26",
-        "value": "14.07",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Time"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "-0.2"
-          }
-        ]
+        "value": "14.07"
       }
     },
     {
@@ -131,21 +67,8 @@
         "medal": null
       },
       "pr": {
-        "order": "26",
         "identifier": "ATW700A",
-        "code": "A",
-        "rank": "26",
-        "value": "14.07",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Time"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "+0.3"
-          }
-        ]
+        "value": "14.07"
       }
     },
     {
@@ -156,21 +79,8 @@
         "medal": null
       },
       "pr": {
-        "order": "25",
         "identifier": "ATW700A",
-        "code": "A",
-        "rank": "25",
-        "value": "13.99",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Time"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "+0.3"
-          }
-        ]
+        "value": "13.99"
       }
     },
     {
@@ -181,21 +91,8 @@
         "medal": null
       },
       "pr": {
-        "order": "23",
         "identifier": "ATW700A",
-        "code": "A",
-        "rank": "23",
-        "value": "13.84",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Time"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "-0.2"
-          }
-        ]
+        "value": "13.84"
       }
     },
     {
@@ -206,21 +103,8 @@
         "medal": null
       },
       "pr": {
-        "order": "24",
         "identifier": "ATW700A",
-        "code": "A",
-        "rank": "23",
-        "value": "13.84",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Time"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "-0.2"
-          }
-        ]
+        "value": "13.84"
       }
     },
     {
@@ -231,21 +115,8 @@
         "medal": null
       },
       "pr": {
-        "order": "22",
         "identifier": "ATW700A",
-        "code": "A",
-        "rank": "22",
-        "value": "13.81",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Time"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "+0.3"
-          }
-        ]
+        "value": "13.81"
       }
     },
     {
@@ -256,21 +127,8 @@
         "medal": null
       },
       "pr": {
-        "order": "21",
         "identifier": "ATW700A",
-        "code": "A",
-        "rank": "21",
-        "value": "13.79",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Time"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "-0.2"
-          }
-        ]
+        "value": "13.79"
       }
     },
     {
@@ -281,21 +139,8 @@
         "medal": null
       },
       "pr": {
-        "order": "20",
         "identifier": "ATW700A",
-        "code": "A",
-        "rank": "20",
-        "value": "13.75",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Time"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "-0.3"
-          }
-        ]
+        "value": "13.75"
       }
     },
     {
@@ -306,21 +151,8 @@
         "medal": null
       },
       "pr": {
-        "order": "19",
         "identifier": "ATW700A",
-        "code": "A",
-        "rank": "19",
-        "value": "13.69",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Time"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "+0.3"
-          }
-        ]
+        "value": "13.69"
       }
     },
     {
@@ -331,21 +163,8 @@
         "medal": null
       },
       "pr": {
-        "order": "18",
         "identifier": "ATW700A",
-        "code": "A",
-        "rank": "17",
-        "value": "13.66",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Time"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "-0.3"
-          }
-        ]
+        "value": "13.66"
       }
     },
     {
@@ -356,21 +175,8 @@
         "medal": null
       },
       "pr": {
-        "order": "17",
         "identifier": "ATW700A",
-        "code": "A",
-        "rank": "17",
-        "value": "13.66",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Time"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "-0.3"
-          }
-        ]
+        "value": "13.66"
       }
     },
     {
@@ -381,21 +187,8 @@
         "medal": null
       },
       "pr": {
-        "order": "16",
         "identifier": "ATW700A",
-        "code": "A",
-        "rank": "16",
-        "value": "13.63",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Time"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "-0.3"
-          }
-        ]
+        "value": "13.63"
       }
     },
     {
@@ -406,21 +199,8 @@
         "medal": null
       },
       "pr": {
-        "order": "15",
         "identifier": "ATW700A",
-        "code": "A",
-        "rank": "15",
-        "value": "13.61",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Time"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "-0.3"
-          }
-        ]
+        "value": "13.61"
       }
     },
     {
@@ -431,21 +211,8 @@
         "medal": null
       },
       "pr": {
-        "order": "12",
         "identifier": "ATW700A",
-        "code": "A",
-        "rank": "12",
-        "value": "13.56",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Time"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "+0.3"
-          }
-        ]
+        "value": "13.56"
       }
     },
     {
@@ -456,21 +223,8 @@
         "medal": null
       },
       "pr": {
-        "order": "13",
         "identifier": "ATW700A",
-        "code": "A",
-        "rank": "12",
-        "value": "13.56",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Time"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "-0.3"
-          }
-        ]
+        "value": "13.56"
       }
     },
     {
@@ -481,21 +235,8 @@
         "medal": null
       },
       "pr": {
-        "order": "11",
         "identifier": "ATW700A",
-        "code": "A",
-        "rank": "11",
-        "value": "13.48",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Time"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "-0.3"
-          }
-        ]
+        "value": "13.48"
       }
     },
     {
@@ -506,21 +247,8 @@
         "medal": null
       },
       "pr": {
-        "order": "10",
         "identifier": "ATW700A",
-        "code": "A",
-        "rank": "10",
-        "value": "13.47",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Time"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "-0.3"
-          }
-        ]
+        "value": "13.47"
       }
     },
     {
@@ -531,15 +259,8 @@
         "medal": null
       },
       "pr": {
-        "order": "9",
         "identifier": "ATW700A",
-        "code": "A",
-        "rank": "9",
-        "value": "13.37",
-        "property": {
-          "type": "Result Type",
-          "value": "Time"
-        }
+        "value": "13.37"
       }
     },
     {
@@ -550,21 +271,8 @@
         "medal": null
       },
       "pr": {
-        "order": "8",
         "identifier": "ATW700A",
-        "code": "A",
-        "rank": "8",
-        "value": "13.33",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Time"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "+0.3"
-          }
-        ]
+        "value": "13.33"
       }
     },
     {
@@ -575,15 +283,8 @@
         "medal": null
       },
       "pr": {
-        "order": "7",
         "identifier": "ATW700A",
-        "code": "A",
-        "rank": "7",
-        "value": "13.19",
-        "property": {
-          "type": "Result Type",
-          "value": "Time"
-        }
+        "value": "13.19"
       }
     },
     {
@@ -594,15 +295,8 @@
         "medal": null
       },
       "pr": {
-        "order": "5",
         "identifier": "ATW700A",
-        "code": "A",
-        "rank": "5",
-        "value": "13.12",
-        "property": {
-          "type": "Result Type",
-          "value": "Time"
-        }
+        "value": "13.12"
       }
     },
     {
@@ -613,15 +307,8 @@
         "medal": null
       },
       "pr": {
-        "order": "4",
         "identifier": "ATW700A",
-        "code": "A",
-        "rank": "4",
-        "value": "13.04",
-        "property": {
-          "type": "Result Type",
-          "value": "Time"
-        }
+        "value": "13.04"
       }
     },
     {
@@ -632,15 +319,8 @@
         "medal": null
       },
       "pr": {
-        "order": "3",
         "identifier": "ATW700A",
-        "code": "A",
-        "rank": "3",
-        "value": "13.02",
-        "property": {
-          "type": "Result Type",
-          "value": "Time"
-        }
+        "value": "13.02"
       }
     },
     {
@@ -651,15 +331,8 @@
         "medal": null
       },
       "pr": {
-        "order": "2",
         "identifier": "ATW700A",
-        "code": "A",
-        "rank": "2",
-        "value": "13.00",
-        "property": {
-          "type": "Result Type",
-          "value": "Time"
-        }
+        "value": "13.00"
       }
     },
     {
@@ -670,15 +343,8 @@
         "medal": "bronze"
       },
       "pr": {
-        "order": "6",
         "identifier": "ATW700A",
-        "code": "A",
-        "rank": "6",
-        "value": "13.18",
-        "property": {
-          "type": "Result Type",
-          "value": "Time"
-        }
+        "value": "13.18"
       }
     },
     {
@@ -689,15 +355,8 @@
         "medal": "silver"
       },
       "pr": {
-        "order": "1",
         "identifier": "ATW700A",
-        "code": "A",
-        "rank": "1",
-        "value": "12.84",
-        "property": {
-          "type": "Result Type",
-          "value": "Time"
-        }
+        "value": "12.84"
       }
     },
     {
@@ -708,21 +367,8 @@
         "medal": "gold"
       },
       "pr": {
-        "order": "14",
         "identifier": "ATW700A",
-        "code": "A",
-        "rank": "12",
-        "value": "13.56",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Time"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "+0.3"
-          }
-        ]
+        "value": "13.56"
       }
     }
   ],
@@ -735,13 +381,7 @@
         "medal": null
       },
       "pr": {
-        "order": "31",
-        "identifier": "ATW700B",
-        "code": "B",
-        "property": {
-          "type": "Invalid Result Mark",
-          "value": "Did Not Start"
-        }
+        "identifier": "ATW700B"
       }
     },
     {
@@ -752,15 +392,8 @@
         "medal": null
       },
       "pr": {
-        "order": "1",
         "identifier": "ATW700B",
-        "code": "B",
-        "rank": "1",
-        "value": "1.98",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
+        "value": "1.98"
       }
     },
     {
@@ -771,15 +404,8 @@
         "medal": null
       },
       "pr": {
-        "order": "4",
         "identifier": "ATW700B",
-        "code": "B",
-        "rank": "3",
-        "value": "1.89",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
+        "value": "1.89"
       }
     },
     {
@@ -790,15 +416,8 @@
         "medal": null
       },
       "pr": {
-        "order": "6",
         "identifier": "ATW700B",
-        "code": "B",
-        "rank": "5",
-        "value": "1.86",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
+        "value": "1.86"
       }
     },
     {
@@ -809,15 +428,8 @@
         "medal": null
       },
       "pr": {
-        "order": "8",
         "identifier": "ATW700B",
-        "code": "B",
-        "rank": "5",
-        "value": "1.86",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
+        "value": "1.86"
       }
     },
     {
@@ -828,15 +440,8 @@
         "medal": null
       },
       "pr": {
-        "order": "5",
         "identifier": "ATW700B",
-        "code": "B",
-        "rank": "5",
-        "value": "1.86",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
+        "value": "1.86"
       }
     },
     {
@@ -847,15 +452,8 @@
         "medal": null
       },
       "pr": {
-        "order": "10",
         "identifier": "ATW700B",
-        "code": "B",
-        "rank": "9",
-        "value": "1.83",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
+        "value": "1.83"
       }
     },
     {
@@ -866,15 +464,8 @@
         "medal": null
       },
       "pr": {
-        "order": "9",
         "identifier": "ATW700B",
-        "code": "B",
-        "rank": "9",
-        "value": "1.83",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
+        "value": "1.83"
       }
     },
     {
@@ -885,15 +476,8 @@
         "medal": null
       },
       "pr": {
-        "order": "11",
         "identifier": "ATW700B",
-        "code": "B",
-        "rank": "9",
-        "value": "1.83",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
+        "value": "1.83"
       }
     },
     {
@@ -904,15 +488,8 @@
         "medal": null
       },
       "pr": {
-        "order": "14",
         "identifier": "ATW700B",
-        "code": "B",
-        "rank": "12",
-        "value": "1.80",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
+        "value": "1.80"
       }
     },
     {
@@ -923,15 +500,8 @@
         "medal": null
       },
       "pr": {
-        "order": "13",
         "identifier": "ATW700B",
-        "code": "B",
-        "rank": "12",
-        "value": "1.80",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
+        "value": "1.80"
       }
     },
     {
@@ -942,15 +512,8 @@
         "medal": null
       },
       "pr": {
-        "order": "12",
         "identifier": "ATW700B",
-        "code": "B",
-        "rank": "12",
-        "value": "1.80",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
+        "value": "1.80"
       }
     },
     {
@@ -961,15 +524,8 @@
         "medal": null
       },
       "pr": {
-        "order": "18",
         "identifier": "ATW700B",
-        "code": "B",
-        "rank": "15",
-        "value": "1.77",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
+        "value": "1.77"
       }
     },
     {
@@ -980,15 +536,8 @@
         "medal": null
       },
       "pr": {
-        "order": "23",
         "identifier": "ATW700B",
-        "code": "B",
-        "rank": "15",
-        "value": "1.77",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
+        "value": "1.77"
       }
     },
     {
@@ -999,15 +548,8 @@
         "medal": null
       },
       "pr": {
-        "order": "21",
         "identifier": "ATW700B",
-        "code": "B",
-        "rank": "15",
-        "value": "1.77",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
+        "value": "1.77"
       }
     },
     {
@@ -1018,15 +560,8 @@
         "medal": null
       },
       "pr": {
-        "order": "15",
         "identifier": "ATW700B",
-        "code": "B",
-        "rank": "15",
-        "value": "1.77",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
+        "value": "1.77"
       }
     },
     {
@@ -1037,15 +572,8 @@
         "medal": null
       },
       "pr": {
-        "order": "20",
         "identifier": "ATW700B",
-        "code": "B",
-        "rank": "15",
-        "value": "1.77",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
+        "value": "1.77"
       }
     },
     {
@@ -1056,15 +584,8 @@
         "medal": null
       },
       "pr": {
-        "order": "17",
         "identifier": "ATW700B",
-        "code": "B",
-        "rank": "15",
-        "value": "1.77",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
+        "value": "1.77"
       }
     },
     {
@@ -1075,15 +596,8 @@
         "medal": null
       },
       "pr": {
-        "order": "16",
         "identifier": "ATW700B",
-        "code": "B",
-        "rank": "15",
-        "value": "1.77",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
+        "value": "1.77"
       }
     },
     {
@@ -1094,15 +608,8 @@
         "medal": null
       },
       "pr": {
-        "order": "19",
         "identifier": "ATW700B",
-        "code": "B",
-        "rank": "15",
-        "value": "1.77",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
+        "value": "1.77"
       }
     },
     {
@@ -1113,15 +620,8 @@
         "medal": null
       },
       "pr": {
-        "order": "22",
         "identifier": "ATW700B",
-        "code": "B",
-        "rank": "15",
-        "value": "1.77",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
+        "value": "1.77"
       }
     },
     {
@@ -1132,15 +632,8 @@
         "medal": null
       },
       "pr": {
-        "order": "25",
         "identifier": "ATW700B",
-        "code": "B",
-        "rank": "24",
-        "value": "1.74",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
+        "value": "1.74"
       }
     },
     {
@@ -1151,15 +644,8 @@
         "medal": null
       },
       "pr": {
-        "order": "24",
         "identifier": "ATW700B",
-        "code": "B",
-        "rank": "24",
-        "value": "1.74",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
+        "value": "1.74"
       }
     },
     {
@@ -1170,15 +656,8 @@
         "medal": null
       },
       "pr": {
-        "order": "28",
         "identifier": "ATW700B",
-        "code": "B",
-        "rank": "26",
-        "value": "1.68",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
+        "value": "1.68"
       }
     },
     {
@@ -1189,15 +668,8 @@
         "medal": null
       },
       "pr": {
-        "order": "26",
         "identifier": "ATW700B",
-        "code": "B",
-        "rank": "26",
-        "value": "1.68",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
+        "value": "1.68"
       }
     },
     {
@@ -1208,15 +680,8 @@
         "medal": null
       },
       "pr": {
-        "order": "27",
         "identifier": "ATW700B",
-        "code": "B",
-        "rank": "26",
-        "value": "1.68",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
+        "value": "1.68"
       }
     },
     {
@@ -1227,15 +692,8 @@
         "medal": null
       },
       "pr": {
-        "order": "30",
         "identifier": "ATW700B",
-        "code": "B",
-        "rank": "29",
-        "value": "1.65",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
+        "value": "1.65"
       }
     },
     {
@@ -1246,15 +704,8 @@
         "medal": null
       },
       "pr": {
-        "order": "29",
         "identifier": "ATW700B",
-        "code": "B",
-        "rank": "29",
-        "value": "1.65",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
+        "value": "1.65"
       }
     },
     {
@@ -1265,15 +716,8 @@
         "medal": "bronze"
       },
       "pr": {
-        "order": "7",
         "identifier": "ATW700B",
-        "code": "B",
-        "rank": "5",
-        "value": "1.86",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
+        "value": "1.86"
       }
     },
     {
@@ -1284,15 +728,8 @@
         "medal": "silver"
       },
       "pr": {
-        "order": "3",
         "identifier": "ATW700B",
-        "code": "B",
-        "rank": "3",
-        "value": "1.89",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
+        "value": "1.89"
       }
     },
     {
@@ -1303,15 +740,8 @@
         "medal": "gold"
       },
       "pr": {
-        "order": "2",
         "identifier": "ATW700B",
-        "code": "B",
-        "rank": "1",
-        "value": "1.98",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
+        "value": "1.98"
       }
     }
   ],
@@ -1324,13 +754,7 @@
         "medal": null
       },
       "pr": {
-        "order": "30",
-        "identifier": "ATW700C",
-        "code": "C",
-        "property": {
-          "type": "Invalid Result Mark",
-          "value": "Did Not Start"
-        }
+        "identifier": "ATW700C"
       }
     },
     {
@@ -1341,15 +765,8 @@
         "medal": null
       },
       "pr": {
-        "order": "2",
         "identifier": "ATW700C",
-        "code": "C",
-        "rank": "2",
-        "value": "14.88",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
+        "value": "14.88"
       }
     },
     {
@@ -1360,15 +777,8 @@
         "medal": null
       },
       "pr": {
-        "order": "3",
         "identifier": "ATW700C",
-        "code": "C",
-        "rank": "3",
-        "value": "14.81",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
+        "value": "14.81"
       }
     },
     {
@@ -1379,15 +789,8 @@
         "medal": null
       },
       "pr": {
-        "order": "4",
         "identifier": "ATW700C",
-        "code": "C",
-        "rank": "4",
-        "value": "14.78",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
+        "value": "14.78"
       }
     },
     {
@@ -1398,15 +801,8 @@
         "medal": null
       },
       "pr": {
-        "order": "5",
         "identifier": "ATW700C",
-        "code": "C",
-        "rank": "5",
-        "value": "14.57",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
+        "value": "14.57"
       }
     },
     {
@@ -1417,15 +813,8 @@
         "medal": null
       },
       "pr": {
-        "order": "6",
         "identifier": "ATW700C",
-        "code": "C",
-        "rank": "6",
-        "value": "14.41",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
+        "value": "14.41"
       }
     },
     {
@@ -1436,15 +825,8 @@
         "medal": null
       },
       "pr": {
-        "order": "7",
         "identifier": "ATW700C",
-        "code": "C",
-        "rank": "7",
-        "value": "14.39",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
+        "value": "14.39"
       }
     },
     {
@@ -1455,15 +837,8 @@
         "medal": null
       },
       "pr": {
-        "order": "8",
         "identifier": "ATW700C",
-        "code": "C",
-        "rank": "8",
-        "value": "14.38",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
+        "value": "14.38"
       }
     },
     {
@@ -1474,15 +849,8 @@
         "medal": null
       },
       "pr": {
-        "order": "9",
         "identifier": "ATW700C",
-        "code": "C",
-        "rank": "9",
-        "value": "14.28",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
+        "value": "14.28"
       }
     },
     {
@@ -1493,15 +861,8 @@
         "medal": null
       },
       "pr": {
-        "order": "10",
         "identifier": "ATW700C",
-        "code": "C",
-        "rank": "10",
-        "value": "14.09",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
+        "value": "14.09"
       }
     },
     {
@@ -1512,15 +873,8 @@
         "medal": null
       },
       "pr": {
-        "order": "11",
         "identifier": "ATW700C",
-        "code": "C",
-        "rank": "11",
-        "value": "14.04",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
+        "value": "14.04"
       }
     },
     {
@@ -1531,15 +885,8 @@
         "medal": null
       },
       "pr": {
-        "order": "13",
         "identifier": "ATW700C",
-        "code": "C",
-        "rank": "13",
-        "value": "13.78",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
+        "value": "13.78"
       }
     },
     {
@@ -1550,15 +897,8 @@
         "medal": null
       },
       "pr": {
-        "order": "14",
         "identifier": "ATW700C",
-        "code": "C",
-        "rank": "14",
-        "value": "13.69",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
+        "value": "13.69"
       }
     },
     {
@@ -1569,15 +909,8 @@
         "medal": null
       },
       "pr": {
-        "order": "15",
         "identifier": "ATW700C",
-        "code": "C",
-        "rank": "15",
-        "value": "13.60",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
+        "value": "13.60"
       }
     },
     {
@@ -1588,15 +921,8 @@
         "medal": null
       },
       "pr": {
-        "order": "16",
         "identifier": "ATW700C",
-        "code": "C",
-        "rank": "16",
-        "value": "13.52",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
+        "value": "13.52"
       }
     },
     {
@@ -1607,15 +933,8 @@
         "medal": null
       },
       "pr": {
-        "order": "18",
         "identifier": "ATW700C",
-        "code": "C",
-        "rank": "18",
-        "value": "13.43",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
+        "value": "13.43"
       }
     },
     {
@@ -1626,15 +945,8 @@
         "medal": null
       },
       "pr": {
-        "order": "19",
         "identifier": "ATW700C",
-        "code": "C",
-        "rank": "19",
-        "value": "13.25",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
+        "value": "13.25"
       }
     },
     {
@@ -1645,15 +957,8 @@
         "medal": null
       },
       "pr": {
-        "order": "20",
         "identifier": "ATW700C",
-        "code": "C",
-        "rank": "20",
-        "value": "13.15",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
+        "value": "13.15"
       }
     },
     {
@@ -1664,15 +969,8 @@
         "medal": null
       },
       "pr": {
-        "order": "21",
         "identifier": "ATW700C",
-        "code": "C",
-        "rank": "21",
-        "value": "13.06",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
+        "value": "13.06"
       }
     },
     {
@@ -1683,15 +981,8 @@
         "medal": null
       },
       "pr": {
-        "order": "22",
         "identifier": "ATW700C",
-        "code": "C",
-        "rank": "22",
-        "value": "12.97",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
+        "value": "12.97"
       }
     },
     {
@@ -1702,15 +993,8 @@
         "medal": null
       },
       "pr": {
-        "order": "23",
         "identifier": "ATW700C",
-        "code": "C",
-        "rank": "23",
-        "value": "12.91",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
+        "value": "12.91"
       }
     },
     {
@@ -1721,15 +1005,8 @@
         "medal": null
       },
       "pr": {
-        "order": "24",
         "identifier": "ATW700C",
-        "code": "C",
-        "rank": "24",
-        "value": "12.84",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
+        "value": "12.84"
       }
     },
     {
@@ -1740,15 +1017,8 @@
         "medal": null
       },
       "pr": {
-        "order": "25",
         "identifier": "ATW700C",
-        "code": "C",
-        "rank": "25",
-        "value": "12.83",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
+        "value": "12.83"
       }
     },
     {
@@ -1759,15 +1029,8 @@
         "medal": null
       },
       "pr": {
-        "order": "26",
         "identifier": "ATW700C",
-        "code": "C",
-        "rank": "26",
-        "value": "12.38",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
+        "value": "12.38"
       }
     },
     {
@@ -1778,15 +1041,8 @@
         "medal": null
       },
       "pr": {
-        "order": "27",
         "identifier": "ATW700C",
-        "code": "C",
-        "rank": "27",
-        "value": "11.68",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
+        "value": "11.68"
       }
     },
     {
@@ -1797,15 +1053,8 @@
         "medal": null
       },
       "pr": {
-        "order": "28",
         "identifier": "ATW700C",
-        "code": "C",
-        "rank": "28",
-        "value": "11.36",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
+        "value": "11.36"
       }
     },
     {
@@ -1816,15 +1065,8 @@
         "medal": null
       },
       "pr": {
-        "order": "29",
         "identifier": "ATW700C",
-        "code": "C",
-        "rank": "29",
-        "value": "11.21",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
+        "value": "11.21"
       }
     },
     {
@@ -1835,15 +1077,8 @@
         "medal": "bronze"
       },
       "pr": {
-        "order": "17",
         "identifier": "ATW700C",
-        "code": "C",
-        "rank": "17",
-        "value": "13.45",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
+        "value": "13.45"
       }
     },
     {
@@ -1854,15 +1089,8 @@
         "medal": "silver"
       },
       "pr": {
-        "order": "12",
         "identifier": "ATW700C",
-        "code": "C",
-        "rank": "12",
-        "value": "13.86",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
+        "value": "13.86"
       }
     },
     {
@@ -1873,15 +1101,8 @@
         "medal": "gold"
       },
       "pr": {
-        "order": "1",
         "identifier": "ATW700C",
-        "code": "C",
-        "rank": "1",
-        "value": "14.91",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
+        "value": "14.91"
       }
     }
   ],
@@ -1894,21 +1115,8 @@
         "medal": null
       },
       "pr": {
-        "order": "29",
         "identifier": "ATW700D",
-        "code": "D",
-        "rank": "29",
-        "value": "26.32",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Time"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "-0.7"
-          }
-        ]
+        "value": "26.32"
       }
     },
     {
@@ -1919,21 +1127,8 @@
         "medal": null
       },
       "pr": {
-        "order": "28",
         "identifier": "ATW700D",
-        "code": "D",
-        "rank": "28",
-        "value": "25.44",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Time"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "-0.7"
-          }
-        ]
+        "value": "25.44"
       }
     },
     {
@@ -1944,21 +1139,8 @@
         "medal": null
       },
       "pr": {
-        "order": "27",
         "identifier": "ATW700D",
-        "code": "D",
-        "rank": "27",
-        "value": "25.38",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Time"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "-0.7"
-          }
-        ]
+        "value": "25.38"
       }
     },
     {
@@ -1969,21 +1151,8 @@
         "medal": null
       },
       "pr": {
-        "order": "26",
         "identifier": "ATW700D",
-        "code": "D",
-        "rank": "26",
-        "value": "25.37",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Time"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "+0.4"
-          }
-        ]
+        "value": "25.37"
       }
     },
     {
@@ -1994,21 +1163,8 @@
         "medal": null
       },
       "pr": {
-        "order": "25",
         "identifier": "ATW700D",
-        "code": "D",
-        "rank": "25",
-        "value": "25.24",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Time"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "+0.4"
-          }
-        ]
+        "value": "25.24"
       }
     },
     {
@@ -2019,21 +1175,8 @@
         "medal": null
       },
       "pr": {
-        "order": "23",
         "identifier": "ATW700D",
-        "code": "D",
-        "rank": "23",
-        "value": "25.07",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Time"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "+0.4"
-          }
-        ]
+        "value": "25.07"
       }
     },
     {
@@ -2044,21 +1187,8 @@
         "medal": null
       },
       "pr": {
-        "order": "22",
         "identifier": "ATW700D",
-        "code": "D",
-        "rank": "22",
-        "value": "24.99",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Time"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "+0.4"
-          }
-        ]
+        "value": "24.99"
       }
     },
     {
@@ -2069,15 +1199,8 @@
         "medal": null
       },
       "pr": {
-        "order": "21",
         "identifier": "ATW700D",
-        "code": "D",
-        "rank": "21",
-        "value": "24.97",
-        "property": {
-          "type": "Result Type",
-          "value": "Time"
-        }
+        "value": "24.97"
       }
     },
     {
@@ -2088,21 +1211,8 @@
         "medal": null
       },
       "pr": {
-        "order": "20",
         "identifier": "ATW700D",
-        "code": "D",
-        "rank": "20",
-        "value": "24.94",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Time"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "-0.7"
-          }
-        ]
+        "value": "24.94"
       }
     },
     {
@@ -2113,15 +1223,8 @@
         "medal": null
       },
       "pr": {
-        "order": "19",
         "identifier": "ATW700D",
-        "code": "D",
-        "rank": "19",
-        "value": "24.77",
-        "property": {
-          "type": "Result Type",
-          "value": "Time"
-        }
+        "value": "24.77"
       }
     },
     {
@@ -2132,21 +1235,8 @@
         "medal": null
       },
       "pr": {
-        "order": "18",
         "identifier": "ATW700D",
-        "code": "D",
-        "rank": "18",
-        "value": "24.74",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Time"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "+0.4"
-          }
-        ]
+        "value": "24.74"
       }
     },
     {
@@ -2157,15 +1247,8 @@
         "medal": null
       },
       "pr": {
-        "order": "17",
         "identifier": "ATW700D",
-        "code": "D",
-        "rank": "17",
-        "value": "24.67",
-        "property": {
-          "type": "Result Type",
-          "value": "Time"
-        }
+        "value": "24.67"
       }
     },
     {
@@ -2176,15 +1259,8 @@
         "medal": null
       },
       "pr": {
-        "order": "15",
         "identifier": "ATW700D",
-        "code": "D",
-        "rank": "15",
-        "value": "24.60",
-        "property": {
-          "type": "Result Type",
-          "value": "Time"
-        }
+        "value": "24.60"
       }
     },
     {
@@ -2195,21 +1271,8 @@
         "medal": null
       },
       "pr": {
-        "order": "16",
         "identifier": "ATW700D",
-        "code": "D",
-        "rank": "15",
-        "value": "24.60",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Time"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "+0.4"
-          }
-        ]
+        "value": "24.60"
       }
     },
     {
@@ -2220,15 +1283,8 @@
         "medal": null
       },
       "pr": {
-        "order": "14",
         "identifier": "ATW700D",
-        "code": "D",
-        "rank": "14",
-        "value": "24.48",
-        "property": {
-          "type": "Result Type",
-          "value": "Time"
-        }
+        "value": "24.48"
       }
     },
     {
@@ -2239,21 +1295,8 @@
         "medal": null
       },
       "pr": {
-        "order": "13",
         "identifier": "ATW700D",
-        "code": "D",
-        "rank": "13",
-        "value": "24.35",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Time"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "-0.1"
-          }
-        ]
+        "value": "24.35"
       }
     },
     {
@@ -2264,21 +1307,8 @@
         "medal": null
       },
       "pr": {
-        "order": "12",
         "identifier": "ATW700D",
-        "code": "D",
-        "rank": "12",
-        "value": "24.34",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Time"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "-0.7"
-          }
-        ]
+        "value": "24.34"
       }
     },
     {
@@ -2289,15 +1319,8 @@
         "medal": null
       },
       "pr": {
-        "order": "11",
         "identifier": "ATW700D",
-        "code": "D",
-        "rank": "11",
-        "value": "24.32",
-        "property": {
-          "type": "Result Type",
-          "value": "Time"
-        }
+        "value": "24.32"
       }
     },
     {
@@ -2308,15 +1331,8 @@
         "medal": null
       },
       "pr": {
-        "order": "10",
         "identifier": "ATW700D",
-        "code": "D",
-        "rank": "10",
-        "value": "24.26",
-        "property": {
-          "type": "Result Type",
-          "value": "Time"
-        }
+        "value": "24.26"
       }
     },
     {
@@ -2327,21 +1343,8 @@
         "medal": null
       },
       "pr": {
-        "order": "8",
         "identifier": "ATW700D",
-        "code": "D",
-        "rank": "8",
-        "value": "24.12",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Time"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "-0.1"
-          }
-        ]
+        "value": "24.12"
       }
     },
     {
@@ -2352,21 +1355,8 @@
         "medal": null
       },
       "pr": {
-        "order": "7",
         "identifier": "ATW700D",
-        "code": "D",
-        "rank": "7",
-        "value": "24.11",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Time"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "+0.4"
-          }
-        ]
+        "value": "24.11"
       }
     },
     {
@@ -2377,21 +1367,8 @@
         "medal": null
       },
       "pr": {
-        "order": "6",
         "identifier": "ATW700D",
-        "code": "D",
-        "rank": "6",
-        "value": "24.09",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Time"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "-0.1"
-          }
-        ]
+        "value": "24.09"
       }
     },
     {
@@ -2402,21 +1379,8 @@
         "medal": null
       },
       "pr": {
-        "order": "5",
         "identifier": "ATW700D",
-        "code": "D",
-        "rank": "5",
-        "value": "23.99",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Time"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "-0.1"
-          }
-        ]
+        "value": "23.99"
       }
     },
     {
@@ -2427,15 +1391,8 @@
         "medal": null
       },
       "pr": {
-        "order": "4",
         "identifier": "ATW700D",
-        "code": "D",
-        "rank": "4",
-        "value": "23.93",
-        "property": {
-          "type": "Result Type",
-          "value": "Time"
-        }
+        "value": "23.93"
       }
     },
     {
@@ -2446,21 +1403,8 @@
         "medal": null
       },
       "pr": {
-        "order": "3",
         "identifier": "ATW700D",
-        "code": "D",
-        "rank": "3",
-        "value": "23.76",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Time"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "-0.1"
-          }
-        ]
+        "value": "23.76"
       }
     },
     {
@@ -2471,21 +1415,8 @@
         "medal": null
       },
       "pr": {
-        "order": "1",
         "identifier": "ATW700D",
-        "code": "D",
-        "rank": "1",
-        "value": "23.26",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Time"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "-0.1"
-          }
-        ]
+        "value": "23.26"
       }
     },
     {
@@ -2496,21 +1427,8 @@
         "medal": "bronze"
       },
       "pr": {
-        "order": "9",
         "identifier": "ATW700D",
-        "code": "D",
-        "rank": "9",
-        "value": "24.18",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Time"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "-0.1"
-          }
-        ]
+        "value": "24.18"
       }
     },
     {
@@ -2521,21 +1439,8 @@
         "medal": "silver"
       },
       "pr": {
-        "order": "2",
         "identifier": "ATW700D",
-        "code": "D",
-        "rank": "2",
-        "value": "23.49",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Time"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "-0.1"
-          }
-        ]
+        "value": "23.49"
       }
     },
     {
@@ -2546,21 +1451,8 @@
         "medal": "gold"
       },
       "pr": {
-        "order": "24",
         "identifier": "ATW700D",
-        "code": "D",
-        "rank": "24",
-        "value": "25.10",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Time"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "-0.7"
-          }
-        ]
+        "value": "25.10"
       }
     }
   ],
@@ -2573,21 +1465,8 @@
         "medal": null
       },
       "pr": {
-        "order": "2",
         "identifier": "ATW700E",
-        "code": "E",
-        "rank": "2",
-        "value": "6.55",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Distance"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "-1.4"
-          }
-        ]
+        "value": "6.55"
       }
     },
     {
@@ -2598,21 +1477,8 @@
         "medal": null
       },
       "pr": {
-        "order": "3",
         "identifier": "ATW700E",
-        "code": "E",
-        "rank": "3",
-        "value": "6.51",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Distance"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "+0.9"
-          }
-        ]
+        "value": "6.51"
       }
     },
     {
@@ -2623,21 +1489,8 @@
         "medal": null
       },
       "pr": {
-        "order": "5",
         "identifier": "ATW700E",
-        "code": "E",
-        "rank": "5",
-        "value": "6.43",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Distance"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "-1.6"
-          }
-        ]
+        "value": "6.43"
       }
     },
     {
@@ -2648,21 +1501,8 @@
         "medal": null
       },
       "pr": {
-        "order": "6",
         "identifier": "ATW700E",
-        "code": "E",
-        "rank": "6",
-        "value": "6.35",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Distance"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "+0.5"
-          }
-        ]
+        "value": "6.35"
       }
     },
     {
@@ -2673,21 +1513,8 @@
         "medal": null
       },
       "pr": {
-        "order": "9",
         "identifier": "ATW700E",
-        "code": "E",
-        "rank": "8",
-        "value": "6.31",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Distance"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "+0.1"
-          }
-        ]
+        "value": "6.31"
       }
     },
     {
@@ -2698,21 +1525,8 @@
         "medal": null
       },
       "pr": {
-        "order": "8",
         "identifier": "ATW700E",
-        "code": "E",
-        "rank": "8",
-        "value": "6.31",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Distance"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "+0.2"
-          }
-        ]
+        "value": "6.31"
       }
     },
     {
@@ -2723,21 +1537,8 @@
         "medal": null
       },
       "pr": {
-        "order": "10",
         "identifier": "ATW700E",
-        "code": "E",
-        "rank": "10",
-        "value": "6.30",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Distance"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "+0.5"
-          }
-        ]
+        "value": "6.30"
       }
     },
     {
@@ -2748,21 +1549,8 @@
         "medal": null
       },
       "pr": {
-        "order": "11",
         "identifier": "ATW700E",
-        "code": "E",
-        "rank": "11",
-        "value": "6.25",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Distance"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "-0.1"
-          }
-        ]
+        "value": "6.25"
       }
     },
     {
@@ -2773,21 +1561,8 @@
         "medal": null
       },
       "pr": {
-        "order": "12",
         "identifier": "ATW700E",
-        "code": "E",
-        "rank": "12",
-        "value": "6.23",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Distance"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "-1.1"
-          }
-        ]
+        "value": "6.23"
       }
     },
     {
@@ -2798,21 +1573,8 @@
         "medal": null
       },
       "pr": {
-        "order": "13",
         "identifier": "ATW700E",
-        "code": "E",
-        "rank": "13",
-        "value": "6.22",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Distance"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "+0.1"
-          }
-        ]
+        "value": "6.22"
       }
     },
     {
@@ -2823,21 +1585,8 @@
         "medal": null
       },
       "pr": {
-        "order": "14",
         "identifier": "ATW700E",
-        "code": "E",
-        "rank": "14",
-        "value": "6.20",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Distance"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "+0.6"
-          }
-        ]
+        "value": "6.20"
       }
     },
     {
@@ -2848,21 +1597,8 @@
         "medal": null
       },
       "pr": {
-        "order": "15",
         "identifier": "ATW700E",
-        "code": "E",
-        "rank": "15",
-        "value": "6.19",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Distance"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "-0.7"
-          }
-        ]
+        "value": "6.19"
       }
     },
     {
@@ -2873,21 +1609,8 @@
         "medal": null
       },
       "pr": {
-        "order": "16",
         "identifier": "ATW700E",
-        "code": "E",
-        "rank": "16",
-        "value": "6.16",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Distance"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "-0.5"
-          }
-        ]
+        "value": "6.16"
       }
     },
     {
@@ -2898,21 +1621,8 @@
         "medal": null
       },
       "pr": {
-        "order": "17",
         "identifier": "ATW700E",
-        "code": "E",
-        "rank": "17",
-        "value": "6.15",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Distance"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "-0.1"
-          }
-        ]
+        "value": "6.15"
       }
     },
     {
@@ -2923,21 +1633,8 @@
         "medal": null
       },
       "pr": {
-        "order": "18",
         "identifier": "ATW700E",
-        "code": "E",
-        "rank": "18",
-        "value": "6.12",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Distance"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "-0.5"
-          }
-        ]
+        "value": "6.12"
       }
     },
     {
@@ -2948,15 +1645,8 @@
         "medal": null
       },
       "pr": {
-        "order": "20",
         "identifier": "ATW700E",
-        "code": "E",
-        "rank": "19",
-        "value": "6.10",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
+        "value": "6.10"
       }
     },
     {
@@ -2967,21 +1657,8 @@
         "medal": null
       },
       "pr": {
-        "order": "19",
         "identifier": "ATW700E",
-        "code": "E",
-        "rank": "19",
-        "value": "6.10",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Distance"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "+0.5"
-          }
-        ]
+        "value": "6.10"
       }
     },
     {
@@ -2992,21 +1669,8 @@
         "medal": null
       },
       "pr": {
-        "order": "22",
         "identifier": "ATW700E",
-        "code": "E",
-        "rank": "21",
-        "value": "6.08",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Distance"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "-0.6"
-          }
-        ]
+        "value": "6.08"
       }
     },
     {
@@ -3017,21 +1681,8 @@
         "medal": null
       },
       "pr": {
-        "order": "21",
         "identifier": "ATW700E",
-        "code": "E",
-        "rank": "21",
-        "value": "6.08",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Distance"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "-0.3"
-          }
-        ]
+        "value": "6.08"
       }
     },
     {
@@ -3042,21 +1693,8 @@
         "medal": null
       },
       "pr": {
-        "order": "23",
         "identifier": "ATW700E",
-        "code": "E",
-        "rank": "23",
-        "value": "6.05",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Distance"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "+0.1"
-          }
-        ]
+        "value": "6.05"
       }
     },
     {
@@ -3067,21 +1705,8 @@
         "medal": null
       },
       "pr": {
-        "order": "24",
         "identifier": "ATW700E",
-        "code": "E",
-        "rank": "24",
-        "value": "6.00",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Distance"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "+0.1"
-          }
-        ]
+        "value": "6.00"
       }
     },
     {
@@ -3092,21 +1717,8 @@
         "medal": null
       },
       "pr": {
-        "order": "25",
         "identifier": "ATW700E",
-        "code": "E",
-        "rank": "25",
-        "value": "5.91",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Distance"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "-0.1"
-          }
-        ]
+        "value": "5.91"
       }
     },
     {
@@ -3117,21 +1729,8 @@
         "medal": null
       },
       "pr": {
-        "order": "26",
         "identifier": "ATW700E",
-        "code": "E",
-        "rank": "26",
-        "value": "5.88",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Distance"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "+0.8"
-          }
-        ]
+        "value": "5.88"
       }
     },
     {
@@ -3142,21 +1741,8 @@
         "medal": null
       },
       "pr": {
-        "order": "27",
         "identifier": "ATW700E",
-        "code": "E",
-        "rank": "27",
-        "value": "5.81",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Distance"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "-0.7"
-          }
-        ]
+        "value": "5.81"
       }
     },
     {
@@ -3167,21 +1753,8 @@
         "medal": null
       },
       "pr": {
-        "order": "28",
         "identifier": "ATW700E",
-        "code": "E",
-        "rank": "28",
-        "value": "5.72",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Distance"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "-0.9"
-          }
-        ]
+        "value": "5.72"
       }
     },
     {
@@ -3192,21 +1765,8 @@
         "medal": null
       },
       "pr": {
-        "order": "29",
         "identifier": "ATW700E",
-        "code": "E",
-        "rank": "29",
-        "value": "5.51",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Distance"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "-0.7"
-          }
-        ]
+        "value": "5.51"
       }
     },
     {
@@ -3217,21 +1777,8 @@
         "medal": "bronze"
       },
       "pr": {
-        "order": "4",
         "identifier": "ATW700E",
-        "code": "E",
-        "rank": "4",
-        "value": "6.48",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Distance"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "+0.3"
-          }
-        ]
+        "value": "6.48"
       }
     },
     {
@@ -3242,21 +1789,8 @@
         "medal": "silver"
       },
       "pr": {
-        "order": "7",
         "identifier": "ATW700E",
-        "code": "E",
-        "rank": "7",
-        "value": "6.34",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Distance"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "-1.2"
-          }
-        ]
+        "value": "6.34"
       }
     },
     {
@@ -3267,21 +1801,8 @@
         "medal": "gold"
       },
       "pr": {
-        "order": "1",
         "identifier": "ATW700E",
-        "code": "E",
-        "rank": "1",
-        "value": "6.58",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Distance"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "-0.5"
-          }
-        ]
+        "value": "6.58"
       }
     }
   ],
@@ -3294,15 +1815,8 @@
         "medal": null
       },
       "pr": {
-        "order": "1",
         "identifier": "ATW700F",
-        "code": "F",
-        "rank": "1",
-        "value": "55.93",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
+        "value": "55.93"
       }
     },
     {
@@ -3313,15 +1827,8 @@
         "medal": null
       },
       "pr": {
-        "order": "2",
         "identifier": "ATW700F",
-        "code": "F",
-        "rank": "2",
-        "value": "54.57",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
+        "value": "54.57"
       }
     },
     {
@@ -3332,15 +1839,8 @@
         "medal": null
       },
       "pr": {
-        "order": "4",
         "identifier": "ATW700F",
-        "code": "F",
-        "rank": "4",
-        "value": "50.80",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
+        "value": "50.80"
       }
     },
     {
@@ -3351,15 +1851,8 @@
         "medal": null
       },
       "pr": {
-        "order": "5",
         "identifier": "ATW700F",
-        "code": "F",
-        "rank": "5",
-        "value": "49.78",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
+        "value": "49.78"
       }
     },
     {
@@ -3370,15 +1863,8 @@
         "medal": null
       },
       "pr": {
-        "order": "6",
         "identifier": "ATW700F",
-        "code": "F",
-        "rank": "6",
-        "value": "48.89",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
+        "value": "48.89"
       }
     },
     {
@@ -3389,15 +1875,8 @@
         "medal": null
       },
       "pr": {
-        "order": "7",
         "identifier": "ATW700F",
-        "code": "F",
-        "rank": "7",
-        "value": "48.76",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
+        "value": "48.76"
       }
     },
     {
@@ -3408,15 +1887,8 @@
         "medal": null
       },
       "pr": {
-        "order": "8",
         "identifier": "ATW700F",
-        "code": "F",
-        "rank": "8",
-        "value": "48.42",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
+        "value": "48.42"
       }
     },
     {
@@ -3427,15 +1899,8 @@
         "medal": null
       },
       "pr": {
-        "order": "9",
         "identifier": "ATW700F",
-        "code": "F",
-        "rank": "9",
-        "value": "48.07",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
+        "value": "48.07"
       }
     },
     {
@@ -3446,15 +1911,8 @@
         "medal": null
       },
       "pr": {
-        "order": "10",
         "identifier": "ATW700F",
-        "code": "F",
-        "rank": "10",
-        "value": "47.99",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
+        "value": "47.99"
       }
     },
     {
@@ -3465,15 +1923,8 @@
         "medal": null
       },
       "pr": {
-        "order": "12",
         "identifier": "ATW700F",
-        "code": "F",
-        "rank": "12",
-        "value": "47.22",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
+        "value": "47.22"
       }
     },
     {
@@ -3484,15 +1935,8 @@
         "medal": null
       },
       "pr": {
-        "order": "13",
         "identifier": "ATW700F",
-        "code": "F",
-        "rank": "13",
-        "value": "46.90",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
+        "value": "46.90"
       }
     },
     {
@@ -3503,15 +1947,8 @@
         "medal": null
       },
       "pr": {
-        "order": "14",
         "identifier": "ATW700F",
-        "code": "F",
-        "rank": "14",
-        "value": "46.85",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
+        "value": "46.85"
       }
     },
     {
@@ -3522,15 +1959,8 @@
         "medal": null
       },
       "pr": {
-        "order": "15",
         "identifier": "ATW700F",
-        "code": "F",
-        "rank": "15",
-        "value": "46.73",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
+        "value": "46.73"
       }
     },
     {
@@ -3541,15 +1971,8 @@
         "medal": null
       },
       "pr": {
-        "order": "16",
         "identifier": "ATW700F",
-        "code": "F",
-        "rank": "16",
-        "value": "46.08",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
+        "value": "46.08"
       }
     },
     {
@@ -3560,15 +1983,8 @@
         "medal": null
       },
       "pr": {
-        "order": "18",
         "identifier": "ATW700F",
-        "code": "F",
-        "rank": "18",
-        "value": "45.05",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
+        "value": "45.05"
       }
     },
     {
@@ -3579,15 +1995,8 @@
         "medal": null
       },
       "pr": {
-        "order": "19",
         "identifier": "ATW700F",
-        "code": "F",
-        "rank": "19",
-        "value": "42.48",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
+        "value": "42.48"
       }
     },
     {
@@ -3598,15 +2007,8 @@
         "medal": null
       },
       "pr": {
-        "order": "20",
         "identifier": "ATW700F",
-        "code": "F",
-        "rank": "20",
-        "value": "42.00",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
+        "value": "42.00"
       }
     },
     {
@@ -3617,15 +2019,8 @@
         "medal": null
       },
       "pr": {
-        "order": "21",
         "identifier": "ATW700F",
-        "code": "F",
-        "rank": "21",
-        "value": "40.93",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
+        "value": "40.93"
       }
     },
     {
@@ -3636,15 +2031,8 @@
         "medal": null
       },
       "pr": {
-        "order": "22",
         "identifier": "ATW700F",
-        "code": "F",
-        "rank": "22",
-        "value": "40.25",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
+        "value": "40.25"
       }
     },
     {
@@ -3655,15 +2043,8 @@
         "medal": null
       },
       "pr": {
-        "order": "23",
         "identifier": "ATW700F",
-        "code": "F",
-        "rank": "23",
-        "value": "40.17",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
+        "value": "40.17"
       }
     },
     {
@@ -3674,15 +2055,8 @@
         "medal": null
       },
       "pr": {
-        "order": "24",
         "identifier": "ATW700F",
-        "code": "F",
-        "rank": "24",
-        "value": "39.39",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
+        "value": "39.39"
       }
     },
     {
@@ -3693,15 +2067,8 @@
         "medal": null
       },
       "pr": {
-        "order": "25",
         "identifier": "ATW700F",
-        "code": "F",
-        "rank": "25",
-        "value": "38.10",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
+        "value": "38.10"
       }
     },
     {
@@ -3712,15 +2079,8 @@
         "medal": null
       },
       "pr": {
-        "order": "26",
         "identifier": "ATW700F",
-        "code": "F",
-        "rank": "26",
-        "value": "37.77",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
+        "value": "37.77"
       }
     },
     {
@@ -3731,15 +2091,8 @@
         "medal": null
       },
       "pr": {
-        "order": "27",
         "identifier": "ATW700F",
-        "code": "F",
-        "rank": "27",
-        "value": "36.36",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
+        "value": "36.36"
       }
     },
     {
@@ -3750,15 +2103,8 @@
         "medal": null
       },
       "pr": {
-        "order": "28",
         "identifier": "ATW700F",
-        "code": "F",
-        "rank": "28",
-        "value": "35.44",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
+        "value": "35.44"
       }
     },
     {
@@ -3769,15 +2115,8 @@
         "medal": null
       },
       "pr": {
-        "order": "29",
         "identifier": "ATW700F",
-        "code": "F",
-        "rank": "29",
-        "value": "33.42",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
+        "value": "33.42"
       }
     },
     {
@@ -3788,15 +2127,8 @@
         "medal": "bronze"
       },
       "pr": {
-        "order": "11",
         "identifier": "ATW700F",
-        "code": "F",
-        "rank": "11",
-        "value": "47.36",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
+        "value": "47.36"
       }
     },
     {
@@ -3807,15 +2139,8 @@
         "medal": "silver"
       },
       "pr": {
-        "order": "17",
         "identifier": "ATW700F",
-        "code": "F",
-        "rank": "17",
-        "value": "46.06",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
+        "value": "46.06"
       }
     },
     {
@@ -3826,15 +2151,8 @@
         "medal": "gold"
       },
       "pr": {
-        "order": "3",
         "identifier": "ATW700F",
-        "code": "F",
-        "rank": "3",
-        "value": "53.13",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
+        "value": "53.13"
       }
     }
   ],
@@ -3847,13 +2165,7 @@
         "medal": null
       },
       "pr": {
-        "order": "28",
-        "identifier": "ATW700G",
-        "code": "G",
-        "property": {
-          "type": "Invalid Result Mark",
-          "value": "Did Not Finish"
-        }
+        "identifier": "ATW700G"
       }
     },
     {
@@ -3864,13 +2176,7 @@
         "medal": null
       },
       "pr": {
-        "order": "29",
-        "identifier": "ATW700G",
-        "code": "G",
-        "property": {
-          "type": "Invalid Result Mark",
-          "value": "Disqualified"
-        }
+        "identifier": "ATW700G"
       }
     },
     {
@@ -3881,15 +2187,8 @@
         "medal": null
       },
       "pr": {
-        "order": "27",
         "identifier": "ATW700G",
-        "code": "G",
-        "rank": "27",
-        "value": "2:41.12",
-        "property": {
-          "type": "Result Type",
-          "value": "Time"
-        }
+        "value": "2:41.12"
       }
     },
     {
@@ -3900,15 +2199,8 @@
         "medal": null
       },
       "pr": {
-        "order": "26",
         "identifier": "ATW700G",
-        "code": "G",
-        "rank": "26",
-        "value": "2:30.08",
-        "property": {
-          "type": "Result Type",
-          "value": "Time"
-        }
+        "value": "2:30.08"
       }
     },
     {
@@ -3919,15 +2211,8 @@
         "medal": null
       },
       "pr": {
-        "order": "25",
         "identifier": "ATW700G",
-        "code": "G",
-        "rank": "25",
-        "value": "2:22.81",
-        "property": {
-          "type": "Result Type",
-          "value": "Time"
-        }
+        "value": "2:22.81"
       }
     },
     {
@@ -3938,15 +2223,8 @@
         "medal": null
       },
       "pr": {
-        "order": "24",
         "identifier": "ATW700G",
-        "code": "G",
-        "rank": "24",
-        "value": "2:20.36",
-        "property": {
-          "type": "Result Type",
-          "value": "Time"
-        }
+        "value": "2:20.36"
       }
     },
     {
@@ -3957,15 +2235,8 @@
         "medal": null
       },
       "pr": {
-        "order": "23",
         "identifier": "ATW700G",
-        "code": "G",
-        "rank": "23",
-        "value": "2:18.95",
-        "property": {
-          "type": "Result Type",
-          "value": "Time"
-        }
+        "value": "2:18.95"
       }
     },
     {
@@ -3976,15 +2247,8 @@
         "medal": null
       },
       "pr": {
-        "order": "22",
         "identifier": "ATW700G",
-        "code": "G",
-        "rank": "22",
-        "value": "2:17.71",
-        "property": {
-          "type": "Result Type",
-          "value": "Time"
-        }
+        "value": "2:17.71"
       }
     },
     {
@@ -3995,15 +2259,8 @@
         "medal": null
       },
       "pr": {
-        "order": "21",
         "identifier": "ATW700G",
-        "code": "G",
-        "rank": "21",
-        "value": "2:17.55",
-        "property": {
-          "type": "Result Type",
-          "value": "Time"
-        }
+        "value": "2:17.55"
       }
     },
     {
@@ -4014,15 +2271,8 @@
         "medal": null
       },
       "pr": {
-        "order": "20",
         "identifier": "ATW700G",
-        "code": "G",
-        "rank": "20",
-        "value": "2:16.58",
-        "property": {
-          "type": "Result Type",
-          "value": "Time"
-        }
+        "value": "2:16.58"
       }
     },
     {
@@ -4033,15 +2283,8 @@
         "medal": null
       },
       "pr": {
-        "order": "18",
         "identifier": "ATW700G",
-        "code": "G",
-        "rank": "18",
-        "value": "2:16.52",
-        "property": {
-          "type": "Result Type",
-          "value": "Time"
-        }
+        "value": "2:16.52"
       }
     },
     {
@@ -4052,15 +2295,8 @@
         "medal": null
       },
       "pr": {
-        "order": "17",
         "identifier": "ATW700G",
-        "code": "G",
-        "rank": "17",
-        "value": "2:16.24",
-        "property": {
-          "type": "Result Type",
-          "value": "Time"
-        }
+        "value": "2:16.24"
       }
     },
     {
@@ -4071,15 +2307,8 @@
         "medal": null
       },
       "pr": {
-        "order": "16",
         "identifier": "ATW700G",
-        "code": "G",
-        "rank": "16",
-        "value": "2:15.64",
-        "property": {
-          "type": "Result Type",
-          "value": "Time"
-        }
+        "value": "2:15.64"
       }
     },
     {
@@ -4090,15 +2319,8 @@
         "medal": null
       },
       "pr": {
-        "order": "15",
         "identifier": "ATW700G",
-        "code": "G",
-        "rank": "15",
-        "value": "2:15.32",
-        "property": {
-          "type": "Result Type",
-          "value": "Time"
-        }
+        "value": "2:15.32"
       }
     },
     {
@@ -4109,15 +2331,8 @@
         "medal": null
       },
       "pr": {
-        "order": "14",
         "identifier": "ATW700G",
-        "code": "G",
-        "rank": "14",
-        "value": "2:14.65",
-        "property": {
-          "type": "Result Type",
-          "value": "Time"
-        }
+        "value": "2:14.65"
       }
     },
     {
@@ -4128,15 +2343,8 @@
         "medal": null
       },
       "pr": {
-        "order": "13",
         "identifier": "ATW700G",
-        "code": "G",
-        "rank": "13",
-        "value": "2:14.47",
-        "property": {
-          "type": "Result Type",
-          "value": "Time"
-        }
+        "value": "2:14.47"
       }
     },
     {
@@ -4147,15 +2355,8 @@
         "medal": null
       },
       "pr": {
-        "order": "12",
         "identifier": "ATW700G",
-        "code": "G",
-        "rank": "12",
-        "value": "2:14.32",
-        "property": {
-          "type": "Result Type",
-          "value": "Time"
-        }
+        "value": "2:14.32"
       }
     },
     {
@@ -4166,15 +2367,8 @@
         "medal": null
       },
       "pr": {
-        "order": "11",
         "identifier": "ATW700G",
-        "code": "G",
-        "rank": "11",
-        "value": "2:14.20",
-        "property": {
-          "type": "Result Type",
-          "value": "Time"
-        }
+        "value": "2:14.20"
       }
     },
     {
@@ -4185,15 +2379,8 @@
         "medal": null
       },
       "pr": {
-        "order": "10",
         "identifier": "ATW700G",
-        "code": "G",
-        "rank": "10",
-        "value": "2:13.82",
-        "property": {
-          "type": "Result Type",
-          "value": "Time"
-        }
+        "value": "2:13.82"
       }
     },
     {
@@ -4204,15 +2391,8 @@
         "medal": null
       },
       "pr": {
-        "order": "9",
         "identifier": "ATW700G",
-        "code": "G",
-        "rank": "9",
-        "value": "2:13.46",
-        "property": {
-          "type": "Result Type",
-          "value": "Time"
-        }
+        "value": "2:13.46"
       }
     },
     {
@@ -4223,15 +2403,8 @@
         "medal": null
       },
       "pr": {
-        "order": "8",
         "identifier": "ATW700G",
-        "code": "G",
-        "rank": "8",
-        "value": "2:11.76",
-        "property": {
-          "type": "Result Type",
-          "value": "Time"
-        }
+        "value": "2:11.76"
       }
     },
     {
@@ -4242,15 +2415,8 @@
         "medal": null
       },
       "pr": {
-        "order": "7",
         "identifier": "ATW700G",
-        "code": "G",
-        "rank": "7",
-        "value": "2:11.61",
-        "property": {
-          "type": "Result Type",
-          "value": "Time"
-        }
+        "value": "2:11.61"
       }
     },
     {
@@ -4261,15 +2427,8 @@
         "medal": null
       },
       "pr": {
-        "order": "6",
         "identifier": "ATW700G",
-        "code": "G",
-        "rank": "6",
-        "value": "2:10.47",
-        "property": {
-          "type": "Result Type",
-          "value": "Time"
-        }
+        "value": "2:10.47"
       }
     },
     {
@@ -4280,15 +2439,8 @@
         "medal": null
       },
       "pr": {
-        "order": "4",
         "identifier": "ATW700G",
-        "code": "G",
-        "rank": "4",
-        "value": "2:09.43",
-        "property": {
-          "type": "Result Type",
-          "value": "Time"
-        }
+        "value": "2:09.43"
       }
     },
     {
@@ -4299,15 +2451,8 @@
         "medal": null
       },
       "pr": {
-        "order": "2",
         "identifier": "ATW700G",
-        "code": "G",
-        "rank": "2",
-        "value": "2:07.22",
-        "property": {
-          "type": "Result Type",
-          "value": "Time"
-        }
+        "value": "2:07.22"
       }
     },
     {
@@ -4318,15 +2463,8 @@
         "medal": null
       },
       "pr": {
-        "order": "1",
         "identifier": "ATW700G",
-        "code": "G",
-        "rank": "1",
-        "value": "2:06.82",
-        "property": {
-          "type": "Result Type",
-          "value": "Time"
-        }
+        "value": "2:06.82"
       }
     },
     {
@@ -4337,15 +2475,8 @@
         "medal": "bronze"
       },
       "pr": {
-        "order": "5",
         "identifier": "ATW700G",
-        "code": "G",
-        "rank": "5",
-        "value": "2:09.50",
-        "property": {
-          "type": "Result Type",
-          "value": "Time"
-        }
+        "value": "2:09.50"
       }
     },
     {
@@ -4356,15 +2487,8 @@
         "medal": "silver"
       },
       "pr": {
-        "order": "3",
         "identifier": "ATW700G",
-        "code": "G",
-        "rank": "3",
-        "value": "2:09.07",
-        "property": {
-          "type": "Result Type",
-          "value": "Time"
-        }
+        "value": "2:09.07"
       }
     },
     {
@@ -4375,15 +2499,8 @@
         "medal": "gold"
       },
       "pr": {
-        "order": "19",
         "identifier": "ATW700G",
-        "code": "G",
-        "rank": "19",
-        "value": "2:16.54",
-        "property": {
-          "type": "Result Type",
-          "value": "Time"
-        }
+        "value": "2:16.54"
       }
     }
   ]

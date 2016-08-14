@@ -53,7 +53,10 @@ let allResultsByDiscipline = _(entrant)
 			.map(o => {
 				return {
 					e : parseEntrant(o.e),
-					pr : o.pr
+					pr : {
+						'identifier' : o.pr.identifier,
+						'value' : o.pr.value
+					}
 				}
 			})
 			.orderBy([
