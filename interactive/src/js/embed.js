@@ -322,11 +322,22 @@ let drawDiscipline = (discipline, width, height, offset, svg) => {
 
             let labelOffset = yScale(discipline.resMapper(d.pr.value)) > width/2 ? -8 : 8
 
+            if(discipline.name === '800m run' &&
+            Math.abs(yScale(discipline.resMapper(d.pr.value)) - width/2)/width < 0.3) {
+                labelOffset = 0
+            }
+
             let x = d.pr.value ? yScale(discipline.resMapper(d.pr.value)) + labelOffset : 0
             return x
         })
 
         .attr('text-anchor', d => {
+
+            if(discipline.name === '800m run' &&
+            Math.abs(yScale(discipline.resMapper(d.pr.value)) - width/2)/width < 0.3) {
+                return 'middle'
+            }
+
             return yScale(discipline.resMapper(d.pr.value)) > width/2 ? 'end' : 'start'
         })
 
@@ -534,7 +545,7 @@ let drawEverything = (vizDiv, config) => {
         .append('svg')
         .attr('class', 'hepta-svg')
 
-    let overallHeight = 700
+    let overallHeight = 731
     let width = parseFloat(window.getComputedStyle($('.hepta-svg')).width)
     illuWidth = windowWidth < 740 ? 80 : 120
     drawViz(width, overallHeight/dNum, svg)

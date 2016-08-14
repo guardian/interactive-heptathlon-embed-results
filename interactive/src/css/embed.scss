@@ -33,8 +33,8 @@ body {
     margin: 34px 2% 20px 4%;
     @include fs-textSans(2);
     text-align: left;
-    border-collapse: collapse;
-    border-spacing: 0;
+    border-collapse: separate;
+    border-spacing: 0 1px;
     //only show this on desktop
     @include mq($until: desktop) {
         display: none;
@@ -215,7 +215,7 @@ td {
 
     box-sizing: border-box;
     width: 100%;
-    height: 700px;
+    height: 731px;
 
     & path, & line {
         vector-effect: non-scaling-stroke;
