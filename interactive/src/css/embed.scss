@@ -30,7 +30,7 @@ body {
     cursor: pointer;
     float: left;
     width: 26%;
-    margin: 34px 0 20px 4%;
+    margin: 34px 2% 20px 4%;
     @include fs-textSans(2);
     text-align: left;
     border-collapse: collapse;
@@ -174,7 +174,7 @@ td {
 .hepta-viz-container {
 
     float: left;
-    width: 70%;
+    width: 68%;
     position: relative;
 
     @include mq($until: desktop) {
