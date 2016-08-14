@@ -30,7 +30,7 @@ body {
     cursor: pointer;
     float: left;
     width: 26%;
-    margin: 37px 0 20px 4%;
+    margin: 34px 0 20px 4%;
     @include fs-textSans(2);
     text-align: left;
     border-collapse: collapse;
@@ -39,6 +39,11 @@ body {
     @include mq($until: desktop) {
         display: none;
     }
+}
+
+.hepta-header-row th {
+    font-weight: 500;
+    padding-bottom: 4px;
 }
 
 .hepta-table-medal {
@@ -79,24 +84,24 @@ td {
     width: 90%;
     max-width: 300px;
     margin: 20px auto;
-    border-radius: 20px;
+    border-radius: 8px;
     height: 40px;
     padding: 12px;
 
     border: none;
 
-    background-color: $lightblue;
+    background-color: rgba($lightblue, 0.4);
 
     &.hepta-select--gold {
-        background-color: $gold;
+        background-color: rgba($gold, 0.4);
     }
 
     &.hepta-select--silver {
-        background-color: $silver;
+        background-color: rgba($silver, 0.4);
     }
 
     &.hepta-select--bronze {
-        background-color: $bronze;
+        background-color: rgba($bronze, 0.4);
     }
 
     //only show this on mobile & tablet
@@ -129,20 +134,25 @@ td {
     opacity: 0.2;
 
     &.hepta-hl {
-
         opacity: 1;
-
-        background-color: rgba($lightblue, 0.4);
-        &.hepta-tr--gold {
-            background-color: rgba($gold, 0.4);
-        }
-        &.hepta-tr--silver {
-            background-color: rgba($silver, 0.4);
-        }
-        &.hepta-tr--bronze {
-            background-color: rgba($bronze, 0.4);
-        }
     }
+}
+
+
+.hepta-td--athlete, .hepta-td--score {
+
+    background-color: rgba($lightblue, 0.4);
+
+    .hepta-tr--gold & {
+        background-color: rgba($gold, 0.4);
+    }
+    .hepta-tr--silver & {
+        background-color: rgba($silver, 0.4);
+    }
+    .hepta-tr--bronze & {
+        background-color: rgba($bronze, 0.4);
+    }
+
 }
 
 .hepta-top {

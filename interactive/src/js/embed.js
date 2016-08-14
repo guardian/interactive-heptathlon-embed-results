@@ -123,7 +123,7 @@ let drawIllus = (height, path, el) => {
         img.setAttribute('src', `${path}/heptathlon-0${i+1}.svg`)
         img.setAttribute('class', 'hepta-illu')
 
-        let topOffset = disciplines.length === 8 ? height : 0
+        let topOffset = 0
 
         img.style.top = margin + (i+0.5)*height + topOffset - offset*illuWidth + 'px'
         img.style.left = horOffsets[i]*illuWidth + 'px'
@@ -465,17 +465,8 @@ let drawViz = (width, height, svg) => {
         .append('g')
         .attr('class', 'hepta-lines')
 
-    if(disciplines.length === 8) {
-        svg.append('rect')
-            .attr('class', 'hepta-total-background')
-            .attr('x', margin)
-            .attr('y', margin)
-            .attr('width', width)
-            .attr('height', height)
-    }
-
     disciplines.forEach((d, i) => {
-        d.data = disciplines.length === 8 ? results[i] : results[i+1]
+        d.data = results[i+1]
         drawDiscipline(d, width, height, margin + height*i, svg)
      })
     drawLines(width, height, lineGroup, svg)
