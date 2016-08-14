@@ -620,6 +620,10 @@ let drawEverything = (vizDiv, config) => {
         e.addEventListener('mouseenter', function(e) {
             highlight(_id)
         })
+
+        e.addEventListener('touch', function(e) {
+            highlight(_id)
+        })
     })
 
 }
