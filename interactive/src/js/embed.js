@@ -264,19 +264,19 @@ let drawDiscipline = (discipline, width, height, offset, svg) => {
         .attr('class', discipline.total ? 'hepta-discipline hepta-discipline--total' : 'hepta-discipline')
 
     let positions = windowWidth > 740 ?
-        [ margin+illuWidth+16, width-margin-44 ] :
-        [width/2 - 12, width/2 + 12]
+        [ margin+illuWidth+44, width-margin-48 ] :
+        [width/2 - 10, width/2 + 10]
 
     svg.append('text')
         .attr('class', 'hepta-legend')
-        .text('< worse')
+        .text('← worse')
         .attr('x', positions[0])
         .attr('y', margin+height/2-24)
         .attr('text-anchor', 'end')
 
     svg.append('text')
         .attr('class', 'hepta-legend')
-        .text('better >')
+        .text('better →')
         .attr('x', positions[1])
         .attr('y', margin+height/2-24)
         .attr('text-anchor', 'begin')

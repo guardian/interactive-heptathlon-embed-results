@@ -30,7 +30,7 @@ body {
     cursor: pointer;
     float: left;
     width: 26%;
-    margin: 34px 2% 20px 4%;
+    margin: 30px 2% 20px 4%;
     @include fs-textSans(2);
     text-align: left;
     border-collapse: separate;
@@ -43,7 +43,7 @@ body {
 
 .hepta-header-row th {
     font-weight: 500;
-    padding-bottom: 4px;
+    padding-bottom: 9px;
 }
 
 .hepta-table-medal {
