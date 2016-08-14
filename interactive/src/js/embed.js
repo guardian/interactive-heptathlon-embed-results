@@ -4,6 +4,8 @@ import * as d3 from './lib/d3'
 import { roundPathCorners } from './lib/roundPathCorners'
 import athletesList from '../renderer/athletesList.json!json'
 
+let dragging = false
+
 Array.prototype.flatMap = function (lambda) {
     return Array.prototype.concat.apply([], this.map(lambda))
 }
@@ -621,8 +623,18 @@ let drawEverything = (vizDiv, config) => {
             highlight(_id)
         })
 
+        e.addEventListener('touchstart', function(e) {
+            dragging = false
+        })
+
+        e.addEventListener('touchmove', function(e) {
+            dragging = true
+        })
+
         e.addEventListener('touchend', function(e) {
-            highlight(_id)
+            if(!dragging) {
+                highlight(_id)
+            }
         })
     })
 
