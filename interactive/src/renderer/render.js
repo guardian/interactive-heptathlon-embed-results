@@ -14,6 +14,14 @@ let parseEntrant = e => {
 
 	let medal = medalProp ? medalProp.value.toLowerCase() : null
 
+	// if(e.rank === '1'){
+	// 	medal = 'gold'
+	// } else if(e.rank === '2'){
+	// 	medal = 'silver'
+	// } else if(e.rank === '3'){
+	// 	medal = 'bronze'
+	// }
+
 	return {
 		name : e.participant.competitor.fullName,
 		country : e.country.identifier,
@@ -55,16 +63,6 @@ let allResultsByDiscipline = _(entrant)
 			.valueOf()
 	})
 	.valueOf()
-
-	allResultsByDiscipline
-	.unshift( entrant.map(e => {
-		return {
-			e : parseEntrant(e),
-			pr : {
-				value : e.value
-			}
-		}
-	}) )
 
 let athletes = entrant.map(e => e.participant.competitor.identifier)
 
@@ -231,104 +229,104 @@ let outJson = disciplines.map( (d, i) => {
 
 fs.writeFileSync('results_parsed.json', JSON.stringify(allResultsByDiscipline, null, 2))
 
-let lineGen = d3.line()
-	.x(d => d.x)
-	.y(d => d.y)
-	.defined(d => d.finished)
+// let lineGen = d3.line()
+// 	.x(d => d.x)
+// 	.y(d => d.y)
+// 	.defined(d => d.finished)
 
-let nodes = athletes.map(identifier => {
-	let nodes = _(svg.selectAll(`.hepta-result-group[data-id="${identifier}"]`).nodes())
-		.map(n => {
-			return {
-				_id : n.getAttribute('data-id'),
-				finished : n.getAttribute('data-finished'),
-				x : n.querySelector('circle').getAttribute('cx'),
-				y : n.querySelector('circle').getAttribute('cy')
-			}
-		})
-		.flatMap((node, i, arr) => {
-			if(arr[i+1]){
-				let nextNode = arr[i+1]
-				return [
-					node,
-					{
-						x : node.x ,
-						y : parseFloat(node.y) + height/2,
-						_id : node._id,
-						finished : node.finished && nextNode.finished
-					},
-					{
-						x : nextNode.x ,
-						y : parseFloat(node.y) + height/2,
-						_id : node._id,
-						finished : node.finished
-					}
-				]
-			}
-			return node
-		})
-		.valueOf()
+// let nodes = athletes.map(identifier => {
+// 	let nodes = _(svg.selectAll(`.hepta-result-group[data-id="${identifier}"]`).nodes())
+// 		.map(n => {
+// 			return {
+// 				_id : n.getAttribute('data-id'),
+// 				finished : n.getAttribute('data-finished'),
+// 				x : n.querySelector('circle').getAttribute('cx'),
+// 				y : n.querySelector('circle').getAttribute('cy')
+// 			}
+// 		})
+// 		.flatMap((node, i, arr) => {
+// 			if(arr[i+1]){
+// 				let nextNode = arr[i+1]
+// 				return [
+// 					node,
+// 					{
+// 						x : node.x ,
+// 						y : parseFloat(node.y) + height/2,
+// 						_id : node._id,
+// 						finished : node.finished && nextNode.finished
+// 					},
+// 					{
+// 						x : nextNode.x ,
+// 						y : parseFloat(node.y) + height/2,
+// 						_id : node._id,
+// 						finished : node.finished
+// 					}
+// 				]
+// 			}
+// 			return node
+// 		})
+// 		.valueOf()
 
-	return nodes
-})
+// 	return nodes
+// })
 
-lineGroup.selectAll('.hepta-line')
-	.data(nodes)
-	.enter()
-	.append('path')
-	.attr('d', d => {
+// lineGroup.selectAll('.hepta-line')
+// 	.data(nodes)
+// 	.enter()
+// 	.append('path')
+// 	.attr('d', d => {
 
-		return roundPathCorners(lineGen(d).replace(/([A-Za-z])/g, ' $1 ').replace(/,/g, ' ').slice(1), 20)
-	})
-	.attr('data-id', d => d[0]._id)
-	.attr('class', 'hepta-line hepta-hidden')
-
-
-let voronoi = d3.voronoi()
-	.extent([[0, 0], [width, height*7]])
-	.x(d => d.x)
-	.y(d => d.y)
-
-let voronoiNodes = _(svg.selectAll('.hepta-result-group').nodes())
-	.filter(g => g.getAttribute('data-finished'))
-	.map(node => {
-
-		let m = node.querySelector('circle').classList.toString().match(/medal--(.*)/)
-		m = m ? m[1] : null
-
-		return {
-			x : parseFloat(node.querySelector('circle').getAttribute('cx')),
-	 		y : parseFloat(node.querySelector('circle').getAttribute('cy')),
-	 		_id : node.getAttribute('data-id'),
-	 		medal : m
-	 	}
-	})
-
-	.sortBy(
-		n => ['bronze', 'silver', 'gold'].indexOf(n.medal)
-	)
-	.reverse()
-	.map(x => {
-		return x
-	})
-	.uniqWith((a,b) => {
-		return a.x === b.x && a.y === b.y
-	})
-	.valueOf()
-
-let polys = voronoi(voronoiNodes).polygons()
-
-svg.selectAll('.hepta-voronoi')
-	.data(polys)
-	.enter()
-	.append('path')
-	.attr('d', (d, i) => {
-		return "M" + d.join("L") + "Z";
-	})
-	.attr('class', 'hepta-voronoi')
-	.attr('data-id', d => d.data._id)
+// 		return roundPathCorners(lineGen(d).replace(/([A-Za-z])/g, ' $1 ').replace(/,/g, ' ').slice(1), 20)
+// 	})
+// 	.attr('data-id', d => d[0]._id)
+// 	.attr('class', 'hepta-line hepta-hidden')
 
 
-let interpolSvg = svgEl.outerHTML
+// let voronoi = d3.voronoi()
+// 	.extent([[0, 0], [width, height*7]])
+// 	.x(d => d.x)
+// 	.y(d => d.y)
 
-fs.writeFileSync('heptathlon.svg', svgEl.outerHTML)
+// let voronoiNodes = _(svg.selectAll('.hepta-result-group').nodes())
+// 	.filter(g => g.getAttribute('data-finished'))
+// 	.map(node => {
+
+// 		let m = node.querySelector('circle').classList.toString().match(/medal--(.*)/)
+// 		m = m ? m[1] : null
+
+// 		return {
+// 			x : parseFloat(node.querySelector('circle').getAttribute('cx')),
+// 	 		y : parseFloat(node.querySelector('circle').getAttribute('cy')),
+// 	 		_id : node.getAttribute('data-id'),
+// 	 		medal : m
+// 	 	}
+// 	})
+
+// 	.sortBy(
+// 		n => ['bronze', 'silver', 'gold'].indexOf(n.medal)
+// 	)
+// 	.reverse()
+// 	.map(x => {
+// 		return x
+// 	})
+// 	.uniqWith((a,b) => {
+// 		return a.x === b.x && a.y === b.y
+// 	})
+// 	.valueOf()
+
+// let polys = voronoi(voronoiNodes).polygons()
+
+// svg.selectAll('.hepta-voronoi')
+// 	.data(polys)
+// 	.enter()
+// 	.append('path')
+// 	.attr('d', (d, i) => {
+// 		return "M" + d.join("L") + "Z";
+// 	})
+// 	.attr('class', 'hepta-voronoi')
+// 	.attr('data-id', d => d.data._id)
+
+
+// let interpolSvg = svgEl.outerHTML
+
+// fs.writeFileSync('heptathlon.svg', svgEl.outerHTML)

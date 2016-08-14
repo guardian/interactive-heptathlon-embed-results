@@ -4,353 +4,11 @@
       "e": {
         "name": "Grit Sadeiko",
         "country": "EST",
-        "identifier": "7011724",
-        "medal": "gold"
-      },
-      "pr": {
-        "value": "7352"
-      }
-    },
-    {
-      "e": {
-        "name": "Aiga Grabuste",
-        "country": "LAT",
-        "identifier": "7011875",
-        "medal": "silver"
-      },
-      "pr": {
-        "value": "7011"
-      }
-    },
-    {
-      "e": {
-        "name": "Ellen Sprunger",
-        "country": "SUI",
-        "identifier": "7013720",
-        "medal": "bronze"
-      },
-      "pr": {
-        "value": "6909"
-      }
-    },
-    {
-      "e": {
-        "name": "Julia Machtig",
-        "country": "GER",
-        "identifier": "7013220",
+        "identifier": "1178322",
         "medal": null
       },
       "pr": {
-        "value": "6783"
-      }
-    },
-    {
-      "e": {
-        "name": "Tatyana Chernova",
-        "country": "RUS",
-        "identifier": "7010180",
-        "medal": null
-      },
-      "pr": {
-        "value": "6578"
-      }
-    },
-    {
-      "e": {
-        "name": "Yana Maksimava",
-        "country": "BLR",
-        "identifier": "7010559",
-        "medal": null
-      },
-      "pr": {
-        "value": "6565"
-      }
-    },
-    {
-      "e": {
-        "name": "Jennifer Oeser",
-        "country": "GER",
-        "identifier": "7013233",
-        "medal": null
-      },
-      "pr": {
-        "value": "6543"
-      }
-    },
-    {
-      "e": {
-        "name": "Jessica Zelinka",
-        "country": "CAN",
-        "identifier": "7011463",
-        "medal": null
-      },
-      "pr": {
-        "value": "6524"
-      }
-    },
-    {
-      "e": {
-        "name": "Ivona Dadic",
-        "country": "AUT",
-        "identifier": "7014620",
-        "medal": null
-      },
-      "pr": {
-        "value": "6491"
-      }
-    },
-    {
-      "e": {
-        "name": "Gyorgyi Farkas",
-        "country": "HUN",
-        "identifier": "7010962",
-        "medal": null
-      },
-      "pr": {
-        "value": "6276"
-      }
-    },
-    {
-      "e": {
-        "name": "Karolina Tyminska",
-        "country": "POL",
-        "identifier": "7011148",
-        "medal": null
-      },
-      "pr": {
-        "value": "6189"
-      }
-    },
-    {
-      "e": {
-        "name": "Jessica Samuel",
-        "country": "SWE",
-        "identifier": "7011135",
-        "medal": null
-      },
-      "pr": {
-        "value": "6030"
-      }
-    },
-    {
-      "e": {
-        "name": "Uhunoma Osazuwa",
-        "country": "NGR",
-        "identifier": "7014453",
-        "medal": null
-      },
-      "pr": {
-        "value": "6012"
-      }
-    },
-    {
-      "e": {
-        "name": "Dafne Schippers",
-        "country": "NED",
-        "identifier": "7013076",
-        "medal": null
-      },
-      "pr": {
-        "value": "5929"
-      }
-    },
-    {
-      "e": {
-        "name": "Nadine Broersen",
-        "country": "NED",
-        "identifier": "7013061",
-        "medal": null
-      },
-      "pr": {
-        "value": "5907"
-      }
-    },
-    {
-      "e": {
-        "name": "Olga Kurban",
-        "country": "RUS",
-        "identifier": "7010091",
-        "medal": null
-      },
-      "pr": {
-        "value": "5892"
-      }
-    },
-    {
-      "e": {
-        "name": "Lilli Schwarzkopf",
-        "country": "GER",
-        "identifier": "7013253",
-        "medal": null
-      },
-      "pr": {
-        "value": "5892"
-      }
-    },
-    {
-      "e": {
-        "name": "Chantae McMillan",
-        "country": "USA",
-        "identifier": "7014426",
-        "medal": null
-      },
-      "pr": {
-        "value": "5876"
-      }
-    },
-    {
-      "e": {
-        "name": "Lyudmyla Yosypenko",
-        "country": "UKR",
-        "identifier": "7012273",
-        "medal": null
-      },
-      "pr": {
-        "value": "5826"
-      }
-    },
-    {
-      "e": {
-        "name": "Louise Hazel",
-        "country": "GBR",
-        "identifier": "7012137",
-        "medal": null
-      },
-      "pr": {
-        "value": "5661"
-      }
-    },
-    {
-      "e": {
-        "name": "Laura Ikauniece",
-        "country": "LAT",
-        "identifier": "7011886",
-        "medal": null
-      },
-      "pr": {
-        "value": "5633"
-      }
-    },
-    {
-      "e": {
-        "name": "Marisa de Aniceto",
-        "country": "FRA",
-        "identifier": "7013332",
-        "medal": null
-      },
-      "pr": {
-        "value": "5550"
-      }
-    },
-    {
-      "e": {
-        "name": "Hyleas Fountain",
-        "country": "USA",
-        "identifier": "7013840",
-        "medal": null
-      },
-      "pr": {
-        "value": "5530"
-      }
-    },
-    {
-      "e": {
-        "name": "Sharon Day",
-        "country": "USA",
-        "identifier": "7013899",
-        "medal": null
-      },
-      "pr": {
-        "value": "5529"
-      }
-    },
-    {
-      "e": {
-        "name": "Hanna Melnychenko",
-        "country": "UKR",
-        "identifier": "7011387",
-        "medal": null
-      },
-      "pr": {
-        "value": "5505"
-      }
-    },
-    {
-      "e": {
-        "name": "Katarina Johnson-Thompson",
-        "country": "GBR",
-        "identifier": "7013693",
-        "medal": null
-      },
-      "pr": {
-        "value": "4898"
-      }
-    },
-    {
-      "e": {
-        "name": "Eliska Klucinova",
-        "country": "CZE",
-        "identifier": "7012863",
-        "medal": null
-      },
-      "pr": {}
-    },
-    {
-      "e": {
-        "name": "Margaret Simpson",
-        "country": "GHA",
-        "identifier": "7012025",
-        "medal": null
-      },
-      "pr": {}
-    },
-    {
-      "e": {
-        "name": "Jessica Ennis",
-        "country": "GBR",
-        "identifier": "7012132",
-        "medal": null
-      },
-      "pr": {}
-    },
-    {
-      "e": {
-        "name": "Antoinette Nana Djimou Ida",
-        "country": "FRA",
-        "identifier": "7013358",
-        "medal": null
-      },
-      "pr": {}
-    },
-    {
-      "e": {
-        "name": "Kristina Savitskaya",
-        "country": "RUS",
-        "identifier": "7010219",
-        "medal": null
-      },
-      "pr": {}
-    },
-    {
-      "e": {
-        "name": "Brianne Theisen",
-        "country": "CAN",
-        "identifier": "7011460",
-        "medal": null
-      },
-      "pr": {}
-    }
-  ],
-  [
-    {
-      "e": {
-        "name": "Hanna Melnychenko",
-        "country": "UKR",
-        "identifier": "7011387",
-        "medal": null
-      },
-      "pr": {
-        "order": "30",
+        "order": "31",
         "identifier": "ATW700A",
         "code": "A",
         "property": [
@@ -360,58 +18,24 @@
           },
           {
             "type": "Wind Speed",
-            "value": "-0.7"
+            "value": "+0.3"
           }
         ]
       }
     },
     {
       "e": {
-        "name": "Antoinette Nana Djimou Ida",
-        "country": "FRA",
-        "identifier": "7013358",
+        "name": "Ekaterina Voronina",
+        "country": "UZB",
+        "identifier": "1100814",
         "medal": null
       },
       "pr": {
-        "order": "31",
+        "order": "30",
         "identifier": "ATW700A",
         "code": "A",
-        "property": {
-          "type": "Invalid Result Mark",
-          "value": "Did Not Finish"
-        }
-      }
-    },
-    {
-      "e": {
-        "name": "Kristina Savitskaya",
-        "country": "RUS",
-        "identifier": "7010219",
-        "medal": null
-      },
-      "pr": {
-        "order": "32",
-        "identifier": "ATW700A",
-        "code": "A",
-        "property": {
-          "type": "Invalid Result Mark",
-          "value": "Did Not Finish"
-        }
-      }
-    },
-    {
-      "e": {
-        "name": "Marisa de Aniceto",
-        "country": "FRA",
-        "identifier": "7013332",
-        "medal": null
-      },
-      "pr": {
-        "order": "29",
-        "identifier": "ATW700A",
-        "code": "A",
-        "rank": "29",
-        "value": "13.40",
+        "rank": "30",
+        "value": "15.21",
         "property": [
           {
             "type": "Result Type",
@@ -419,16 +43,41 @@
           },
           {
             "type": "Wind Speed",
-            "value": "+1.5"
+            "value": "-0.2"
           }
         ]
       }
     },
     {
       "e": {
-        "name": "Uhunoma Osazuwa",
-        "country": "NGR",
-        "identifier": "7014453",
+        "name": "Vanessa Chefer",
+        "country": "BRA",
+        "identifier": "1216978",
+        "medal": null
+      },
+      "pr": {
+        "order": "29",
+        "identifier": "ATW700A",
+        "code": "A",
+        "rank": "29",
+        "value": "14.24",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Time"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "-0.2"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Alina Fodorova",
+        "country": "UKR",
+        "identifier": "1194920",
         "medal": null
       },
       "pr": {
@@ -436,7 +85,7 @@
         "identifier": "ATW700A",
         "code": "A",
         "rank": "28",
-        "value": "13.29",
+        "value": "14.10",
         "property": [
           {
             "type": "Result Type",
@@ -444,24 +93,24 @@
           },
           {
             "type": "Wind Speed",
-            "value": "+1.5"
+            "value": "-0.2"
           }
         ]
       }
     },
     {
       "e": {
-        "name": "Brianne Theisen",
-        "country": "CAN",
-        "identifier": "7011460",
+        "name": "Eliska Klucinova",
+        "country": "CZE",
+        "identifier": "1226792",
         "medal": null
       },
       "pr": {
         "order": "27",
         "identifier": "ATW700A",
         "code": "A",
-        "rank": "27",
-        "value": "13.24",
+        "rank": "26",
+        "value": "14.07",
         "property": [
           {
             "type": "Result Type",
@@ -469,16 +118,16 @@
           },
           {
             "type": "Wind Speed",
-            "value": "-0.7"
+            "value": "-0.2"
           }
         ]
       }
     },
     {
       "e": {
-        "name": "Hyleas Fountain",
-        "country": "USA",
-        "identifier": "7013840",
+        "name": "Alysbeth Felix",
+        "country": "PUR",
+        "identifier": "1136380",
         "medal": null
       },
       "pr": {
@@ -486,7 +135,7 @@
         "identifier": "ATW700A",
         "code": "A",
         "rank": "26",
-        "value": "13.22",
+        "value": "14.07",
         "property": [
           {
             "type": "Result Type",
@@ -494,16 +143,16 @@
           },
           {
             "type": "Wind Speed",
-            "value": "+1.5"
+            "value": "+0.3"
           }
         ]
       }
     },
     {
       "e": {
-        "name": "Lyudmyla Yosypenko",
-        "country": "UKR",
-        "identifier": "7012273",
+        "name": "Sofia Yfantidou",
+        "country": "GRE",
+        "identifier": "1195391",
         "medal": null
       },
       "pr": {
@@ -511,7 +160,7 @@
         "identifier": "ATW700A",
         "code": "A",
         "rank": "25",
-        "value": "13.14",
+        "value": "13.99",
         "property": [
           {
             "type": "Result Type",
@@ -519,24 +168,24 @@
           },
           {
             "type": "Wind Speed",
-            "value": "+0.6"
+            "value": "+0.3"
           }
         ]
       }
     },
     {
       "e": {
-        "name": "Gyorgyi Farkas",
-        "country": "HUN",
-        "identifier": "7010962",
+        "name": "Evelis Aguilar",
+        "country": "COL",
+        "identifier": "1068391",
         "medal": null
       },
       "pr": {
-        "order": "24",
+        "order": "23",
         "identifier": "ATW700A",
         "code": "A",
-        "rank": "24",
-        "value": "13.13",
+        "rank": "23",
+        "value": "13.84",
         "property": [
           {
             "type": "Result Type",
@@ -544,132 +193,7 @@
           },
           {
             "type": "Wind Speed",
-            "value": "-0.7"
-          }
-        ]
-      }
-    },
-    {
-      "e": {
-        "name": "Jessica Zelinka",
-        "country": "CAN",
-        "identifier": "7011463",
-        "medal": null
-      },
-      "pr": {
-        "order": "21",
-        "identifier": "ATW700A",
-        "code": "A",
-        "rank": "21",
-        "value": "13.04",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Time"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "+0.6"
-          }
-        ]
-      }
-    },
-    {
-      "e": {
-        "name": "Olga Kurban",
-        "country": "RUS",
-        "identifier": "7010091",
-        "medal": null
-      },
-      "pr": {
-        "order": "20",
-        "identifier": "ATW700A",
-        "code": "A",
-        "rank": "20",
-        "value": "13.01",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Time"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "+0.6"
-          }
-        ]
-      }
-    },
-    {
-      "e": {
-        "name": "Chantae McMillan",
-        "country": "USA",
-        "identifier": "7014426",
-        "medal": null
-      },
-      "pr": {
-        "order": "19",
-        "identifier": "ATW700A",
-        "code": "A",
-        "rank": "19",
-        "value": "12.99",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Time"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "+1.5"
-          }
-        ]
-      }
-    },
-    {
-      "e": {
-        "name": "Nadine Broersen",
-        "country": "NED",
-        "identifier": "7013061",
-        "medal": null
-      },
-      "pr": {
-        "order": "17",
-        "identifier": "ATW700A",
-        "code": "A",
-        "rank": "17",
-        "value": "12.95",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Time"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "+0.1"
-          }
-        ]
-      }
-    },
-    {
-      "e": {
-        "name": "Jessica Ennis",
-        "country": "GBR",
-        "identifier": "7012132",
-        "medal": null
-      },
-      "pr": {
-        "order": "16",
-        "identifier": "ATW700A",
-        "code": "A",
-        "rank": "16",
-        "value": "12.90",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Time"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "+0.6"
+            "value": "-0.2"
           }
         ]
       }
@@ -678,15 +202,15 @@
       "e": {
         "name": "Ivona Dadic",
         "country": "AUT",
-        "identifier": "7014620",
+        "identifier": "1169714",
         "medal": null
       },
       "pr": {
-        "order": "14",
+        "order": "24",
         "identifier": "ATW700A",
         "code": "A",
-        "rank": "14",
-        "value": "12.89",
+        "rank": "23",
+        "value": "13.84",
         "property": [
           {
             "type": "Result Type",
@@ -694,24 +218,24 @@
           },
           {
             "type": "Wind Speed",
-            "value": "+1.5"
+            "value": "-0.2"
           }
         ]
       }
     },
     {
       "e": {
-        "name": "Laura Ikauniece",
-        "country": "LAT",
-        "identifier": "7011886",
+        "name": "Barbara Nwaba",
+        "country": "USA",
+        "identifier": "1127434",
         "medal": null
       },
       "pr": {
-        "order": "15",
+        "order": "22",
         "identifier": "ATW700A",
         "code": "A",
-        "rank": "14",
-        "value": "12.89",
+        "rank": "22",
+        "value": "13.81",
         "property": [
           {
             "type": "Result Type",
@@ -719,24 +243,24 @@
           },
           {
             "type": "Wind Speed",
-            "value": "-0.7"
+            "value": "+0.3"
           }
         ]
       }
     },
     {
       "e": {
-        "name": "Eliska Klucinova",
-        "country": "CZE",
-        "identifier": "7012863",
+        "name": "Gyorgyi Zsivoczky-Farkas",
+        "country": "HUN",
+        "identifier": "1170029",
         "medal": null
       },
       "pr": {
-        "order": "13",
+        "order": "21",
         "identifier": "ATW700A",
         "code": "A",
-        "rank": "13",
-        "value": "12.86",
+        "rank": "21",
+        "value": "13.79",
         "property": [
           {
             "type": "Result Type",
@@ -744,7 +268,32 @@
           },
           {
             "type": "Wind Speed",
-            "value": "+0.1"
+            "value": "-0.2"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Uhunoma Osazuwa",
+        "country": "NGR",
+        "identifier": "1433489",
+        "medal": null
+      },
+      "pr": {
+        "order": "20",
+        "identifier": "ATW700A",
+        "code": "A",
+        "rank": "20",
+        "value": "13.75",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Time"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "-0.3"
           }
         ]
       }
@@ -753,15 +302,15 @@
       "e": {
         "name": "Jennifer Oeser",
         "country": "GER",
-        "identifier": "7013233",
+        "identifier": "1170345",
         "medal": null
       },
       "pr": {
-        "order": "12",
+        "order": "19",
         "identifier": "ATW700A",
         "code": "A",
-        "rank": "11",
-        "value": "12.85",
+        "rank": "19",
+        "value": "13.69",
         "property": [
           {
             "type": "Result Type",
@@ -769,7 +318,157 @@
           },
           {
             "type": "Wind Speed",
-            "value": "+0.1"
+            "value": "+0.3"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Xenia Krizsan",
+        "country": "HUN",
+        "identifier": "1170879",
+        "medal": null
+      },
+      "pr": {
+        "order": "18",
+        "identifier": "ATW700A",
+        "code": "A",
+        "rank": "17",
+        "value": "13.66",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Time"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "-0.3"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Hanna Kasyanova",
+        "country": "UKR",
+        "identifier": "1194203",
+        "medal": null
+      },
+      "pr": {
+        "order": "17",
+        "identifier": "ATW700A",
+        "code": "A",
+        "rank": "17",
+        "value": "13.66",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Time"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "-0.3"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Claudia Rath",
+        "country": "GER",
+        "identifier": "1170373",
+        "medal": null
+      },
+      "pr": {
+        "order": "16",
+        "identifier": "ATW700A",
+        "code": "A",
+        "rank": "16",
+        "value": "13.63",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Time"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "-0.3"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Yorgelis Rodriguez",
+        "country": "CUB",
+        "identifier": "1119468",
+        "medal": null
+      },
+      "pr": {
+        "order": "15",
+        "identifier": "ATW700A",
+        "code": "A",
+        "rank": "15",
+        "value": "13.61",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Time"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "-0.3"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Nadine Broersen",
+        "country": "NED",
+        "identifier": "1213224",
+        "medal": null
+      },
+      "pr": {
+        "order": "12",
+        "identifier": "ATW700A",
+        "code": "A",
+        "rank": "12",
+        "value": "13.56",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Time"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "+0.3"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Heather Miller-Koch",
+        "country": "USA",
+        "identifier": "1127401",
+        "medal": null
+      },
+      "pr": {
+        "order": "13",
+        "identifier": "ATW700A",
+        "code": "A",
+        "rank": "12",
+        "value": "13.56",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Time"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "-0.3"
           }
         ]
       }
@@ -778,7 +477,7 @@
       "e": {
         "name": "Katarina Johnson-Thompson",
         "country": "GBR",
-        "identifier": "7013693",
+        "identifier": "1217677",
         "medal": null
       },
       "pr": {
@@ -786,7 +485,7 @@
         "identifier": "ATW700A",
         "code": "A",
         "rank": "11",
-        "value": "12.85",
+        "value": "13.48",
         "property": [
           {
             "type": "Result Type",
@@ -794,16 +493,41 @@
           },
           {
             "type": "Wind Speed",
-            "value": "+1.5"
+            "value": "-0.3"
           }
         ]
       }
     },
     {
       "e": {
-        "name": "Yana Maksimava",
-        "country": "BLR",
-        "identifier": "7010559",
+        "name": "Anouk Vetter",
+        "country": "NED",
+        "identifier": "1213210",
+        "medal": null
+      },
+      "pr": {
+        "order": "10",
+        "identifier": "ATW700A",
+        "code": "A",
+        "rank": "10",
+        "value": "13.47",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Time"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "-0.3"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Antoinette Nana Djimou Ida",
+        "country": "FRA",
+        "identifier": "1162428",
         "medal": null
       },
       "pr": {
@@ -811,49 +535,18 @@
         "identifier": "ATW700A",
         "code": "A",
         "rank": "9",
-        "value": "12.83",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Time"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "+0.6"
-          }
-        ]
+        "value": "13.37",
+        "property": {
+          "type": "Result Type",
+          "value": "Time"
+        }
       }
     },
     {
       "e": {
-        "name": "Jessica Samuel",
-        "country": "SWE",
-        "identifier": "7011135",
-        "medal": null
-      },
-      "pr": {
-        "order": "10",
-        "identifier": "ATW700A",
-        "code": "A",
-        "rank": "9",
-        "value": "12.83",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Time"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "-0.7"
-          }
-        ]
-      }
-    },
-    {
-      "e": {
-        "name": "Sharon Day",
-        "country": "USA",
-        "identifier": "7013899",
+        "name": "Laura Ikauniece-Admidina",
+        "country": "LAT",
+        "identifier": "1219929",
         "medal": null
       },
       "pr": {
@@ -861,7 +554,7 @@
         "identifier": "ATW700A",
         "code": "A",
         "rank": "8",
-        "value": "12.77",
+        "value": "13.33",
         "property": [
           {
             "type": "Result Type",
@@ -869,16 +562,16 @@
           },
           {
             "type": "Wind Speed",
-            "value": "+1.5"
+            "value": "+0.3"
           }
         ]
       }
     },
     {
       "e": {
-        "name": "Karolina Tyminska",
-        "country": "POL",
-        "identifier": "7011148",
+        "name": "Katerina Cachova",
+        "country": "CZE",
+        "identifier": "1226506",
         "medal": null
       },
       "pr": {
@@ -886,49 +579,37 @@
         "identifier": "ATW700A",
         "code": "A",
         "rank": "7",
-        "value": "12.75",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Time"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "-0.7"
-          }
-        ]
+        "value": "13.19",
+        "property": {
+          "type": "Result Type",
+          "value": "Time"
+        }
       }
     },
     {
       "e": {
-        "name": "Tatyana Chernova",
-        "country": "RUS",
-        "identifier": "7010180",
+        "name": "Carolin Schafer",
+        "country": "GER",
+        "identifier": "1170510",
         "medal": null
       },
       "pr": {
-        "order": "6",
+        "order": "5",
         "identifier": "ATW700A",
         "code": "A",
-        "rank": "6",
-        "value": "12.74",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Time"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "+0.6"
-          }
-        ]
+        "rank": "5",
+        "value": "13.12",
+        "property": {
+          "type": "Result Type",
+          "value": "Time"
+        }
       }
     },
     {
       "e": {
-        "name": "Julia Machtig",
-        "country": "GER",
-        "identifier": "7013220",
+        "name": "Kendell Williams",
+        "country": "USA",
+        "identifier": "1127626",
         "medal": null
       },
       "pr": {
@@ -936,49 +617,18 @@
         "identifier": "ATW700A",
         "code": "A",
         "rank": "4",
-        "value": "12.73",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Time"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "+0.1"
-          }
-        ]
+        "value": "13.04",
+        "property": {
+          "type": "Result Type",
+          "value": "Time"
+        }
       }
     },
     {
       "e": {
-        "name": "Lilli Schwarzkopf",
-        "country": "GER",
-        "identifier": "7013253",
-        "medal": null
-      },
-      "pr": {
-        "order": "5",
-        "identifier": "ATW700A",
-        "code": "A",
-        "rank": "4",
-        "value": "12.73",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Time"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "+0.1"
-          }
-        ]
-      }
-    },
-    {
-      "e": {
-        "name": "Louise Hazel",
-        "country": "GBR",
-        "identifier": "7012137",
+        "name": "Nadine Visser",
+        "country": "NED",
+        "identifier": "1213216",
         "medal": null
       },
       "pr": {
@@ -986,24 +636,18 @@
         "identifier": "ATW700A",
         "code": "A",
         "rank": "3",
-        "value": "12.65",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Time"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "+0.1"
-          }
-        ]
+        "value": "13.02",
+        "property": {
+          "type": "Result Type",
+          "value": "Time"
+        }
       }
     },
     {
       "e": {
-        "name": "Margaret Simpson",
-        "country": "GHA",
-        "identifier": "7012025",
+        "name": "Akela Jones",
+        "country": "BAR",
+        "identifier": "1107221",
         "medal": null
       },
       "pr": {
@@ -1011,107 +655,64 @@
         "identifier": "ATW700A",
         "code": "A",
         "rank": "2",
-        "value": "12.59",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Time"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "+0.1"
-          }
-        ]
+        "value": "13.00",
+        "property": {
+          "type": "Result Type",
+          "value": "Time"
+        }
       }
     },
     {
       "e": {
-        "name": "Dafne Schippers",
-        "country": "NED",
-        "identifier": "7013076",
-        "medal": null
+        "name": "Brianne Theisen Eaton",
+        "country": "CAN",
+        "identifier": "1109890",
+        "medal": "bronze"
+      },
+      "pr": {
+        "order": "6",
+        "identifier": "ATW700A",
+        "code": "A",
+        "rank": "6",
+        "value": "13.18",
+        "property": {
+          "type": "Result Type",
+          "value": "Time"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Jessica Ennis-Hill",
+        "country": "GBR",
+        "identifier": "1217637",
+        "medal": "silver"
       },
       "pr": {
         "order": "1",
         "identifier": "ATW700A",
         "code": "A",
         "rank": "1",
-        "value": "12.55",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Time"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "+0.1"
-          }
-        ]
+        "value": "12.84",
+        "property": {
+          "type": "Result Type",
+          "value": "Time"
+        }
       }
     },
     {
       "e": {
-        "name": "Ellen Sprunger",
-        "country": "SUI",
-        "identifier": "7013720",
-        "medal": "bronze"
-      },
-      "pr": {
-        "order": "23",
-        "identifier": "ATW700A",
-        "code": "A",
-        "rank": "23",
-        "value": "13.11",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Time"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "+1.5"
-          }
-        ]
-      }
-    },
-    {
-      "e": {
-        "name": "Aiga Grabuste",
-        "country": "LAT",
-        "identifier": "7011875",
-        "medal": "silver"
-      },
-      "pr": {
-        "order": "18",
-        "identifier": "ATW700A",
-        "code": "A",
-        "rank": "18",
-        "value": "12.97",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Time"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "-0.7"
-          }
-        ]
-      }
-    },
-    {
-      "e": {
-        "name": "Grit Sadeiko",
-        "country": "EST",
-        "identifier": "7011724",
+        "name": "Nafissatou Thiam",
+        "country": "BEL",
+        "identifier": "1231399",
         "medal": "gold"
       },
       "pr": {
-        "order": "22",
+        "order": "14",
         "identifier": "ATW700A",
         "code": "A",
-        "rank": "22",
-        "value": "13.05",
+        "rank": "12",
+        "value": "13.56",
         "property": [
           {
             "type": "Result Type",
@@ -1119,7 +720,7 @@
           },
           {
             "type": "Wind Speed",
-            "value": "-0.7"
+            "value": "+0.3"
           }
         ]
       }
@@ -1128,9 +729,9 @@
   [
     {
       "e": {
-        "name": "Gyorgyi Farkas",
-        "country": "HUN",
-        "identifier": "7010962",
+        "name": "Grit Sadeiko",
+        "country": "EST",
+        "identifier": "1178322",
         "medal": null
       },
       "pr": {
@@ -1139,117 +740,7 @@
         "code": "B",
         "property": {
           "type": "Invalid Result Mark",
-          "value": "No Mark"
-        }
-      }
-    },
-    {
-      "e": {
-        "name": "Nadine Broersen",
-        "country": "NED",
-        "identifier": "7013061",
-        "medal": null
-      },
-      "pr": {
-        "order": "30",
-        "identifier": "ATW700B",
-        "code": "B",
-        "property": {
-          "type": "Invalid Result Mark",
-          "value": "No Mark"
-        }
-      }
-    },
-    {
-      "e": {
-        "name": "Lilli Schwarzkopf",
-        "country": "GER",
-        "identifier": "7013253",
-        "medal": null
-      },
-      "pr": {
-        "order": "32",
-        "identifier": "ATW700B",
-        "code": "B",
-        "property": {
-          "type": "Invalid Result Mark",
-          "value": "No Mark"
-        }
-      }
-    },
-    {
-      "e": {
-        "name": "Karolina Tyminska",
-        "country": "POL",
-        "identifier": "7011148",
-        "medal": null
-      },
-      "pr": {
-        "order": "4",
-        "identifier": "ATW700B",
-        "code": "B",
-        "rank": "1",
-        "value": "1.80",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
-      }
-    },
-    {
-      "e": {
-        "name": "Jessica Samuel",
-        "country": "SWE",
-        "identifier": "7011135",
-        "medal": null
-      },
-      "pr": {
-        "order": "3",
-        "identifier": "ATW700B",
-        "code": "B",
-        "rank": "1",
-        "value": "1.80",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
-      }
-    },
-    {
-      "e": {
-        "name": "Louise Hazel",
-        "country": "GBR",
-        "identifier": "7012137",
-        "medal": null
-      },
-      "pr": {
-        "order": "1",
-        "identifier": "ATW700B",
-        "code": "B",
-        "rank": "1",
-        "value": "1.80",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
-      }
-    },
-    {
-      "e": {
-        "name": "Marisa de Aniceto",
-        "country": "FRA",
-        "identifier": "7013332",
-        "medal": null
-      },
-      "pr": {
-        "order": "5",
-        "identifier": "ATW700B",
-        "code": "B",
-        "rank": "5",
-        "value": "1.68",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
+          "value": "Did Not Start"
         }
       }
     },
@@ -1257,7 +748,45 @@
       "e": {
         "name": "Katarina Johnson-Thompson",
         "country": "GBR",
-        "identifier": "7013693",
+        "identifier": "1217677",
+        "medal": null
+      },
+      "pr": {
+        "order": "1",
+        "identifier": "ATW700B",
+        "code": "B",
+        "rank": "1",
+        "value": "1.98",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Akela Jones",
+        "country": "BAR",
+        "identifier": "1107221",
+        "medal": null
+      },
+      "pr": {
+        "order": "4",
+        "identifier": "ATW700B",
+        "code": "B",
+        "rank": "3",
+        "value": "1.89",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Yorgelis Rodriguez",
+        "country": "CUB",
+        "identifier": "1119468",
         "medal": null
       },
       "pr": {
@@ -1265,7 +794,121 @@
         "identifier": "ATW700B",
         "code": "B",
         "rank": "5",
-        "value": "1.68",
+        "value": "1.86",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Gyorgyi Zsivoczky-Farkas",
+        "country": "HUN",
+        "identifier": "1170029",
+        "medal": null
+      },
+      "pr": {
+        "order": "8",
+        "identifier": "ATW700B",
+        "code": "B",
+        "rank": "5",
+        "value": "1.86",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Jennifer Oeser",
+        "country": "GER",
+        "identifier": "1170345",
+        "medal": null
+      },
+      "pr": {
+        "order": "5",
+        "identifier": "ATW700B",
+        "code": "B",
+        "rank": "5",
+        "value": "1.86",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Carolin Schafer",
+        "country": "GER",
+        "identifier": "1170510",
+        "medal": null
+      },
+      "pr": {
+        "order": "10",
+        "identifier": "ATW700B",
+        "code": "B",
+        "rank": "9",
+        "value": "1.83",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Barbara Nwaba",
+        "country": "USA",
+        "identifier": "1127434",
+        "medal": null
+      },
+      "pr": {
+        "order": "9",
+        "identifier": "ATW700B",
+        "code": "B",
+        "rank": "9",
+        "value": "1.83",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Kendell Williams",
+        "country": "USA",
+        "identifier": "1127626",
+        "medal": null
+      },
+      "pr": {
+        "order": "11",
+        "identifier": "ATW700B",
+        "code": "B",
+        "rank": "9",
+        "value": "1.83",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Heather Miller-Koch",
+        "country": "USA",
+        "identifier": "1127401",
+        "medal": null
+      },
+      "pr": {
+        "order": "14",
+        "identifier": "ATW700B",
+        "code": "B",
+        "rank": "12",
+        "value": "1.80",
         "property": {
           "type": "Result Type",
           "value": "Distance"
@@ -1276,15 +919,15 @@
       "e": {
         "name": "Eliska Klucinova",
         "country": "CZE",
-        "identifier": "7012863",
+        "identifier": "1226792",
         "medal": null
       },
       "pr": {
-        "order": "7",
+        "order": "13",
         "identifier": "ATW700B",
         "code": "B",
-        "rank": "5",
-        "value": "1.68",
+        "rank": "12",
+        "value": "1.80",
         "property": {
           "type": "Result Type",
           "value": "Distance"
@@ -1293,55 +936,55 @@
     },
     {
       "e": {
-        "name": "Margaret Simpson",
-        "country": "GHA",
-        "identifier": "7012025",
-        "medal": null
-      },
-      "pr": {
-        "order": "8",
-        "identifier": "ATW700B",
-        "code": "B",
-        "rank": "5",
-        "value": "1.68",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
-      }
-    },
-    {
-      "e": {
-        "name": "Julia Machtig",
-        "country": "GER",
-        "identifier": "7013220",
-        "medal": null
-      },
-      "pr": {
-        "order": "10",
-        "identifier": "ATW700B",
-        "code": "B",
-        "rank": "9",
-        "value": "1.65",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
-      }
-    },
-    {
-      "e": {
-        "name": "Hanna Melnychenko",
+        "name": "Alina Fodorova",
         "country": "UKR",
-        "identifier": "7011387",
+        "identifier": "1194920",
         "medal": null
       },
       "pr": {
-        "order": "11",
+        "order": "12",
         "identifier": "ATW700B",
         "code": "B",
-        "rank": "9",
-        "value": "1.65",
+        "rank": "12",
+        "value": "1.80",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Laura Ikauniece-Admidina",
+        "country": "LAT",
+        "identifier": "1219929",
+        "medal": null
+      },
+      "pr": {
+        "order": "18",
+        "identifier": "ATW700B",
+        "code": "B",
+        "rank": "15",
+        "value": "1.77",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Anouk Vetter",
+        "country": "NED",
+        "identifier": "1213210",
+        "medal": null
+      },
+      "pr": {
+        "order": "23",
+        "identifier": "ATW700B",
+        "code": "B",
+        "rank": "15",
+        "value": "1.77",
         "property": {
           "type": "Result Type",
           "value": "Distance"
@@ -1352,53 +995,15 @@
       "e": {
         "name": "Antoinette Nana Djimou Ida",
         "country": "FRA",
-        "identifier": "7013358",
+        "identifier": "1162428",
         "medal": null
       },
       "pr": {
-        "order": "12",
-        "identifier": "ATW700B",
-        "code": "B",
-        "rank": "9",
-        "value": "1.65",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
-      }
-    },
-    {
-      "e": {
-        "name": "Kristina Savitskaya",
-        "country": "RUS",
-        "identifier": "7010219",
-        "medal": null
-      },
-      "pr": {
-        "order": "13",
-        "identifier": "ATW700B",
-        "code": "B",
-        "rank": "9",
-        "value": "1.65",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
-      }
-    },
-    {
-      "e": {
-        "name": "Jennifer Oeser",
-        "country": "GER",
-        "identifier": "7013233",
-        "medal": null
-      },
-      "pr": {
-        "order": "17",
+        "order": "21",
         "identifier": "ATW700B",
         "code": "B",
         "rank": "15",
-        "value": "1.62",
+        "value": "1.77",
         "property": {
           "type": "Result Type",
           "value": "Distance"
@@ -1407,85 +1012,9 @@
     },
     {
       "e": {
-        "name": "Jessica Zelinka",
-        "country": "CAN",
-        "identifier": "7011463",
-        "medal": null
-      },
-      "pr": {
-        "order": "20",
-        "identifier": "ATW700B",
-        "code": "B",
-        "rank": "15",
-        "value": "1.62",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
-      }
-    },
-    {
-      "e": {
-        "name": "Uhunoma Osazuwa",
-        "country": "NGR",
-        "identifier": "7014453",
-        "medal": null
-      },
-      "pr": {
-        "order": "18",
-        "identifier": "ATW700B",
-        "code": "B",
-        "rank": "15",
-        "value": "1.62",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
-      }
-    },
-    {
-      "e": {
-        "name": "Lyudmyla Yosypenko",
-        "country": "UKR",
-        "identifier": "7012273",
-        "medal": null
-      },
-      "pr": {
-        "order": "19",
-        "identifier": "ATW700B",
-        "code": "B",
-        "rank": "15",
-        "value": "1.62",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
-      }
-    },
-    {
-      "e": {
-        "name": "Laura Ikauniece",
-        "country": "LAT",
-        "identifier": "7011886",
-        "medal": null
-      },
-      "pr": {
-        "order": "16",
-        "identifier": "ATW700B",
-        "code": "B",
-        "rank": "15",
-        "value": "1.62",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
-      }
-    },
-    {
-      "e": {
-        "name": "Jessica Ennis",
-        "country": "GBR",
-        "identifier": "7012132",
+        "name": "Nadine Broersen",
+        "country": "NED",
+        "identifier": "1213224",
         "medal": null
       },
       "pr": {
@@ -1493,7 +1022,7 @@
         "identifier": "ATW700B",
         "code": "B",
         "rank": "15",
-        "value": "1.62",
+        "value": "1.77",
         "property": {
           "type": "Result Type",
           "value": "Distance"
@@ -1502,17 +1031,17 @@
     },
     {
       "e": {
-        "name": "Yana Maksimava",
-        "country": "BLR",
-        "identifier": "7010559",
+        "name": "Xenia Krizsan",
+        "country": "HUN",
+        "identifier": "1170879",
         "medal": null
       },
       "pr": {
-        "order": "25",
+        "order": "20",
         "identifier": "ATW700B",
         "code": "B",
-        "rank": "21",
-        "value": "1.59",
+        "rank": "15",
+        "value": "1.77",
         "property": {
           "type": "Result Type",
           "value": "Distance"
@@ -1523,15 +1052,15 @@
       "e": {
         "name": "Ivona Dadic",
         "country": "AUT",
-        "identifier": "7014620",
+        "identifier": "1169714",
         "medal": null
       },
       "pr": {
-        "order": "21",
+        "order": "17",
         "identifier": "ATW700B",
         "code": "B",
-        "rank": "21",
-        "value": "1.59",
+        "rank": "15",
+        "value": "1.77",
         "property": {
           "type": "Result Type",
           "value": "Distance"
@@ -1540,17 +1069,17 @@
     },
     {
       "e": {
-        "name": "Dafne Schippers",
-        "country": "NED",
-        "identifier": "7013076",
+        "name": "Katerina Cachova",
+        "country": "CZE",
+        "identifier": "1226506",
         "medal": null
       },
       "pr": {
-        "order": "27",
+        "order": "16",
         "identifier": "ATW700B",
         "code": "B",
-        "rank": "21",
-        "value": "1.59",
+        "rank": "15",
+        "value": "1.77",
         "property": {
           "type": "Result Type",
           "value": "Distance"
@@ -1559,17 +1088,17 @@
     },
     {
       "e": {
-        "name": "Olga Kurban",
-        "country": "RUS",
-        "identifier": "7010091",
+        "name": "Hanna Kasyanova",
+        "country": "UKR",
+        "identifier": "1194203",
         "medal": null
       },
       "pr": {
-        "order": "24",
+        "order": "19",
         "identifier": "ATW700B",
         "code": "B",
-        "rank": "21",
-        "value": "1.59",
+        "rank": "15",
+        "value": "1.77",
         "property": {
           "type": "Result Type",
           "value": "Distance"
@@ -1578,55 +1107,17 @@
     },
     {
       "e": {
-        "name": "Chantae McMillan",
-        "country": "USA",
-        "identifier": "7014426",
-        "medal": null
-      },
-      "pr": {
-        "order": "26",
-        "identifier": "ATW700B",
-        "code": "B",
-        "rank": "21",
-        "value": "1.59",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
-      }
-    },
-    {
-      "e": {
-        "name": "Hyleas Fountain",
-        "country": "USA",
-        "identifier": "7013840",
-        "medal": null
-      },
-      "pr": {
-        "order": "23",
-        "identifier": "ATW700B",
-        "code": "B",
-        "rank": "21",
-        "value": "1.59",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
-      }
-    },
-    {
-      "e": {
-        "name": "Sharon Day",
-        "country": "USA",
-        "identifier": "7013899",
+        "name": "Uhunoma Osazuwa",
+        "country": "NGR",
+        "identifier": "1433489",
         "medal": null
       },
       "pr": {
         "order": "22",
         "identifier": "ATW700B",
         "code": "B",
-        "rank": "21",
-        "value": "1.59",
+        "rank": "15",
+        "value": "1.77",
         "property": {
           "type": "Result Type",
           "value": "Distance"
@@ -1635,17 +1126,55 @@
     },
     {
       "e": {
-        "name": "Brianne Theisen",
-        "country": "CAN",
-        "identifier": "7011460",
+        "name": "Claudia Rath",
+        "country": "GER",
+        "identifier": "1170373",
+        "medal": null
+      },
+      "pr": {
+        "order": "25",
+        "identifier": "ATW700B",
+        "code": "B",
+        "rank": "24",
+        "value": "1.74",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Evelis Aguilar",
+        "country": "COL",
+        "identifier": "1068391",
+        "medal": null
+      },
+      "pr": {
+        "order": "24",
+        "identifier": "ATW700B",
+        "code": "B",
+        "rank": "24",
+        "value": "1.74",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Nadine Visser",
+        "country": "NED",
+        "identifier": "1213216",
         "medal": null
       },
       "pr": {
         "order": "28",
         "identifier": "ATW700B",
         "code": "B",
-        "rank": "21",
-        "value": "1.59",
+        "rank": "26",
+        "value": "1.68",
         "property": {
           "type": "Result Type",
           "value": "Distance"
@@ -1654,9 +1183,66 @@
     },
     {
       "e": {
-        "name": "Tatyana Chernova",
-        "country": "RUS",
-        "identifier": "7010180",
+        "name": "Vanessa Chefer",
+        "country": "BRA",
+        "identifier": "1216978",
+        "medal": null
+      },
+      "pr": {
+        "order": "26",
+        "identifier": "ATW700B",
+        "code": "B",
+        "rank": "26",
+        "value": "1.68",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Alysbeth Felix",
+        "country": "PUR",
+        "identifier": "1136380",
+        "medal": null
+      },
+      "pr": {
+        "order": "27",
+        "identifier": "ATW700B",
+        "code": "B",
+        "rank": "26",
+        "value": "1.68",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Sofia Yfantidou",
+        "country": "GRE",
+        "identifier": "1195391",
+        "medal": null
+      },
+      "pr": {
+        "order": "30",
+        "identifier": "ATW700B",
+        "code": "B",
+        "rank": "29",
+        "value": "1.65",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Ekaterina Voronina",
+        "country": "UZB",
+        "identifier": "1100814",
         "medal": null
       },
       "pr": {
@@ -1664,7 +1250,7 @@
         "identifier": "ATW700B",
         "code": "B",
         "rank": "29",
-        "value": "1.29",
+        "value": "1.65",
         "property": {
           "type": "Result Type",
           "value": "Distance"
@@ -1673,17 +1259,17 @@
     },
     {
       "e": {
-        "name": "Ellen Sprunger",
-        "country": "SUI",
-        "identifier": "7013720",
+        "name": "Brianne Theisen Eaton",
+        "country": "CAN",
+        "identifier": "1109890",
         "medal": "bronze"
       },
       "pr": {
-        "order": "14",
+        "order": "7",
         "identifier": "ATW700B",
         "code": "B",
-        "rank": "9",
-        "value": "1.65",
+        "rank": "5",
+        "value": "1.86",
         "property": {
           "type": "Result Type",
           "value": "Distance"
@@ -1692,17 +1278,17 @@
     },
     {
       "e": {
-        "name": "Aiga Grabuste",
-        "country": "LAT",
-        "identifier": "7011875",
+        "name": "Jessica Ennis-Hill",
+        "country": "GBR",
+        "identifier": "1217637",
         "medal": "silver"
       },
       "pr": {
-        "order": "9",
+        "order": "3",
         "identifier": "ATW700B",
         "code": "B",
-        "rank": "9",
-        "value": "1.65",
+        "rank": "3",
+        "value": "1.89",
         "property": {
           "type": "Result Type",
           "value": "Distance"
@@ -1711,9 +1297,9 @@
     },
     {
       "e": {
-        "name": "Grit Sadeiko",
-        "country": "EST",
-        "identifier": "7011724",
+        "name": "Nafissatou Thiam",
+        "country": "BEL",
+        "identifier": "1231399",
         "medal": "gold"
       },
       "pr": {
@@ -1721,7 +1307,7 @@
         "identifier": "ATW700B",
         "code": "B",
         "rank": "1",
-        "value": "1.80",
+        "value": "1.98",
         "property": {
           "type": "Result Type",
           "value": "Distance"
@@ -1732,62 +1318,26 @@
   [
     {
       "e": {
-        "name": "Katarina Johnson-Thompson",
-        "country": "GBR",
-        "identifier": "7013693",
+        "name": "Ekaterina Voronina",
+        "country": "UZB",
+        "identifier": "1100814",
         "medal": null
       },
       "pr": {
-        "order": "31",
+        "order": "30",
         "identifier": "ATW700C",
         "code": "C",
         "property": {
           "type": "Invalid Result Mark",
-          "value": "No Mark"
+          "value": "Did Not Start"
         }
       }
     },
     {
       "e": {
-        "name": "Eliska Klucinova",
-        "country": "CZE",
-        "identifier": "7012863",
-        "medal": null
-      },
-      "pr": {
-        "order": "32",
-        "identifier": "ATW700C",
-        "code": "C",
-        "property": {
-          "type": "Invalid Result Mark",
-          "value": "No Mark"
-        }
-      }
-    },
-    {
-      "e": {
-        "name": "Sharon Day",
-        "country": "USA",
-        "identifier": "7013899",
-        "medal": null
-      },
-      "pr": {
-        "order": "1",
-        "identifier": "ATW700C",
-        "code": "C",
-        "rank": "1",
-        "value": "14.99",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
-      }
-    },
-    {
-      "e": {
-        "name": "Dafne Schippers",
-        "country": "NED",
-        "identifier": "7013076",
+        "name": "Antoinette Nana Djimou Ida",
+        "country": "FRA",
+        "identifier": "1162428",
         "medal": null
       },
       "pr": {
@@ -1795,7 +1345,7 @@
         "identifier": "ATW700C",
         "code": "C",
         "rank": "2",
-        "value": "14.93",
+        "value": "14.88",
         "property": {
           "type": "Result Type",
           "value": "Distance"
@@ -1804,17 +1354,36 @@
     },
     {
       "e": {
-        "name": "Lyudmyla Yosypenko",
-        "country": "UKR",
-        "identifier": "7012273",
+        "name": "Barbara Nwaba",
+        "country": "USA",
+        "identifier": "1127434",
+        "medal": null
+      },
+      "pr": {
+        "order": "3",
+        "identifier": "ATW700C",
+        "code": "C",
+        "rank": "3",
+        "value": "14.81",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Anouk Vetter",
+        "country": "NED",
+        "identifier": "1213210",
         "medal": null
       },
       "pr": {
         "order": "4",
         "identifier": "ATW700C",
         "code": "C",
-        "rank": "3",
-        "value": "14.90",
+        "rank": "4",
+        "value": "14.78",
         "property": {
           "type": "Result Type",
           "value": "Distance"
@@ -1823,9 +1392,9 @@
     },
     {
       "e": {
-        "name": "Hyleas Fountain",
-        "country": "USA",
-        "identifier": "7013840",
+        "name": "Carolin Schafer",
+        "country": "GER",
+        "identifier": "1170510",
         "medal": null
       },
       "pr": {
@@ -1833,7 +1402,7 @@
         "identifier": "ATW700C",
         "code": "C",
         "rank": "5",
-        "value": "14.73",
+        "value": "14.57",
         "property": {
           "type": "Result Type",
           "value": "Distance"
@@ -1842,9 +1411,9 @@
     },
     {
       "e": {
-        "name": "Jessica Zelinka",
-        "country": "CAN",
-        "identifier": "7011463",
+        "name": "Eliska Klucinova",
+        "country": "CZE",
+        "identifier": "1226792",
         "medal": null
       },
       "pr": {
@@ -1852,101 +1421,6 @@
         "identifier": "ATW700C",
         "code": "C",
         "rank": "6",
-        "value": "14.62",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
-      }
-    },
-    {
-      "e": {
-        "name": "Olga Kurban",
-        "country": "RUS",
-        "identifier": "7010091",
-        "medal": null
-      },
-      "pr": {
-        "order": "7",
-        "identifier": "ATW700C",
-        "code": "C",
-        "rank": "7",
-        "value": "14.60",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
-      }
-    },
-    {
-      "e": {
-        "name": "Louise Hazel",
-        "country": "GBR",
-        "identifier": "7012137",
-        "medal": null
-      },
-      "pr": {
-        "order": "8",
-        "identifier": "ATW700C",
-        "code": "C",
-        "rank": "8",
-        "value": "14.52",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
-      }
-    },
-    {
-      "e": {
-        "name": "Jennifer Oeser",
-        "country": "GER",
-        "identifier": "7013233",
-        "medal": null
-      },
-      "pr": {
-        "order": "9",
-        "identifier": "ATW700C",
-        "code": "C",
-        "rank": "9",
-        "value": "14.50",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
-      }
-    },
-    {
-      "e": {
-        "name": "Laura Ikauniece",
-        "country": "LAT",
-        "identifier": "7011886",
-        "medal": null
-      },
-      "pr": {
-        "order": "10",
-        "identifier": "ATW700C",
-        "code": "C",
-        "rank": "10",
-        "value": "14.44",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
-      }
-    },
-    {
-      "e": {
-        "name": "Margaret Simpson",
-        "country": "GHA",
-        "identifier": "7012025",
-        "medal": null
-      },
-      "pr": {
-        "order": "11",
-        "identifier": "ATW700C",
-        "code": "C",
-        "rank": "11",
         "value": "14.41",
         "property": {
           "type": "Result Type",
@@ -1956,17 +1430,17 @@
     },
     {
       "e": {
-        "name": "Nadine Broersen",
-        "country": "NED",
-        "identifier": "7013061",
+        "name": "Gyorgyi Zsivoczky-Farkas",
+        "country": "HUN",
+        "identifier": "1170029",
         "medal": null
       },
       "pr": {
-        "order": "12",
+        "order": "7",
         "identifier": "ATW700C",
         "code": "C",
-        "rank": "12",
-        "value": "14.34",
+        "rank": "7",
+        "value": "14.39",
         "property": {
           "type": "Result Type",
           "value": "Distance"
@@ -1975,9 +1449,85 @@
     },
     {
       "e": {
-        "name": "Yana Maksimava",
-        "country": "BLR",
-        "identifier": "7010559",
+        "name": "Alina Fodorova",
+        "country": "UKR",
+        "identifier": "1194920",
+        "medal": null
+      },
+      "pr": {
+        "order": "8",
+        "identifier": "ATW700C",
+        "code": "C",
+        "rank": "8",
+        "value": "14.38",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Jennifer Oeser",
+        "country": "GER",
+        "identifier": "1170345",
+        "medal": null
+      },
+      "pr": {
+        "order": "9",
+        "identifier": "ATW700C",
+        "code": "C",
+        "rank": "9",
+        "value": "14.28",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Akela Jones",
+        "country": "BAR",
+        "identifier": "1107221",
+        "medal": null
+      },
+      "pr": {
+        "order": "10",
+        "identifier": "ATW700C",
+        "code": "C",
+        "rank": "10",
+        "value": "14.09",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Nadine Broersen",
+        "country": "NED",
+        "identifier": "1213224",
+        "medal": null
+      },
+      "pr": {
+        "order": "11",
+        "identifier": "ATW700C",
+        "code": "C",
+        "rank": "11",
+        "value": "14.04",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Xenia Krizsan",
+        "country": "HUN",
+        "identifier": "1170879",
         "medal": null
       },
       "pr": {
@@ -1985,7 +1535,7 @@
         "identifier": "ATW700C",
         "code": "C",
         "rank": "13",
-        "value": "14.29",
+        "value": "13.78",
         "property": {
           "type": "Result Type",
           "value": "Distance"
@@ -1994,17 +1544,17 @@
     },
     {
       "e": {
-        "name": "Brianne Theisen",
-        "country": "CAN",
-        "identifier": "7011460",
+        "name": "Yorgelis Rodriguez",
+        "country": "CUB",
+        "identifier": "1119468",
         "medal": null
       },
       "pr": {
         "order": "14",
         "identifier": "ATW700C",
         "code": "C",
-        "rank": "13",
-        "value": "14.29",
+        "rank": "14",
+        "value": "13.69",
         "property": {
           "type": "Result Type",
           "value": "Distance"
@@ -2013,9 +1563,9 @@
     },
     {
       "e": {
-        "name": "Chantae McMillan",
-        "country": "USA",
-        "identifier": "7014426",
+        "name": "Evelis Aguilar",
+        "country": "COL",
+        "identifier": "1068391",
         "medal": null
       },
       "pr": {
@@ -2023,7 +1573,7 @@
         "identifier": "ATW700C",
         "code": "C",
         "rank": "15",
-        "value": "14.18",
+        "value": "13.60",
         "property": {
           "type": "Result Type",
           "value": "Distance"
@@ -2032,9 +1582,9 @@
     },
     {
       "e": {
-        "name": "Jessica Ennis",
-        "country": "GBR",
-        "identifier": "7012132",
+        "name": "Laura Ikauniece-Admidina",
+        "country": "LAT",
+        "identifier": "1219929",
         "medal": null
       },
       "pr": {
@@ -2042,216 +1592,7 @@
         "identifier": "ATW700C",
         "code": "C",
         "rank": "16",
-        "value": "14.13",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
-      }
-    },
-    {
-      "e": {
-        "name": "Karolina Tyminska",
-        "country": "POL",
-        "identifier": "7011148",
-        "medal": null
-      },
-      "pr": {
-        "order": "17",
-        "identifier": "ATW700C",
-        "code": "C",
-        "rank": "17",
-        "value": "14.11",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
-      }
-    },
-    {
-      "e": {
-        "name": "Uhunoma Osazuwa",
-        "country": "NGR",
-        "identifier": "7014453",
-        "medal": null
-      },
-      "pr": {
-        "order": "18",
-        "identifier": "ATW700C",
-        "code": "C",
-        "rank": "18",
-        "value": "13.98",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
-      }
-    },
-    {
-      "e": {
-        "name": "Antoinette Nana Djimou Ida",
-        "country": "FRA",
-        "identifier": "7013358",
-        "medal": null
-      },
-      "pr": {
-        "order": "19",
-        "identifier": "ATW700C",
-        "code": "C",
-        "rank": "19",
-        "value": "13.90",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
-      }
-    },
-    {
-      "e": {
-        "name": "Marisa de Aniceto",
-        "country": "FRA",
-        "identifier": "7013332",
-        "medal": null
-      },
-      "pr": {
-        "order": "20",
-        "identifier": "ATW700C",
-        "code": "C",
-        "rank": "20",
-        "value": "13.73",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
-      }
-    },
-    {
-      "e": {
-        "name": "Kristina Savitskaya",
-        "country": "RUS",
-        "identifier": "7010219",
-        "medal": null
-      },
-      "pr": {
-        "order": "22",
-        "identifier": "ATW700C",
-        "code": "C",
-        "rank": "21",
-        "value": "13.57",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
-      }
-    },
-    {
-      "e": {
-        "name": "Hanna Melnychenko",
-        "country": "UKR",
-        "identifier": "7011387",
-        "medal": null
-      },
-      "pr": {
-        "order": "23",
-        "identifier": "ATW700C",
-        "code": "C",
-        "rank": "23",
-        "value": "13.40",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
-      }
-    },
-    {
-      "e": {
-        "name": "Julia Machtig",
-        "country": "GER",
-        "identifier": "7013220",
-        "medal": null
-      },
-      "pr": {
-        "order": "24",
-        "identifier": "ATW700C",
-        "code": "C",
-        "rank": "24",
-        "value": "13.34",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
-      }
-    },
-    {
-      "e": {
-        "name": "Jessica Samuel",
-        "country": "SWE",
-        "identifier": "7011135",
-        "medal": null
-      },
-      "pr": {
-        "order": "25",
-        "identifier": "ATW700C",
-        "code": "C",
-        "rank": "25",
-        "value": "13.23",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
-      }
-    },
-    {
-      "e": {
-        "name": "Lilli Schwarzkopf",
-        "country": "GER",
-        "identifier": "7013253",
-        "medal": null
-      },
-      "pr": {
-        "order": "26",
-        "identifier": "ATW700C",
-        "code": "C",
-        "rank": "26",
-        "value": "13.07",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
-      }
-    },
-    {
-      "e": {
-        "name": "Tatyana Chernova",
-        "country": "RUS",
-        "identifier": "7010180",
-        "medal": null
-      },
-      "pr": {
-        "order": "28",
-        "identifier": "ATW700C",
-        "code": "C",
-        "rank": "28",
-        "value": "12.63",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
-      }
-    },
-    {
-      "e": {
-        "name": "Gyorgyi Farkas",
-        "country": "HUN",
-        "identifier": "7010962",
-        "medal": null
-      },
-      "pr": {
-        "order": "29",
-        "identifier": "ATW700C",
-        "code": "C",
-        "rank": "29",
-        "value": "12.39",
+        "value": "13.52",
         "property": {
           "type": "Result Type",
           "value": "Distance"
@@ -2262,15 +1603,15 @@
       "e": {
         "name": "Ivona Dadic",
         "country": "AUT",
-        "identifier": "7014620",
+        "identifier": "1169714",
         "medal": null
       },
       "pr": {
-        "order": "30",
+        "order": "18",
         "identifier": "ATW700C",
         "code": "C",
-        "rank": "30",
-        "value": "12.24",
+        "rank": "18",
+        "value": "13.43",
         "property": {
           "type": "Result Type",
           "value": "Distance"
@@ -2279,17 +1620,17 @@
     },
     {
       "e": {
-        "name": "Ellen Sprunger",
-        "country": "SUI",
-        "identifier": "7013720",
-        "medal": "bronze"
+        "name": "Hanna Kasyanova",
+        "country": "UKR",
+        "identifier": "1194203",
+        "medal": null
       },
       "pr": {
-        "order": "3",
+        "order": "19",
         "identifier": "ATW700C",
         "code": "C",
-        "rank": "3",
-        "value": "14.90",
+        "rank": "19",
+        "value": "13.25",
         "property": {
           "type": "Result Type",
           "value": "Distance"
@@ -2298,16 +1639,92 @@
     },
     {
       "e": {
-        "name": "Aiga Grabuste",
-        "country": "LAT",
-        "identifier": "7011875",
-        "medal": "silver"
+        "name": "Uhunoma Osazuwa",
+        "country": "NGR",
+        "identifier": "1433489",
+        "medal": null
       },
       "pr": {
-        "order": "27",
+        "order": "20",
         "identifier": "ATW700C",
         "code": "C",
-        "rank": "27",
+        "rank": "20",
+        "value": "13.15",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Vanessa Chefer",
+        "country": "BRA",
+        "identifier": "1216978",
+        "medal": null
+      },
+      "pr": {
+        "order": "21",
+        "identifier": "ATW700C",
+        "code": "C",
+        "rank": "21",
+        "value": "13.06",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Sofia Yfantidou",
+        "country": "GRE",
+        "identifier": "1195391",
+        "medal": null
+      },
+      "pr": {
+        "order": "22",
+        "identifier": "ATW700C",
+        "code": "C",
+        "rank": "22",
+        "value": "12.97",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Heather Miller-Koch",
+        "country": "USA",
+        "identifier": "1127401",
+        "medal": null
+      },
+      "pr": {
+        "order": "23",
+        "identifier": "ATW700C",
+        "code": "C",
+        "rank": "23",
+        "value": "12.91",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Nadine Visser",
+        "country": "NED",
+        "identifier": "1213216",
+        "medal": null
+      },
+      "pr": {
+        "order": "24",
+        "identifier": "ATW700C",
+        "code": "C",
+        "rank": "24",
         "value": "12.84",
         "property": {
           "type": "Result Type",
@@ -2317,17 +1734,150 @@
     },
     {
       "e": {
-        "name": "Grit Sadeiko",
-        "country": "EST",
-        "identifier": "7011724",
+        "name": "Claudia Rath",
+        "country": "GER",
+        "identifier": "1170373",
+        "medal": null
+      },
+      "pr": {
+        "order": "25",
+        "identifier": "ATW700C",
+        "code": "C",
+        "rank": "25",
+        "value": "12.83",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Katerina Cachova",
+        "country": "CZE",
+        "identifier": "1226506",
+        "medal": null
+      },
+      "pr": {
+        "order": "26",
+        "identifier": "ATW700C",
+        "code": "C",
+        "rank": "26",
+        "value": "12.38",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Katarina Johnson-Thompson",
+        "country": "GBR",
+        "identifier": "1217677",
+        "medal": null
+      },
+      "pr": {
+        "order": "27",
+        "identifier": "ATW700C",
+        "code": "C",
+        "rank": "27",
+        "value": "11.68",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Alysbeth Felix",
+        "country": "PUR",
+        "identifier": "1136380",
+        "medal": null
+      },
+      "pr": {
+        "order": "28",
+        "identifier": "ATW700C",
+        "code": "C",
+        "rank": "28",
+        "value": "11.36",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Kendell Williams",
+        "country": "USA",
+        "identifier": "1127626",
+        "medal": null
+      },
+      "pr": {
+        "order": "29",
+        "identifier": "ATW700C",
+        "code": "C",
+        "rank": "29",
+        "value": "11.21",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Brianne Theisen Eaton",
+        "country": "CAN",
+        "identifier": "1109890",
+        "medal": "bronze"
+      },
+      "pr": {
+        "order": "17",
+        "identifier": "ATW700C",
+        "code": "C",
+        "rank": "17",
+        "value": "13.45",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Jessica Ennis-Hill",
+        "country": "GBR",
+        "identifier": "1217637",
+        "medal": "silver"
+      },
+      "pr": {
+        "order": "12",
+        "identifier": "ATW700C",
+        "code": "C",
+        "rank": "12",
+        "value": "13.86",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Nafissatou Thiam",
+        "country": "BEL",
+        "identifier": "1231399",
         "medal": "gold"
       },
       "pr": {
-        "order": "21",
+        "order": "1",
         "identifier": "ATW700C",
         "code": "C",
-        "rank": "21",
-        "value": "13.57",
+        "rank": "1",
+        "value": "14.91",
         "property": {
           "type": "Result Type",
           "value": "Distance"
@@ -2338,112 +1888,59 @@
   [
     {
       "e": {
-        "name": "Chantae McMillan",
-        "country": "USA",
-        "identifier": "7014426",
-        "medal": null
-      },
-      "pr": {
-        "order": "30",
-        "identifier": "ATW700D",
-        "code": "D",
-        "property": {
-          "type": "Invalid Result Mark",
-          "value": "Disqualified"
-        }
-      }
-    },
-    {
-      "e": {
-        "name": "Louise Hazel",
-        "country": "GBR",
-        "identifier": "7012137",
-        "medal": null
-      },
-      "pr": {
-        "order": "28",
-        "identifier": "ATW700D",
-        "code": "D",
-        "property": {
-          "type": "Invalid Result Mark",
-          "value": "Did Not Finish"
-        }
-      }
-    },
-    {
-      "e": {
-        "name": "Eliska Klucinova",
-        "country": "CZE",
-        "identifier": "7012863",
+        "name": "Sofia Yfantidou",
+        "country": "GRE",
+        "identifier": "1195391",
         "medal": null
       },
       "pr": {
         "order": "29",
         "identifier": "ATW700D",
         "code": "D",
+        "rank": "29",
+        "value": "26.32",
         "property": [
           {
-            "type": "Invalid Result Mark",
-            "value": "Disqualified"
+            "type": "Result Type",
+            "value": "Time"
           },
           {
             "type": "Wind Speed",
-            "value": "+1.9"
+            "value": "-0.7"
           }
         ]
       }
     },
     {
       "e": {
-        "name": "Margaret Simpson",
-        "country": "GHA",
-        "identifier": "7012025",
+        "name": "Alina Fodorova",
+        "country": "UKR",
+        "identifier": "1194920",
         "medal": null
       },
       "pr": {
-        "order": "31",
+        "order": "28",
         "identifier": "ATW700D",
         "code": "D",
+        "rank": "28",
+        "value": "25.44",
         "property": [
           {
-            "type": "Invalid Result Mark",
-            "value": "Disqualified"
+            "type": "Result Type",
+            "value": "Time"
           },
           {
             "type": "Wind Speed",
-            "value": "+1.9"
+            "value": "-0.7"
           }
         ]
       }
     },
     {
       "e": {
-        "name": "Brianne Theisen",
-        "country": "CAN",
-        "identifier": "7011460",
-        "medal": null
-      },
-      "pr": {
-        "order": "32",
-        "identifier": "ATW700D",
-        "code": "D",
-        "property": [
-          {
-            "type": "Invalid Result Mark",
-            "value": "Disqualified"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "+0.2"
-          }
-        ]
-      }
-    },
-    {
-      "e": {
-        "name": "Antoinette Nana Djimou Ida",
-        "country": "FRA",
-        "identifier": "7013358",
+        "name": "Gyorgyi Zsivoczky-Farkas",
+        "country": "HUN",
+        "identifier": "1170029",
         "medal": null
       },
       "pr": {
@@ -2451,7 +1948,7 @@
         "identifier": "ATW700D",
         "code": "D",
         "rank": "27",
-        "value": "32.15",
+        "value": "25.38",
         "property": [
           {
             "type": "Result Type",
@@ -2459,16 +1956,16 @@
           },
           {
             "type": "Wind Speed",
-            "value": "+2.5"
+            "value": "-0.7"
           }
         ]
       }
     },
     {
       "e": {
-        "name": "Jessica Ennis",
-        "country": "GBR",
-        "identifier": "7012132",
+        "name": "Eliska Klucinova",
+        "country": "CZE",
+        "identifier": "1226792",
         "medal": null
       },
       "pr": {
@@ -2476,1003 +1973,11 @@
         "identifier": "ATW700D",
         "code": "D",
         "rank": "26",
-        "value": "25.98",
+        "value": "25.37",
         "property": [
           {
             "type": "Result Type",
             "value": "Time"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "+2.5"
-          }
-        ]
-      }
-    },
-    {
-      "e": {
-        "name": "Jessica Zelinka",
-        "country": "CAN",
-        "identifier": "7011463",
-        "medal": null
-      },
-      "pr": {
-        "order": "25",
-        "identifier": "ATW700D",
-        "code": "D",
-        "rank": "25",
-        "value": "25.63",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Time"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "+2.5"
-          }
-        ]
-      }
-    },
-    {
-      "e": {
-        "name": "Hyleas Fountain",
-        "country": "USA",
-        "identifier": "7013840",
-        "medal": null
-      },
-      "pr": {
-        "order": "24",
-        "identifier": "ATW700D",
-        "code": "D",
-        "rank": "24",
-        "value": "23.57",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Time"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "-0.3"
-          }
-        ]
-      }
-    },
-    {
-      "e": {
-        "name": "Katarina Johnson-Thompson",
-        "country": "GBR",
-        "identifier": "7013693",
-        "medal": null
-      },
-      "pr": {
-        "order": "23",
-        "identifier": "ATW700D",
-        "code": "D",
-        "rank": "23",
-        "value": "23.35",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Time"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "-0.3"
-          }
-        ]
-      }
-    },
-    {
-      "e": {
-        "name": "Julia Machtig",
-        "country": "GER",
-        "identifier": "7013220",
-        "medal": null
-      },
-      "pr": {
-        "order": "22",
-        "identifier": "ATW700D",
-        "code": "D",
-        "rank": "22",
-        "value": "23.15",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Time"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "+1.9"
-          }
-        ]
-      }
-    },
-    {
-      "e": {
-        "name": "Marisa de Aniceto",
-        "country": "FRA",
-        "identifier": "7013332",
-        "medal": null
-      },
-      "pr": {
-        "order": "21",
-        "identifier": "ATW700D",
-        "code": "D",
-        "rank": "21",
-        "value": "23.13",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Time"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "-0.3"
-          }
-        ]
-      }
-    },
-    {
-      "e": {
-        "name": "Lilli Schwarzkopf",
-        "country": "GER",
-        "identifier": "7013253",
-        "medal": null
-      },
-      "pr": {
-        "order": "20",
-        "identifier": "ATW700D",
-        "code": "D",
-        "rank": "20",
-        "value": "22.95",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Time"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "+1.9"
-          }
-        ]
-      }
-    },
-    {
-      "e": {
-        "name": "Ivona Dadic",
-        "country": "AUT",
-        "identifier": "7014620",
-        "medal": null
-      },
-      "pr": {
-        "order": "17",
-        "identifier": "ATW700D",
-        "code": "D",
-        "rank": "17",
-        "value": "22.84",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Time"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "-0.3"
-          }
-        ]
-      }
-    },
-    {
-      "e": {
-        "name": "Sharon Day",
-        "country": "USA",
-        "identifier": "7013899",
-        "medal": null
-      },
-      "pr": {
-        "order": "18",
-        "identifier": "ATW700D",
-        "code": "D",
-        "rank": "17",
-        "value": "22.84",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Time"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "-0.3"
-          }
-        ]
-      }
-    },
-    {
-      "e": {
-        "name": "Jennifer Oeser",
-        "country": "GER",
-        "identifier": "7013233",
-        "medal": null
-      },
-      "pr": {
-        "order": "16",
-        "identifier": "ATW700D",
-        "code": "D",
-        "rank": "16",
-        "value": "22.74",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Time"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "+1.9"
-          }
-        ]
-      }
-    },
-    {
-      "e": {
-        "name": "Uhunoma Osazuwa",
-        "country": "NGR",
-        "identifier": "7014453",
-        "medal": null
-      },
-      "pr": {
-        "order": "15",
-        "identifier": "ATW700D",
-        "code": "D",
-        "rank": "15",
-        "value": "22.64",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Time"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "-0.3"
-          }
-        ]
-      }
-    },
-    {
-      "e": {
-        "name": "Karolina Tyminska",
-        "country": "POL",
-        "identifier": "7011148",
-        "medal": null
-      },
-      "pr": {
-        "order": "13",
-        "identifier": "ATW700D",
-        "code": "D",
-        "rank": "13",
-        "value": "22.61",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Time"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "+0.2"
-          }
-        ]
-      }
-    },
-    {
-      "e": {
-        "name": "Laura Ikauniece",
-        "country": "LAT",
-        "identifier": "7011886",
-        "medal": null
-      },
-      "pr": {
-        "order": "11",
-        "identifier": "ATW700D",
-        "code": "D",
-        "rank": "11",
-        "value": "22.52",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Time"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "+1.9"
-          }
-        ]
-      }
-    },
-    {
-      "e": {
-        "name": "Hanna Melnychenko",
-        "country": "UKR",
-        "identifier": "7011387",
-        "medal": null
-      },
-      "pr": {
-        "order": "12",
-        "identifier": "ATW700D",
-        "code": "D",
-        "rank": "11",
-        "value": "22.52",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Time"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "+0.2"
-          }
-        ]
-      }
-    },
-    {
-      "e": {
-        "name": "Tatyana Chernova",
-        "country": "RUS",
-        "identifier": "7010180",
-        "medal": null
-      },
-      "pr": {
-        "order": "9",
-        "identifier": "ATW700D",
-        "code": "D",
-        "rank": "9",
-        "value": "22.35",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Time"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "+2.5"
-          }
-        ]
-      }
-    },
-    {
-      "e": {
-        "name": "Nadine Broersen",
-        "country": "NED",
-        "identifier": "7013061",
-        "medal": null
-      },
-      "pr": {
-        "order": "8",
-        "identifier": "ATW700D",
-        "code": "D",
-        "rank": "8",
-        "value": "22.32",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Time"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "+1.9"
-          }
-        ]
-      }
-    },
-    {
-      "e": {
-        "name": "Yana Maksimava",
-        "country": "BLR",
-        "identifier": "7010559",
-        "medal": null
-      },
-      "pr": {
-        "order": "7",
-        "identifier": "ATW700D",
-        "code": "D",
-        "rank": "7",
-        "value": "22.22",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Time"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "+0.2"
-          }
-        ]
-      }
-    },
-    {
-      "e": {
-        "name": "Gyorgyi Farkas",
-        "country": "HUN",
-        "identifier": "7010962",
-        "medal": null
-      },
-      "pr": {
-        "order": "5",
-        "identifier": "ATW700D",
-        "code": "D",
-        "rank": "5",
-        "value": "22.21",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Time"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "+0.2"
-          }
-        ]
-      }
-    },
-    {
-      "e": {
-        "name": "Jessica Samuel",
-        "country": "SWE",
-        "identifier": "7011135",
-        "medal": null
-      },
-      "pr": {
-        "order": "6",
-        "identifier": "ATW700D",
-        "code": "D",
-        "rank": "5",
-        "value": "22.21",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Time"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "+0.2"
-          }
-        ]
-      }
-    },
-    {
-      "e": {
-        "name": "Lyudmyla Yosypenko",
-        "country": "UKR",
-        "identifier": "7012273",
-        "medal": null
-      },
-      "pr": {
-        "order": "4",
-        "identifier": "ATW700D",
-        "code": "D",
-        "rank": "3",
-        "value": "22.03",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Time"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "+2.5"
-          }
-        ]
-      }
-    },
-    {
-      "e": {
-        "name": "Kristina Savitskaya",
-        "country": "RUS",
-        "identifier": "7010219",
-        "medal": null
-      },
-      "pr": {
-        "order": "3",
-        "identifier": "ATW700D",
-        "code": "D",
-        "rank": "3",
-        "value": "22.03",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Time"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "+2.5"
-          }
-        ]
-      }
-    },
-    {
-      "e": {
-        "name": "Olga Kurban",
-        "country": "RUS",
-        "identifier": "7010091",
-        "medal": null
-      },
-      "pr": {
-        "order": "2",
-        "identifier": "ATW700D",
-        "code": "D",
-        "rank": "2",
-        "value": "22.01",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Time"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "+2.5"
-          }
-        ]
-      }
-    },
-    {
-      "e": {
-        "name": "Dafne Schippers",
-        "country": "NED",
-        "identifier": "7013076",
-        "medal": null
-      },
-      "pr": {
-        "order": "1",
-        "identifier": "ATW700D",
-        "code": "D",
-        "rank": "1",
-        "value": "22.00",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Time"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "+2.5"
-          }
-        ]
-      }
-    },
-    {
-      "e": {
-        "name": "Ellen Sprunger",
-        "country": "SUI",
-        "identifier": "7013720",
-        "medal": "bronze"
-      },
-      "pr": {
-        "order": "19",
-        "identifier": "ATW700D",
-        "code": "D",
-        "rank": "19",
-        "value": "22.93",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Time"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "-0.3"
-          }
-        ]
-      }
-    },
-    {
-      "e": {
-        "name": "Aiga Grabuste",
-        "country": "LAT",
-        "identifier": "7011875",
-        "medal": "silver"
-      },
-      "pr": {
-        "order": "14",
-        "identifier": "ATW700D",
-        "code": "D",
-        "rank": "14",
-        "value": "22.63",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Time"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "+0.2"
-          }
-        ]
-      }
-    },
-    {
-      "e": {
-        "name": "Grit Sadeiko",
-        "country": "EST",
-        "identifier": "7011724",
-        "medal": "gold"
-      },
-      "pr": {
-        "order": "10",
-        "identifier": "ATW700D",
-        "code": "D",
-        "rank": "10",
-        "value": "22.49",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Time"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "+0.2"
-          }
-        ]
-      }
-    }
-  ],
-  [
-    {
-      "e": {
-        "name": "Jessica Samuel",
-        "country": "SWE",
-        "identifier": "7011135",
-        "medal": null
-      },
-      "pr": {
-        "order": "29",
-        "identifier": "ATW700E",
-        "code": "E",
-        "property": {
-          "type": "Invalid Result Mark",
-          "value": "No Mark"
-        }
-      }
-    },
-    {
-      "e": {
-        "name": "Dafne Schippers",
-        "country": "NED",
-        "identifier": "7013076",
-        "medal": null
-      },
-      "pr": {
-        "order": "30",
-        "identifier": "ATW700E",
-        "code": "E",
-        "property": {
-          "type": "Invalid Result Mark",
-          "value": "No Mark"
-        }
-      }
-    },
-    {
-      "e": {
-        "name": "Olga Kurban",
-        "country": "RUS",
-        "identifier": "7010091",
-        "medal": null
-      },
-      "pr": {
-        "order": "28",
-        "identifier": "ATW700E",
-        "code": "E",
-        "property": {
-          "type": "Invalid Result Mark",
-          "value": "No Mark"
-        }
-      }
-    },
-    {
-      "e": {
-        "name": "Lyudmyla Yosypenko",
-        "country": "UKR",
-        "identifier": "7012273",
-        "medal": null
-      },
-      "pr": {
-        "order": "31",
-        "identifier": "ATW700E",
-        "code": "E",
-        "property": {
-          "type": "Invalid Result Mark",
-          "value": "No Mark"
-        }
-      }
-    },
-    {
-      "e": {
-        "name": "Hyleas Fountain",
-        "country": "USA",
-        "identifier": "7013840",
-        "medal": null
-      },
-      "pr": {
-        "order": "27",
-        "identifier": "ATW700E",
-        "code": "E",
-        "property": {
-          "type": "Invalid Result Mark",
-          "value": "No Mark"
-        }
-      }
-    },
-    {
-      "e": {
-        "name": "Katarina Johnson-Thompson",
-        "country": "GBR",
-        "identifier": "7013693",
-        "medal": null
-      },
-      "pr": {
-        "order": "32",
-        "identifier": "ATW700E",
-        "code": "E",
-        "property": {
-          "type": "Invalid Result Mark",
-          "value": "Disqualified"
-        }
-      }
-    },
-    {
-      "e": {
-        "name": "Uhunoma Osazuwa",
-        "country": "NGR",
-        "identifier": "7014453",
-        "medal": null
-      },
-      "pr": {
-        "order": "2",
-        "identifier": "ATW700E",
-        "code": "E",
-        "rank": "1",
-        "value": "7.28",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Distance"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "-2.3"
-          }
-        ]
-      }
-    },
-    {
-      "e": {
-        "name": "Chantae McMillan",
-        "country": "USA",
-        "identifier": "7014426",
-        "medal": null
-      },
-      "pr": {
-        "order": "1",
-        "identifier": "ATW700E",
-        "code": "E",
-        "rank": "1",
-        "value": "7.28",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Distance"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "-1.2"
-          }
-        ]
-      }
-    },
-    {
-      "e": {
-        "name": "Tatyana Chernova",
-        "country": "RUS",
-        "identifier": "7010180",
-        "medal": null
-      },
-      "pr": {
-        "order": "3",
-        "identifier": "ATW700E",
-        "code": "E",
-        "rank": "3",
-        "value": "7.27",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
-      }
-    },
-    {
-      "e": {
-        "name": "Antoinette Nana Djimou Ida",
-        "country": "FRA",
-        "identifier": "7013358",
-        "medal": null
-      },
-      "pr": {
-        "order": "4",
-        "identifier": "ATW700E",
-        "code": "E",
-        "rank": "3",
-        "value": "7.27",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
-      }
-    },
-    {
-      "e": {
-        "name": "Eliska Klucinova",
-        "country": "CZE",
-        "identifier": "7012863",
-        "medal": null
-      },
-      "pr": {
-        "order": "6",
-        "identifier": "ATW700E",
-        "code": "E",
-        "rank": "6",
-        "value": "6.91",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Distance"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "-1.9"
-          }
-        ]
-      }
-    },
-    {
-      "e": {
-        "name": "Gyorgyi Farkas",
-        "country": "HUN",
-        "identifier": "7010962",
-        "medal": null
-      },
-      "pr": {
-        "order": "7",
-        "identifier": "ATW700E",
-        "code": "E",
-        "rank": "7",
-        "value": "6.89",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Distance"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "+1.9"
-          }
-        ]
-      }
-    },
-    {
-      "e": {
-        "name": "Karolina Tyminska",
-        "country": "POL",
-        "identifier": "7011148",
-        "medal": null
-      },
-      "pr": {
-        "order": "9",
-        "identifier": "ATW700E",
-        "code": "E",
-        "rank": "8",
-        "value": "6.88",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Distance"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "-1.8"
-          }
-        ]
-      }
-    },
-    {
-      "e": {
-        "name": "Margaret Simpson",
-        "country": "GHA",
-        "identifier": "7012025",
-        "medal": null
-      },
-      "pr": {
-        "order": "8",
-        "identifier": "ATW700E",
-        "code": "E",
-        "rank": "8",
-        "value": "6.88",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Distance"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "-1.8"
-          }
-        ]
-      }
-    },
-    {
-      "e": {
-        "name": "Brianne Theisen",
-        "country": "CAN",
-        "identifier": "7011460",
-        "medal": null
-      },
-      "pr": {
-        "order": "11",
-        "identifier": "ATW700E",
-        "code": "E",
-        "rank": "11",
-        "value": "6.71",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Distance"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "-1.7"
-          }
-        ]
-      }
-    },
-    {
-      "e": {
-        "name": "Marisa de Aniceto",
-        "country": "FRA",
-        "identifier": "7013332",
-        "medal": null
-      },
-      "pr": {
-        "order": "12",
-        "identifier": "ATW700E",
-        "code": "E",
-        "rank": "12",
-        "value": "6.65",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Distance"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "-1.6"
-          }
-        ]
-      }
-    },
-    {
-      "e": {
-        "name": "Jessica Zelinka",
-        "country": "CAN",
-        "identifier": "7011463",
-        "medal": null
-      },
-      "pr": {
-        "order": "13",
-        "identifier": "ATW700E",
-        "code": "E",
-        "rank": "13",
-        "value": "6.61",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Distance"
           },
           {
             "type": "Wind Speed",
@@ -3483,92 +1988,596 @@
     },
     {
       "e": {
-        "name": "Lilli Schwarzkopf",
+        "name": "Xenia Krizsan",
+        "country": "HUN",
+        "identifier": "1170879",
+        "medal": null
+      },
+      "pr": {
+        "order": "25",
+        "identifier": "ATW700D",
+        "code": "D",
+        "rank": "25",
+        "value": "25.24",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Time"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "+0.4"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Antoinette Nana Djimou Ida",
+        "country": "FRA",
+        "identifier": "1162428",
+        "medal": null
+      },
+      "pr": {
+        "order": "23",
+        "identifier": "ATW700D",
+        "code": "D",
+        "rank": "23",
+        "value": "25.07",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Time"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "+0.4"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Jennifer Oeser",
         "country": "GER",
-        "identifier": "7013253",
+        "identifier": "1170345",
         "medal": null
       },
       "pr": {
-        "order": "15",
-        "identifier": "ATW700E",
-        "code": "E",
-        "rank": "15",
-        "value": "6.53",
+        "order": "22",
+        "identifier": "ATW700D",
+        "code": "D",
+        "rank": "22",
+        "value": "24.99",
         "property": [
           {
             "type": "Result Type",
-            "value": "Distance"
+            "value": "Time"
           },
           {
             "type": "Wind Speed",
-            "value": "-1.5"
+            "value": "+0.4"
           }
         ]
       }
     },
     {
       "e": {
-        "name": "Julia Machtig",
-        "country": "GER",
-        "identifier": "7013220",
+        "name": "Heather Miller-Koch",
+        "country": "USA",
+        "identifier": "1127401",
         "medal": null
       },
       "pr": {
-        "order": "16",
-        "identifier": "ATW700E",
-        "code": "E",
-        "rank": "16",
-        "value": "6.47",
+        "order": "21",
+        "identifier": "ATW700D",
+        "code": "D",
+        "rank": "21",
+        "value": "24.97",
+        "property": {
+          "type": "Result Type",
+          "value": "Time"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Nadine Broersen",
+        "country": "NED",
+        "identifier": "1213224",
+        "medal": null
+      },
+      "pr": {
+        "order": "20",
+        "identifier": "ATW700D",
+        "code": "D",
+        "rank": "20",
+        "value": "24.94",
         "property": [
           {
             "type": "Result Type",
-            "value": "Distance"
+            "value": "Time"
           },
           {
             "type": "Wind Speed",
-            "value": "-1.5"
+            "value": "-0.7"
           }
         ]
       }
     },
     {
       "e": {
-        "name": "Yana Maksimava",
-        "country": "BLR",
-        "identifier": "7010559",
+        "name": "Barbara Nwaba",
+        "country": "USA",
+        "identifier": "1127434",
         "medal": null
       },
       "pr": {
-        "order": "17",
-        "identifier": "ATW700E",
-        "code": "E",
-        "rank": "17",
-        "value": "6.44",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Distance"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "+1.4"
-          }
-        ]
+        "order": "19",
+        "identifier": "ATW700D",
+        "code": "D",
+        "rank": "19",
+        "value": "24.77",
+        "property": {
+          "type": "Result Type",
+          "value": "Time"
+        }
       }
     },
     {
       "e": {
-        "name": "Hanna Melnychenko",
-        "country": "UKR",
-        "identifier": "7011387",
+        "name": "Alysbeth Felix",
+        "country": "PUR",
+        "identifier": "1136380",
         "medal": null
       },
       "pr": {
         "order": "18",
+        "identifier": "ATW700D",
+        "code": "D",
+        "rank": "18",
+        "value": "24.74",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Time"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "+0.4"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Uhunoma Osazuwa",
+        "country": "NGR",
+        "identifier": "1433489",
+        "medal": null
+      },
+      "pr": {
+        "order": "17",
+        "identifier": "ATW700D",
+        "code": "D",
+        "rank": "17",
+        "value": "24.67",
+        "property": {
+          "type": "Result Type",
+          "value": "Time"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Ivona Dadic",
+        "country": "AUT",
+        "identifier": "1169714",
+        "medal": null
+      },
+      "pr": {
+        "order": "15",
+        "identifier": "ATW700D",
+        "code": "D",
+        "rank": "15",
+        "value": "24.60",
+        "property": {
+          "type": "Result Type",
+          "value": "Time"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Hanna Kasyanova",
+        "country": "UKR",
+        "identifier": "1194203",
+        "medal": null
+      },
+      "pr": {
+        "order": "16",
+        "identifier": "ATW700D",
+        "code": "D",
+        "rank": "15",
+        "value": "24.60",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Time"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "+0.4"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Claudia Rath",
+        "country": "GER",
+        "identifier": "1170373",
+        "medal": null
+      },
+      "pr": {
+        "order": "14",
+        "identifier": "ATW700D",
+        "code": "D",
+        "rank": "14",
+        "value": "24.48",
+        "property": {
+          "type": "Result Type",
+          "value": "Time"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Akela Jones",
+        "country": "BAR",
+        "identifier": "1107221",
+        "medal": null
+      },
+      "pr": {
+        "order": "13",
+        "identifier": "ATW700D",
+        "code": "D",
+        "rank": "13",
+        "value": "24.35",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Time"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "-0.1"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Nadine Visser",
+        "country": "NED",
+        "identifier": "1213216",
+        "medal": null
+      },
+      "pr": {
+        "order": "12",
+        "identifier": "ATW700D",
+        "code": "D",
+        "rank": "12",
+        "value": "24.34",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Time"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "-0.7"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Katerina Cachova",
+        "country": "CZE",
+        "identifier": "1226506",
+        "medal": null
+      },
+      "pr": {
+        "order": "11",
+        "identifier": "ATW700D",
+        "code": "D",
+        "rank": "11",
+        "value": "24.32",
+        "property": {
+          "type": "Result Type",
+          "value": "Time"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Yorgelis Rodriguez",
+        "country": "CUB",
+        "identifier": "1119468",
+        "medal": null
+      },
+      "pr": {
+        "order": "10",
+        "identifier": "ATW700D",
+        "code": "D",
+        "rank": "10",
+        "value": "24.26",
+        "property": {
+          "type": "Result Type",
+          "value": "Time"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Evelis Aguilar",
+        "country": "COL",
+        "identifier": "1068391",
+        "medal": null
+      },
+      "pr": {
+        "order": "8",
+        "identifier": "ATW700D",
+        "code": "D",
+        "rank": "8",
+        "value": "24.12",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Time"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "-0.1"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Vanessa Chefer",
+        "country": "BRA",
+        "identifier": "1216978",
+        "medal": null
+      },
+      "pr": {
+        "order": "7",
+        "identifier": "ATW700D",
+        "code": "D",
+        "rank": "7",
+        "value": "24.11",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Time"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "+0.4"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Kendell Williams",
+        "country": "USA",
+        "identifier": "1127626",
+        "medal": null
+      },
+      "pr": {
+        "order": "6",
+        "identifier": "ATW700D",
+        "code": "D",
+        "rank": "6",
+        "value": "24.09",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Time"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "-0.1"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Carolin Schafer",
+        "country": "GER",
+        "identifier": "1170510",
+        "medal": null
+      },
+      "pr": {
+        "order": "5",
+        "identifier": "ATW700D",
+        "code": "D",
+        "rank": "5",
+        "value": "23.99",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Time"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "-0.1"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Anouk Vetter",
+        "country": "NED",
+        "identifier": "1213210",
+        "medal": null
+      },
+      "pr": {
+        "order": "4",
+        "identifier": "ATW700D",
+        "code": "D",
+        "rank": "4",
+        "value": "23.93",
+        "property": {
+          "type": "Result Type",
+          "value": "Time"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Laura Ikauniece-Admidina",
+        "country": "LAT",
+        "identifier": "1219929",
+        "medal": null
+      },
+      "pr": {
+        "order": "3",
+        "identifier": "ATW700D",
+        "code": "D",
+        "rank": "3",
+        "value": "23.76",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Time"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "-0.1"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Katarina Johnson-Thompson",
+        "country": "GBR",
+        "identifier": "1217677",
+        "medal": null
+      },
+      "pr": {
+        "order": "1",
+        "identifier": "ATW700D",
+        "code": "D",
+        "rank": "1",
+        "value": "23.26",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Time"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "-0.1"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Brianne Theisen Eaton",
+        "country": "CAN",
+        "identifier": "1109890",
+        "medal": "bronze"
+      },
+      "pr": {
+        "order": "9",
+        "identifier": "ATW700D",
+        "code": "D",
+        "rank": "9",
+        "value": "24.18",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Time"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "-0.1"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Jessica Ennis-Hill",
+        "country": "GBR",
+        "identifier": "1217637",
+        "medal": "silver"
+      },
+      "pr": {
+        "order": "2",
+        "identifier": "ATW700D",
+        "code": "D",
+        "rank": "2",
+        "value": "23.49",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Time"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "-0.1"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Nafissatou Thiam",
+        "country": "BEL",
+        "identifier": "1231399",
+        "medal": "gold"
+      },
+      "pr": {
+        "order": "24",
+        "identifier": "ATW700D",
+        "code": "D",
+        "rank": "24",
+        "value": "25.10",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Time"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "-0.7"
+          }
+        ]
+      }
+    }
+  ],
+  [
+    {
+      "e": {
+        "name": "Claudia Rath",
+        "country": "GER",
+        "identifier": "1170373",
+        "medal": null
+      },
+      "pr": {
+        "order": "2",
         "identifier": "ATW700E",
         "code": "E",
-        "rank": "18",
-        "value": "6.42",
+        "rank": "2",
+        "value": "6.55",
         "property": [
           {
             "type": "Result Type",
@@ -3583,17 +2592,17 @@
     },
     {
       "e": {
-        "name": "Jessica Ennis",
+        "name": "Katarina Johnson-Thompson",
         "country": "GBR",
-        "identifier": "7012132",
+        "identifier": "1217677",
         "medal": null
       },
       "pr": {
-        "order": "19",
+        "order": "3",
         "identifier": "ATW700E",
         "code": "E",
-        "rank": "19",
-        "value": "6.14",
+        "rank": "3",
+        "value": "6.51",
         "property": [
           {
             "type": "Result Type",
@@ -3601,24 +2610,174 @@
           },
           {
             "type": "Wind Speed",
-            "value": "+1.1"
+            "value": "+0.9"
           }
         ]
       }
     },
     {
       "e": {
-        "name": "Ivona Dadic",
-        "country": "AUT",
-        "identifier": "7014620",
+        "name": "Antoinette Nana Djimou Ida",
+        "country": "FRA",
+        "identifier": "1162428",
         "medal": null
       },
       "pr": {
-        "order": "20",
+        "order": "5",
         "identifier": "ATW700E",
         "code": "E",
-        "rank": "20",
-        "value": "6.08",
+        "rank": "5",
+        "value": "6.43",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Distance"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "-1.6"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Nadine Visser",
+        "country": "NED",
+        "identifier": "1213216",
+        "medal": null
+      },
+      "pr": {
+        "order": "6",
+        "identifier": "ATW700E",
+        "code": "E",
+        "rank": "6",
+        "value": "6.35",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Distance"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "+0.5"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Gyorgyi Zsivoczky-Farkas",
+        "country": "HUN",
+        "identifier": "1170029",
+        "medal": null
+      },
+      "pr": {
+        "order": "9",
+        "identifier": "ATW700E",
+        "code": "E",
+        "rank": "8",
+        "value": "6.31",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Distance"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "+0.1"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Kendell Williams",
+        "country": "USA",
+        "identifier": "1127626",
+        "medal": null
+      },
+      "pr": {
+        "order": "8",
+        "identifier": "ATW700E",
+        "code": "E",
+        "rank": "8",
+        "value": "6.31",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Distance"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "+0.2"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Akela Jones",
+        "country": "BAR",
+        "identifier": "1107221",
+        "medal": null
+      },
+      "pr": {
+        "order": "10",
+        "identifier": "ATW700E",
+        "code": "E",
+        "rank": "10",
+        "value": "6.30",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Distance"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "+0.5"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Yorgelis Rodriguez",
+        "country": "CUB",
+        "identifier": "1119468",
+        "medal": null
+      },
+      "pr": {
+        "order": "11",
+        "identifier": "ATW700E",
+        "code": "E",
+        "rank": "11",
+        "value": "6.25",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Distance"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "-0.1"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Evelis Aguilar",
+        "country": "COL",
+        "identifier": "1068391",
+        "medal": null
+      },
+      "pr": {
+        "order": "12",
+        "identifier": "ATW700E",
+        "code": "E",
+        "rank": "12",
+        "value": "6.23",
         "property": [
           {
             "type": "Result Type",
@@ -3633,17 +2792,17 @@
     },
     {
       "e": {
-        "name": "Louise Hazel",
-        "country": "GBR",
-        "identifier": "7012137",
+        "name": "Alysbeth Felix",
+        "country": "PUR",
+        "identifier": "1136380",
         "medal": null
       },
       "pr": {
-        "order": "21",
+        "order": "13",
         "identifier": "ATW700E",
         "code": "E",
-        "rank": "21",
-        "value": "5.80",
+        "rank": "13",
+        "value": "6.22",
         "property": [
           {
             "type": "Result Type",
@@ -3651,24 +2810,24 @@
           },
           {
             "type": "Wind Speed",
-            "value": "+0.8"
+            "value": "+0.1"
           }
         ]
       }
     },
     {
       "e": {
-        "name": "Nadine Broersen",
-        "country": "NED",
-        "identifier": "7013061",
+        "name": "Carolin Schafer",
+        "country": "GER",
+        "identifier": "1170510",
         "medal": null
       },
       "pr": {
-        "order": "22",
+        "order": "14",
         "identifier": "ATW700E",
         "code": "E",
-        "rank": "22",
-        "value": "5.78",
+        "rank": "14",
+        "value": "6.20",
         "property": [
           {
             "type": "Result Type",
@@ -3676,7 +2835,7 @@
           },
           {
             "type": "Wind Speed",
-            "value": "-0.8"
+            "value": "+0.6"
           }
         ]
       }
@@ -3685,15 +2844,15 @@
       "e": {
         "name": "Jennifer Oeser",
         "country": "GER",
-        "identifier": "7013233",
+        "identifier": "1170345",
         "medal": null
       },
       "pr": {
-        "order": "23",
+        "order": "15",
         "identifier": "ATW700E",
         "code": "E",
-        "rank": "23",
-        "value": "5.63",
+        "rank": "15",
+        "value": "6.19",
         "property": [
           {
             "type": "Result Type",
@@ -3708,42 +2867,17 @@
     },
     {
       "e": {
-        "name": "Laura Ikauniece",
-        "country": "LAT",
-        "identifier": "7011886",
-        "medal": null
-      },
-      "pr": {
-        "order": "24",
-        "identifier": "ATW700E",
-        "code": "E",
-        "rank": "24",
-        "value": "5.52",
-        "property": [
-          {
-            "type": "Result Type",
-            "value": "Distance"
-          },
-          {
-            "type": "Wind Speed",
-            "value": "-0.5"
-          }
-        ]
-      }
-    },
-    {
-      "e": {
-        "name": "Sharon Day",
+        "name": "Heather Miller-Koch",
         "country": "USA",
-        "identifier": "7013899",
+        "identifier": "1127401",
         "medal": null
       },
       "pr": {
-        "order": "25",
+        "order": "16",
         "identifier": "ATW700E",
         "code": "E",
-        "rank": "25",
-        "value": "5.45",
+        "rank": "16",
+        "value": "6.16",
         "property": [
           {
             "type": "Result Type",
@@ -3758,17 +2892,136 @@
     },
     {
       "e": {
-        "name": "Kristina Savitskaya",
-        "country": "RUS",
-        "identifier": "7010219",
+        "name": "Nadine Broersen",
+        "country": "NED",
+        "identifier": "1213224",
         "medal": null
       },
       "pr": {
-        "order": "26",
+        "order": "17",
         "identifier": "ATW700E",
         "code": "E",
-        "rank": "26",
-        "value": "5.30",
+        "rank": "17",
+        "value": "6.15",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Distance"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "-0.1"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Laura Ikauniece-Admidina",
+        "country": "LAT",
+        "identifier": "1219929",
+        "medal": null
+      },
+      "pr": {
+        "order": "18",
+        "identifier": "ATW700E",
+        "code": "E",
+        "rank": "18",
+        "value": "6.12",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Distance"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "-0.5"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Anouk Vetter",
+        "country": "NED",
+        "identifier": "1213210",
+        "medal": null
+      },
+      "pr": {
+        "order": "20",
+        "identifier": "ATW700E",
+        "code": "E",
+        "rank": "19",
+        "value": "6.10",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Vanessa Chefer",
+        "country": "BRA",
+        "identifier": "1216978",
+        "medal": null
+      },
+      "pr": {
+        "order": "19",
+        "identifier": "ATW700E",
+        "code": "E",
+        "rank": "19",
+        "value": "6.10",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Distance"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "+0.5"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Xenia Krizsan",
+        "country": "HUN",
+        "identifier": "1170879",
+        "medal": null
+      },
+      "pr": {
+        "order": "22",
+        "identifier": "ATW700E",
+        "code": "E",
+        "rank": "21",
+        "value": "6.08",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Distance"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "-0.6"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Eliska Klucinova",
+        "country": "CZE",
+        "identifier": "1226792",
+        "medal": null
+      },
+      "pr": {
+        "order": "21",
+        "identifier": "ATW700E",
+        "code": "E",
+        "rank": "21",
+        "value": "6.08",
         "property": [
           {
             "type": "Result Type",
@@ -3783,17 +3036,192 @@
     },
     {
       "e": {
-        "name": "Ellen Sprunger",
-        "country": "SUI",
-        "identifier": "7013720",
+        "name": "Ivona Dadic",
+        "country": "AUT",
+        "identifier": "1169714",
+        "medal": null
+      },
+      "pr": {
+        "order": "23",
+        "identifier": "ATW700E",
+        "code": "E",
+        "rank": "23",
+        "value": "6.05",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Distance"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "+0.1"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Alina Fodorova",
+        "country": "UKR",
+        "identifier": "1194920",
+        "medal": null
+      },
+      "pr": {
+        "order": "24",
+        "identifier": "ATW700E",
+        "code": "E",
+        "rank": "24",
+        "value": "6.00",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Distance"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "+0.1"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Katerina Cachova",
+        "country": "CZE",
+        "identifier": "1226506",
+        "medal": null
+      },
+      "pr": {
+        "order": "25",
+        "identifier": "ATW700E",
+        "code": "E",
+        "rank": "25",
+        "value": "5.91",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Distance"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "-0.1"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Hanna Kasyanova",
+        "country": "UKR",
+        "identifier": "1194203",
+        "medal": null
+      },
+      "pr": {
+        "order": "26",
+        "identifier": "ATW700E",
+        "code": "E",
+        "rank": "26",
+        "value": "5.88",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Distance"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "+0.8"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Barbara Nwaba",
+        "country": "USA",
+        "identifier": "1127434",
+        "medal": null
+      },
+      "pr": {
+        "order": "27",
+        "identifier": "ATW700E",
+        "code": "E",
+        "rank": "27",
+        "value": "5.81",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Distance"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "-0.7"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Uhunoma Osazuwa",
+        "country": "NGR",
+        "identifier": "1433489",
+        "medal": null
+      },
+      "pr": {
+        "order": "28",
+        "identifier": "ATW700E",
+        "code": "E",
+        "rank": "28",
+        "value": "5.72",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Distance"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "-0.9"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Sofia Yfantidou",
+        "country": "GRE",
+        "identifier": "1195391",
+        "medal": null
+      },
+      "pr": {
+        "order": "29",
+        "identifier": "ATW700E",
+        "code": "E",
+        "rank": "29",
+        "value": "5.51",
+        "property": [
+          {
+            "type": "Result Type",
+            "value": "Distance"
+          },
+          {
+            "type": "Wind Speed",
+            "value": "-0.7"
+          }
+        ]
+      }
+    },
+    {
+      "e": {
+        "name": "Brianne Theisen Eaton",
+        "country": "CAN",
+        "identifier": "1109890",
         "medal": "bronze"
       },
       "pr": {
-        "order": "5",
+        "order": "4",
         "identifier": "ATW700E",
         "code": "E",
-        "rank": "5",
-        "value": "6.92",
+        "rank": "4",
+        "value": "6.48",
         "property": [
           {
             "type": "Result Type",
@@ -3801,24 +3229,24 @@
           },
           {
             "type": "Wind Speed",
-            "value": "-1.9"
+            "value": "+0.3"
           }
         ]
       }
     },
     {
       "e": {
-        "name": "Aiga Grabuste",
-        "country": "LAT",
-        "identifier": "7011875",
+        "name": "Jessica Ennis-Hill",
+        "country": "GBR",
+        "identifier": "1217637",
         "medal": "silver"
       },
       "pr": {
-        "order": "14",
+        "order": "7",
         "identifier": "ATW700E",
         "code": "E",
-        "rank": "14",
-        "value": "6.59",
+        "rank": "7",
+        "value": "6.34",
         "property": [
           {
             "type": "Result Type",
@@ -3826,24 +3254,24 @@
           },
           {
             "type": "Wind Speed",
-            "value": "+1.6"
+            "value": "-1.2"
           }
         ]
       }
     },
     {
       "e": {
-        "name": "Grit Sadeiko",
-        "country": "EST",
-        "identifier": "7011724",
+        "name": "Nafissatou Thiam",
+        "country": "BEL",
+        "identifier": "1231399",
         "medal": "gold"
       },
       "pr": {
-        "order": "10",
+        "order": "1",
         "identifier": "ATW700E",
         "code": "E",
-        "rank": "10",
-        "value": "6.87",
+        "rank": "1",
+        "value": "6.58",
         "property": [
           {
             "type": "Result Type",
@@ -3851,7 +3279,7 @@
           },
           {
             "type": "Wind Speed",
-            "value": "-1.8"
+            "value": "-0.5"
           }
         ]
       }
@@ -3860,162 +3288,28 @@
   [
     {
       "e": {
-        "name": "Karolina Tyminska",
-        "country": "POL",
-        "identifier": "7011148",
-        "medal": null
-      },
-      "pr": {
-        "order": "27",
-        "identifier": "ATW700F",
-        "code": "F",
-        "property": {
-          "type": "Invalid Result Mark",
-          "value": "No Mark"
-        }
-      }
-    },
-    {
-      "e": {
-        "name": "Uhunoma Osazuwa",
-        "country": "NGR",
-        "identifier": "7014453",
-        "medal": null
-      },
-      "pr": {
-        "order": "28",
-        "identifier": "ATW700F",
-        "code": "F",
-        "property": {
-          "type": "Invalid Result Mark",
-          "value": "Disqualified"
-        }
-      }
-    },
-    {
-      "e": {
-        "name": "Laura Ikauniece",
+        "name": "Laura Ikauniece-Admidina",
         "country": "LAT",
-        "identifier": "7011886",
+        "identifier": "1219929",
         "medal": null
       },
       "pr": {
-        "order": "25",
+        "order": "1",
         "identifier": "ATW700F",
         "code": "F",
+        "rank": "1",
+        "value": "55.93",
         "property": {
-          "type": "Invalid Result Mark",
-          "value": "No Mark"
+          "type": "Result Type",
+          "value": "Distance"
         }
       }
     },
     {
       "e": {
-        "name": "Sharon Day",
-        "country": "USA",
-        "identifier": "7013899",
-        "medal": null
-      },
-      "pr": {
-        "order": "24",
-        "identifier": "ATW700F",
-        "code": "F",
-        "property": {
-          "type": "Invalid Result Mark",
-          "value": "No Mark"
-        }
-      }
-    },
-    {
-      "e": {
-        "name": "Margaret Simpson",
-        "country": "GHA",
-        "identifier": "7012025",
-        "medal": null
-      },
-      "pr": {
-        "order": "26",
-        "identifier": "ATW700F",
-        "code": "F",
-        "property": {
-          "type": "Invalid Result Mark",
-          "value": "No Mark"
-        }
-      }
-    },
-    {
-      "e": {
-        "name": "Jessica Ennis",
-        "country": "GBR",
-        "identifier": "7012132",
-        "medal": null
-      },
-      "pr": {
-        "order": "29",
-        "identifier": "ATW700F",
-        "code": "F",
-        "property": {
-          "type": "Invalid Result Mark",
-          "value": "Did Not Start"
-        }
-      }
-    },
-    {
-      "e": {
-        "name": "Antoinette Nana Djimou Ida",
-        "country": "FRA",
-        "identifier": "7013358",
-        "medal": null
-      },
-      "pr": {
-        "order": "30",
-        "identifier": "ATW700F",
-        "code": "F",
-        "property": {
-          "type": "Invalid Result Mark",
-          "value": "Did Not Start"
-        }
-      }
-    },
-    {
-      "e": {
-        "name": "Kristina Savitskaya",
-        "country": "RUS",
-        "identifier": "7010219",
-        "medal": null
-      },
-      "pr": {
-        "order": "31",
-        "identifier": "ATW700F",
-        "code": "F",
-        "property": {
-          "type": "Invalid Result Mark",
-          "value": "Did Not Start"
-        }
-      }
-    },
-    {
-      "e": {
-        "name": "Brianne Theisen",
-        "country": "CAN",
-        "identifier": "7011460",
-        "medal": null
-      },
-      "pr": {
-        "order": "32",
-        "identifier": "ATW700F",
-        "code": "F",
-        "property": {
-          "type": "Invalid Result Mark",
-          "value": "Did Not Start"
-        }
-      }
-    },
-    {
-      "e": {
-        "name": "Gyorgyi Farkas",
-        "country": "HUN",
-        "identifier": "7010962",
+        "name": "Sofia Yfantidou",
+        "country": "GRE",
+        "identifier": "1195391",
         "medal": null
       },
       "pr": {
@@ -4023,64 +3317,7 @@
         "identifier": "ATW700F",
         "code": "F",
         "rank": "2",
-        "value": "65.00",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
-      }
-    },
-    {
-      "e": {
-        "name": "Julia Machtig",
-        "country": "GER",
-        "identifier": "7013220",
-        "medal": null
-      },
-      "pr": {
-        "order": "7",
-        "identifier": "ATW700F",
-        "code": "F",
-        "rank": "4",
-        "value": "56.01",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
-      }
-    },
-    {
-      "e": {
-        "name": "Ivona Dadic",
-        "country": "AUT",
-        "identifier": "7014620",
-        "medal": null
-      },
-      "pr": {
-        "order": "5",
-        "identifier": "ATW700F",
-        "code": "F",
-        "rank": "4",
-        "value": "56.01",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
-      }
-    },
-    {
-      "e": {
-        "name": "Dafne Schippers",
-        "country": "NED",
-        "identifier": "7013076",
-        "medal": null
-      },
-      "pr": {
-        "order": "8",
-        "identifier": "ATW700F",
-        "code": "F",
-        "rank": "4",
-        "value": "56.01",
+        "value": "54.57",
         "property": {
           "type": "Result Type",
           "value": "Distance"
@@ -4091,7 +3328,7 @@
       "e": {
         "name": "Nadine Broersen",
         "country": "NED",
-        "identifier": "7013061",
+        "identifier": "1213224",
         "medal": null
       },
       "pr": {
@@ -4099,7 +3336,7 @@
         "identifier": "ATW700F",
         "code": "F",
         "rank": "4",
-        "value": "56.01",
+        "value": "50.80",
         "property": {
           "type": "Result Type",
           "value": "Distance"
@@ -4108,17 +3345,36 @@
     },
     {
       "e": {
-        "name": "Olga Kurban",
-        "country": "RUS",
-        "identifier": "7010091",
+        "name": "Xenia Krizsan",
+        "country": "HUN",
+        "identifier": "1170879",
+        "medal": null
+      },
+      "pr": {
+        "order": "5",
+        "identifier": "ATW700F",
+        "code": "F",
+        "rank": "5",
+        "value": "49.78",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Yorgelis Rodriguez",
+        "country": "CUB",
+        "identifier": "1119468",
         "medal": null
       },
       "pr": {
         "order": "6",
         "identifier": "ATW700F",
         "code": "F",
-        "rank": "4",
-        "value": "56.01",
+        "rank": "6",
+        "value": "48.89",
         "property": {
           "type": "Result Type",
           "value": "Distance"
@@ -4127,9 +3383,47 @@
     },
     {
       "e": {
-        "name": "Jessica Samuel",
-        "country": "SWE",
-        "identifier": "7011135",
+        "name": "Antoinette Nana Djimou Ida",
+        "country": "FRA",
+        "identifier": "1162428",
+        "medal": null
+      },
+      "pr": {
+        "order": "7",
+        "identifier": "ATW700F",
+        "code": "F",
+        "rank": "7",
+        "value": "48.76",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Anouk Vetter",
+        "country": "NED",
+        "identifier": "1213210",
+        "medal": null
+      },
+      "pr": {
+        "order": "8",
+        "identifier": "ATW700F",
+        "code": "F",
+        "rank": "8",
+        "value": "48.42",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Gyorgyi Zsivoczky-Farkas",
+        "country": "HUN",
+        "identifier": "1170029",
         "medal": null
       },
       "pr": {
@@ -4137,7 +3431,7 @@
         "identifier": "ATW700F",
         "code": "F",
         "rank": "9",
-        "value": "55.85",
+        "value": "48.07",
         "property": {
           "type": "Result Type",
           "value": "Distance"
@@ -4146,9 +3440,9 @@
     },
     {
       "e": {
-        "name": "Chantae McMillan",
-        "country": "USA",
-        "identifier": "7014426",
+        "name": "Carolin Schafer",
+        "country": "GER",
+        "identifier": "1170510",
         "medal": null
       },
       "pr": {
@@ -4156,7 +3450,7 @@
         "identifier": "ATW700F",
         "code": "F",
         "rank": "10",
-        "value": "53.95",
+        "value": "47.99",
         "property": {
           "type": "Result Type",
           "value": "Distance"
@@ -4167,26 +3461,7 @@
       "e": {
         "name": "Jennifer Oeser",
         "country": "GER",
-        "identifier": "7013233",
-        "medal": null
-      },
-      "pr": {
-        "order": "11",
-        "identifier": "ATW700F",
-        "code": "F",
-        "rank": "11",
-        "value": "53.83",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
-      }
-    },
-    {
-      "e": {
-        "name": "Jessica Zelinka",
-        "country": "CAN",
-        "identifier": "7011463",
+        "identifier": "1170345",
         "medal": null
       },
       "pr": {
@@ -4194,7 +3469,7 @@
         "identifier": "ATW700F",
         "code": "F",
         "rank": "12",
-        "value": "52.16",
+        "value": "47.22",
         "property": {
           "type": "Result Type",
           "value": "Distance"
@@ -4203,9 +3478,9 @@
     },
     {
       "e": {
-        "name": "Lyudmyla Yosypenko",
-        "country": "UKR",
-        "identifier": "7012273",
+        "name": "Evelis Aguilar",
+        "country": "COL",
+        "identifier": "1068391",
         "medal": null
       },
       "pr": {
@@ -4213,7 +3488,7 @@
         "identifier": "ATW700F",
         "code": "F",
         "rank": "13",
-        "value": "51.40",
+        "value": "46.90",
         "property": {
           "type": "Result Type",
           "value": "Distance"
@@ -4222,17 +3497,17 @@
     },
     {
       "e": {
-        "name": "Louise Hazel",
-        "country": "GBR",
-        "identifier": "7012137",
+        "name": "Barbara Nwaba",
+        "country": "USA",
+        "identifier": "1127434",
         "medal": null
       },
       "pr": {
-        "order": "15",
+        "order": "14",
         "identifier": "ATW700F",
         "code": "F",
-        "rank": "15",
-        "value": "50.55",
+        "rank": "14",
+        "value": "46.85",
         "property": {
           "type": "Result Type",
           "value": "Distance"
@@ -4243,15 +3518,205 @@
       "e": {
         "name": "Eliska Klucinova",
         "country": "CZE",
-        "identifier": "7012863",
+        "identifier": "1226792",
+        "medal": null
+      },
+      "pr": {
+        "order": "15",
+        "identifier": "ATW700F",
+        "code": "F",
+        "rank": "15",
+        "value": "46.73",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Ivona Dadic",
+        "country": "AUT",
+        "identifier": "1169714",
         "medal": null
       },
       "pr": {
         "order": "16",
         "identifier": "ATW700F",
         "code": "F",
-        "rank": "15",
-        "value": "50.55",
+        "rank": "16",
+        "value": "46.08",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Vanessa Chefer",
+        "country": "BRA",
+        "identifier": "1216978",
+        "medal": null
+      },
+      "pr": {
+        "order": "18",
+        "identifier": "ATW700F",
+        "code": "F",
+        "rank": "18",
+        "value": "45.05",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Nadine Visser",
+        "country": "NED",
+        "identifier": "1213216",
+        "medal": null
+      },
+      "pr": {
+        "order": "19",
+        "identifier": "ATW700F",
+        "code": "F",
+        "rank": "19",
+        "value": "42.48",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Akela Jones",
+        "country": "BAR",
+        "identifier": "1107221",
+        "medal": null
+      },
+      "pr": {
+        "order": "20",
+        "identifier": "ATW700F",
+        "code": "F",
+        "rank": "20",
+        "value": "42.00",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Kendell Williams",
+        "country": "USA",
+        "identifier": "1127626",
+        "medal": null
+      },
+      "pr": {
+        "order": "21",
+        "identifier": "ATW700F",
+        "code": "F",
+        "rank": "21",
+        "value": "40.93",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Heather Miller-Koch",
+        "country": "USA",
+        "identifier": "1127401",
+        "medal": null
+      },
+      "pr": {
+        "order": "22",
+        "identifier": "ATW700F",
+        "code": "F",
+        "rank": "22",
+        "value": "40.25",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Alysbeth Felix",
+        "country": "PUR",
+        "identifier": "1136380",
+        "medal": null
+      },
+      "pr": {
+        "order": "23",
+        "identifier": "ATW700F",
+        "code": "F",
+        "rank": "23",
+        "value": "40.17",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Claudia Rath",
+        "country": "GER",
+        "identifier": "1170373",
+        "medal": null
+      },
+      "pr": {
+        "order": "24",
+        "identifier": "ATW700F",
+        "code": "F",
+        "rank": "24",
+        "value": "39.39",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Hanna Kasyanova",
+        "country": "UKR",
+        "identifier": "1194203",
+        "medal": null
+      },
+      "pr": {
+        "order": "25",
+        "identifier": "ATW700F",
+        "code": "F",
+        "rank": "25",
+        "value": "38.10",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Katerina Cachova",
+        "country": "CZE",
+        "identifier": "1226506",
+        "medal": null
+      },
+      "pr": {
+        "order": "26",
+        "identifier": "ATW700F",
+        "code": "F",
+        "rank": "26",
+        "value": "37.77",
         "property": {
           "type": "Result Type",
           "value": "Distance"
@@ -4262,15 +3727,91 @@
       "e": {
         "name": "Katarina Johnson-Thompson",
         "country": "GBR",
-        "identifier": "7013693",
+        "identifier": "1217677",
         "medal": null
+      },
+      "pr": {
+        "order": "27",
+        "identifier": "ATW700F",
+        "code": "F",
+        "rank": "27",
+        "value": "36.36",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Alina Fodorova",
+        "country": "UKR",
+        "identifier": "1194920",
+        "medal": null
+      },
+      "pr": {
+        "order": "28",
+        "identifier": "ATW700F",
+        "code": "F",
+        "rank": "28",
+        "value": "35.44",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Uhunoma Osazuwa",
+        "country": "NGR",
+        "identifier": "1433489",
+        "medal": null
+      },
+      "pr": {
+        "order": "29",
+        "identifier": "ATW700F",
+        "code": "F",
+        "rank": "29",
+        "value": "33.42",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Brianne Theisen Eaton",
+        "country": "CAN",
+        "identifier": "1109890",
+        "medal": "bronze"
+      },
+      "pr": {
+        "order": "11",
+        "identifier": "ATW700F",
+        "code": "F",
+        "rank": "11",
+        "value": "47.36",
+        "property": {
+          "type": "Result Type",
+          "value": "Distance"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Jessica Ennis-Hill",
+        "country": "GBR",
+        "identifier": "1217637",
+        "medal": "silver"
       },
       "pr": {
         "order": "17",
         "identifier": "ATW700F",
         "code": "F",
         "rank": "17",
-        "value": "50.10",
+        "value": "46.06",
         "property": {
           "type": "Result Type",
           "value": "Distance"
@@ -4279,161 +3820,9 @@
     },
     {
       "e": {
-        "name": "Tatyana Chernova",
-        "country": "RUS",
-        "identifier": "7010180",
-        "medal": null
-      },
-      "pr": {
-        "order": "18",
-        "identifier": "ATW700F",
-        "code": "F",
-        "rank": "18",
-        "value": "48.60",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
-      }
-    },
-    {
-      "e": {
-        "name": "Hanna Melnychenko",
-        "country": "UKR",
-        "identifier": "7011387",
-        "medal": null
-      },
-      "pr": {
-        "order": "19",
-        "identifier": "ATW700F",
-        "code": "F",
-        "rank": "18",
-        "value": "48.60",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
-      }
-    },
-    {
-      "e": {
-        "name": "Hyleas Fountain",
-        "country": "USA",
-        "identifier": "7013840",
-        "medal": null
-      },
-      "pr": {
-        "order": "20",
-        "identifier": "ATW700F",
-        "code": "F",
-        "rank": "20",
-        "value": "48.05",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
-      }
-    },
-    {
-      "e": {
-        "name": "Lilli Schwarzkopf",
-        "country": "GER",
-        "identifier": "7013253",
-        "medal": null
-      },
-      "pr": {
-        "order": "21",
-        "identifier": "ATW700F",
-        "code": "F",
-        "rank": "21",
-        "value": "47.35",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
-      }
-    },
-    {
-      "e": {
-        "name": "Marisa de Aniceto",
-        "country": "FRA",
-        "identifier": "7013332",
-        "medal": null
-      },
-      "pr": {
-        "order": "22",
-        "identifier": "ATW700F",
-        "code": "F",
-        "rank": "22",
-        "value": "44.67",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
-      }
-    },
-    {
-      "e": {
-        "name": "Yana Maksimava",
-        "country": "BLR",
-        "identifier": "7010559",
-        "medal": null
-      },
-      "pr": {
-        "order": "23",
-        "identifier": "ATW700F",
-        "code": "F",
-        "rank": "23",
-        "value": "44.31",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
-      }
-    },
-    {
-      "e": {
-        "name": "Ellen Sprunger",
-        "country": "SUI",
-        "identifier": "7013720",
-        "medal": "bronze"
-      },
-      "pr": {
-        "order": "14",
-        "identifier": "ATW700F",
-        "code": "F",
-        "rank": "14",
-        "value": "50.99",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
-      }
-    },
-    {
-      "e": {
-        "name": "Aiga Grabuste",
-        "country": "LAT",
-        "identifier": "7011875",
-        "medal": "silver"
-      },
-      "pr": {
-        "order": "1",
-        "identifier": "ATW700F",
-        "code": "F",
-        "rank": "1",
-        "value": "65.01",
-        "property": {
-          "type": "Result Type",
-          "value": "Distance"
-        }
-      }
-    },
-    {
-      "e": {
-        "name": "Grit Sadeiko",
-        "country": "EST",
-        "identifier": "7011724",
+        "name": "Nafissatou Thiam",
+        "country": "BEL",
+        "identifier": "1231399",
         "medal": "gold"
       },
       "pr": {
@@ -4441,7 +3830,7 @@
         "identifier": "ATW700F",
         "code": "F",
         "rank": "3",
-        "value": "64.64",
+        "value": "53.13",
         "property": {
           "type": "Result Type",
           "value": "Distance"
@@ -4452,13 +3841,13 @@
   [
     {
       "e": {
-        "name": "Marisa de Aniceto",
-        "country": "FRA",
-        "identifier": "7013332",
+        "name": "Alina Fodorova",
+        "country": "UKR",
+        "identifier": "1194920",
         "medal": null
       },
       "pr": {
-        "order": "26",
+        "order": "28",
         "identifier": "ATW700G",
         "code": "G",
         "property": {
@@ -4469,43 +3858,64 @@
     },
     {
       "e": {
-        "name": "Eliska Klucinova",
-        "country": "CZE",
-        "identifier": "7012863",
+        "name": "Uhunoma Osazuwa",
+        "country": "NGR",
+        "identifier": "1433489",
+        "medal": null
+      },
+      "pr": {
+        "order": "29",
+        "identifier": "ATW700G",
+        "code": "G",
+        "property": {
+          "type": "Invalid Result Mark",
+          "value": "Disqualified"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Akela Jones",
+        "country": "BAR",
+        "identifier": "1107221",
         "medal": null
       },
       "pr": {
         "order": "27",
         "identifier": "ATW700G",
         "code": "G",
+        "rank": "27",
+        "value": "2:41.12",
         "property": {
-          "type": "Invalid Result Mark",
-          "value": "Did Not Start"
+          "type": "Result Type",
+          "value": "Time"
         }
       }
     },
     {
       "e": {
-        "name": "Margaret Simpson",
-        "country": "GHA",
-        "identifier": "7012025",
+        "name": "Sofia Yfantidou",
+        "country": "GRE",
+        "identifier": "1195391",
         "medal": null
       },
       "pr": {
-        "order": "28",
+        "order": "26",
         "identifier": "ATW700G",
         "code": "G",
+        "rank": "26",
+        "value": "2:30.08",
         "property": {
-          "type": "Invalid Result Mark",
-          "value": "Did Not Start"
+          "type": "Result Type",
+          "value": "Time"
         }
       }
     },
     {
       "e": {
-        "name": "Yana Maksimava",
-        "country": "BLR",
-        "identifier": "7010559",
+        "name": "Eliska Klucinova",
+        "country": "CZE",
+        "identifier": "1226792",
         "medal": null
       },
       "pr": {
@@ -4513,7 +3923,7 @@
         "identifier": "ATW700G",
         "code": "G",
         "rank": "25",
-        "value": "2:08.83",
+        "value": "2:22.81",
         "property": {
           "type": "Result Type",
           "value": "Time"
@@ -4522,9 +3932,9 @@
     },
     {
       "e": {
-        "name": "Uhunoma Osazuwa",
-        "country": "NGR",
-        "identifier": "7014453",
+        "name": "Antoinette Nana Djimou Ida",
+        "country": "FRA",
+        "identifier": "1162428",
         "medal": null
       },
       "pr": {
@@ -4532,7 +3942,7 @@
         "identifier": "ATW700G",
         "code": "G",
         "rank": "24",
-        "value": "2:07.84",
+        "value": "2:20.36",
         "property": {
           "type": "Result Type",
           "value": "Time"
@@ -4541,9 +3951,9 @@
     },
     {
       "e": {
-        "name": "Karolina Tyminska",
-        "country": "POL",
-        "identifier": "7011148",
+        "name": "Katerina Cachova",
+        "country": "CZE",
+        "identifier": "1226506",
         "medal": null
       },
       "pr": {
@@ -4551,7 +3961,7 @@
         "identifier": "ATW700G",
         "code": "G",
         "rank": "23",
-        "value": "2:07.77",
+        "value": "2:18.95",
         "property": {
           "type": "Result Type",
           "value": "Time"
@@ -4560,9 +3970,9 @@
     },
     {
       "e": {
-        "name": "Dafne Schippers",
+        "name": "Anouk Vetter",
         "country": "NED",
-        "identifier": "7013076",
+        "identifier": "1213210",
         "medal": null
       },
       "pr": {
@@ -4570,254 +3980,7 @@
         "identifier": "ATW700G",
         "code": "G",
         "rank": "22",
-        "value": "2:07.71",
-        "property": {
-          "type": "Result Type",
-          "value": "Time"
-        }
-      }
-    },
-    {
-      "e": {
-        "name": "Ivona Dadic",
-        "country": "AUT",
-        "identifier": "7014620",
-        "medal": null
-      },
-      "pr": {
-        "order": "21",
-        "identifier": "ATW700G",
-        "code": "G",
-        "rank": "21",
-        "value": "2:07.41",
-        "property": {
-          "type": "Result Type",
-          "value": "Time"
-        }
-      }
-    },
-    {
-      "e": {
-        "name": "Sharon Day",
-        "country": "USA",
-        "identifier": "7013899",
-        "medal": null
-      },
-      "pr": {
-        "order": "20",
-        "identifier": "ATW700G",
-        "code": "G",
-        "rank": "20",
-        "value": "2:07.27",
-        "property": {
-          "type": "Result Type",
-          "value": "Time"
-        }
-      }
-    },
-    {
-      "e": {
-        "name": "Hanna Melnychenko",
-        "country": "UKR",
-        "identifier": "7011387",
-        "medal": null
-      },
-      "pr": {
-        "order": "19",
-        "identifier": "ATW700G",
-        "code": "G",
-        "rank": "19",
-        "value": "2:06.62",
-        "property": {
-          "type": "Result Type",
-          "value": "Time"
-        }
-      }
-    },
-    {
-      "e": {
-        "name": "Chantae McMillan",
-        "country": "USA",
-        "identifier": "7014426",
-        "medal": null
-      },
-      "pr": {
-        "order": "18",
-        "identifier": "ATW700G",
-        "code": "G",
-        "rank": "17",
-        "value": "2:06.59",
-        "property": {
-          "type": "Result Type",
-          "value": "Time"
-        }
-      }
-    },
-    {
-      "e": {
-        "name": "Katarina Johnson-Thompson",
-        "country": "GBR",
-        "identifier": "7013693",
-        "medal": null
-      },
-      "pr": {
-        "order": "17",
-        "identifier": "ATW700G",
-        "code": "G",
-        "rank": "17",
-        "value": "2:06.59",
-        "property": {
-          "type": "Result Type",
-          "value": "Time"
-        }
-      }
-    },
-    {
-      "e": {
-        "name": "Louise Hazel",
-        "country": "GBR",
-        "identifier": "7012137",
-        "medal": null
-      },
-      "pr": {
-        "order": "16",
-        "identifier": "ATW700G",
-        "code": "G",
-        "rank": "16",
-        "value": "2:06.55",
-        "property": {
-          "type": "Result Type",
-          "value": "Time"
-        }
-      }
-    },
-    {
-      "e": {
-        "name": "Jessica Samuel",
-        "country": "SWE",
-        "identifier": "7011135",
-        "medal": null
-      },
-      "pr": {
-        "order": "15",
-        "identifier": "ATW700G",
-        "code": "G",
-        "rank": "15",
-        "value": "2:05.86",
-        "property": {
-          "type": "Result Type",
-          "value": "Time"
-        }
-      }
-    },
-    {
-      "e": {
-        "name": "Hyleas Fountain",
-        "country": "USA",
-        "identifier": "7013840",
-        "medal": null
-      },
-      "pr": {
-        "order": "14",
-        "identifier": "ATW700G",
-        "code": "G",
-        "rank": "14",
-        "value": "2:05.76",
-        "property": {
-          "type": "Result Type",
-          "value": "Time"
-        }
-      }
-    },
-    {
-      "e": {
-        "name": "Jennifer Oeser",
-        "country": "GER",
-        "identifier": "7013233",
-        "medal": null
-      },
-      "pr": {
-        "order": "13",
-        "identifier": "ATW700G",
-        "code": "G",
-        "rank": "13",
-        "value": "2:05.40",
-        "property": {
-          "type": "Result Type",
-          "value": "Time"
-        }
-      }
-    },
-    {
-      "e": {
-        "name": "Julia Machtig",
-        "country": "GER",
-        "identifier": "7013220",
-        "medal": null
-      },
-      "pr": {
-        "order": "12",
-        "identifier": "ATW700G",
-        "code": "G",
-        "rank": "12",
-        "value": "2:05.30",
-        "property": {
-          "type": "Result Type",
-          "value": "Time"
-        }
-      }
-    },
-    {
-      "e": {
-        "name": "Jessica Zelinka",
-        "country": "CAN",
-        "identifier": "7011463",
-        "medal": null
-      },
-      "pr": {
-        "order": "11",
-        "identifier": "ATW700G",
-        "code": "G",
-        "rank": "11",
-        "value": "2:05.16",
-        "property": {
-          "type": "Result Type",
-          "value": "Time"
-        }
-      }
-    },
-    {
-      "e": {
-        "name": "Gyorgyi Farkas",
-        "country": "HUN",
-        "identifier": "7010962",
-        "medal": null
-      },
-      "pr": {
-        "order": "10",
-        "identifier": "ATW700G",
-        "code": "G",
-        "rank": "10",
-        "value": "2:05.09",
-        "property": {
-          "type": "Result Type",
-          "value": "Time"
-        }
-      }
-    },
-    {
-      "e": {
-        "name": "Lyudmyla Yosypenko",
-        "country": "UKR",
-        "identifier": "7012273",
-        "medal": null
-      },
-      "pr": {
-        "order": "8",
-        "identifier": "ATW700G",
-        "code": "G",
-        "rank": "8",
-        "value": "2:04.61",
+        "value": "2:17.71",
         "property": {
           "type": "Result Type",
           "value": "Time"
@@ -4828,7 +3991,254 @@
       "e": {
         "name": "Nadine Broersen",
         "country": "NED",
-        "identifier": "7013061",
+        "identifier": "1213224",
+        "medal": null
+      },
+      "pr": {
+        "order": "21",
+        "identifier": "ATW700G",
+        "code": "G",
+        "rank": "21",
+        "value": "2:17.55",
+        "property": {
+          "type": "Result Type",
+          "value": "Time"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Hanna Kasyanova",
+        "country": "UKR",
+        "identifier": "1194203",
+        "medal": null
+      },
+      "pr": {
+        "order": "20",
+        "identifier": "ATW700G",
+        "code": "G",
+        "rank": "20",
+        "value": "2:16.58",
+        "property": {
+          "type": "Result Type",
+          "value": "Time"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Carolin Schafer",
+        "country": "GER",
+        "identifier": "1170510",
+        "medal": null
+      },
+      "pr": {
+        "order": "18",
+        "identifier": "ATW700G",
+        "code": "G",
+        "rank": "18",
+        "value": "2:16.52",
+        "property": {
+          "type": "Result Type",
+          "value": "Time"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Kendell Williams",
+        "country": "USA",
+        "identifier": "1127626",
+        "medal": null
+      },
+      "pr": {
+        "order": "17",
+        "identifier": "ATW700G",
+        "code": "G",
+        "rank": "17",
+        "value": "2:16.24",
+        "property": {
+          "type": "Result Type",
+          "value": "Time"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Ivona Dadic",
+        "country": "AUT",
+        "identifier": "1169714",
+        "medal": null
+      },
+      "pr": {
+        "order": "16",
+        "identifier": "ATW700G",
+        "code": "G",
+        "rank": "16",
+        "value": "2:15.64",
+        "property": {
+          "type": "Result Type",
+          "value": "Time"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Alysbeth Felix",
+        "country": "PUR",
+        "identifier": "1136380",
+        "medal": null
+      },
+      "pr": {
+        "order": "15",
+        "identifier": "ATW700G",
+        "code": "G",
+        "rank": "15",
+        "value": "2:15.32",
+        "property": {
+          "type": "Result Type",
+          "value": "Time"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Yorgelis Rodriguez",
+        "country": "CUB",
+        "identifier": "1119468",
+        "medal": null
+      },
+      "pr": {
+        "order": "14",
+        "identifier": "ATW700G",
+        "code": "G",
+        "rank": "14",
+        "value": "2:14.65",
+        "property": {
+          "type": "Result Type",
+          "value": "Time"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Nadine Visser",
+        "country": "NED",
+        "identifier": "1213216",
+        "medal": null
+      },
+      "pr": {
+        "order": "13",
+        "identifier": "ATW700G",
+        "code": "G",
+        "rank": "13",
+        "value": "2:14.47",
+        "property": {
+          "type": "Result Type",
+          "value": "Time"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Evelis Aguilar",
+        "country": "COL",
+        "identifier": "1068391",
+        "medal": null
+      },
+      "pr": {
+        "order": "12",
+        "identifier": "ATW700G",
+        "code": "G",
+        "rank": "12",
+        "value": "2:14.32",
+        "property": {
+          "type": "Result Type",
+          "value": "Time"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Vanessa Chefer",
+        "country": "BRA",
+        "identifier": "1216978",
+        "medal": null
+      },
+      "pr": {
+        "order": "11",
+        "identifier": "ATW700G",
+        "code": "G",
+        "rank": "11",
+        "value": "2:14.20",
+        "property": {
+          "type": "Result Type",
+          "value": "Time"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Jennifer Oeser",
+        "country": "GER",
+        "identifier": "1170345",
+        "medal": null
+      },
+      "pr": {
+        "order": "10",
+        "identifier": "ATW700G",
+        "code": "G",
+        "rank": "10",
+        "value": "2:13.82",
+        "property": {
+          "type": "Result Type",
+          "value": "Time"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Xenia Krizsan",
+        "country": "HUN",
+        "identifier": "1170879",
+        "medal": null
+      },
+      "pr": {
+        "order": "9",
+        "identifier": "ATW700G",
+        "code": "G",
+        "rank": "9",
+        "value": "2:13.46",
+        "property": {
+          "type": "Result Type",
+          "value": "Time"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Gyorgyi Zsivoczky-Farkas",
+        "country": "HUN",
+        "identifier": "1170029",
+        "medal": null
+      },
+      "pr": {
+        "order": "8",
+        "identifier": "ATW700G",
+        "code": "G",
+        "rank": "8",
+        "value": "2:11.76",
+        "property": {
+          "type": "Result Type",
+          "value": "Time"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Barbara Nwaba",
+        "country": "USA",
+        "identifier": "1127434",
         "medal": null
       },
       "pr": {
@@ -4836,7 +4246,7 @@
         "identifier": "ATW700G",
         "code": "G",
         "rank": "7",
-        "value": "2:04.25",
+        "value": "2:11.61",
         "property": {
           "type": "Result Type",
           "value": "Time"
@@ -4845,9 +4255,9 @@
     },
     {
       "e": {
-        "name": "Olga Kurban",
-        "country": "RUS",
-        "identifier": "7010091",
+        "name": "Katarina Johnson-Thompson",
+        "country": "GBR",
+        "identifier": "1217677",
         "medal": null
       },
       "pr": {
@@ -4855,7 +4265,7 @@
         "identifier": "ATW700G",
         "code": "G",
         "rank": "6",
-        "value": "2:04.01",
+        "value": "2:10.47",
         "property": {
           "type": "Result Type",
           "value": "Time"
@@ -4864,9 +4274,9 @@
     },
     {
       "e": {
-        "name": "Tatyana Chernova",
-        "country": "RUS",
-        "identifier": "7010180",
+        "name": "Laura Ikauniece-Admidina",
+        "country": "LAT",
+        "identifier": "1219929",
         "medal": null
       },
       "pr": {
@@ -4874,7 +4284,7 @@
         "identifier": "ATW700G",
         "code": "G",
         "rank": "4",
-        "value": "2:02.98",
+        "value": "2:09.43",
         "property": {
           "type": "Result Type",
           "value": "Time"
@@ -4883,28 +4293,9 @@
     },
     {
       "e": {
-        "name": "Laura Ikauniece",
-        "country": "LAT",
-        "identifier": "7011886",
-        "medal": null
-      },
-      "pr": {
-        "order": "3",
-        "identifier": "ATW700G",
-        "code": "G",
-        "rank": "3",
-        "value": "2:02.50",
-        "property": {
-          "type": "Result Type",
-          "value": "Time"
-        }
-      }
-    },
-    {
-      "e": {
-        "name": "Lilli Schwarzkopf",
+        "name": "Claudia Rath",
         "country": "GER",
-        "identifier": "7013253",
+        "identifier": "1170373",
         "medal": null
       },
       "pr": {
@@ -4912,7 +4303,7 @@
         "identifier": "ATW700G",
         "code": "G",
         "rank": "2",
-        "value": "2:02.00",
+        "value": "2:07.22",
         "property": {
           "type": "Result Type",
           "value": "Time"
@@ -4921,55 +4312,74 @@
     },
     {
       "e": {
-        "name": "Ellen Sprunger",
-        "country": "SUI",
-        "identifier": "7013720",
-        "medal": "bronze"
-      },
-      "pr": {
-        "order": "9",
-        "identifier": "ATW700G",
-        "code": "G",
-        "rank": "9",
-        "value": "2:04.83",
-        "property": {
-          "type": "Result Type",
-          "value": "Time"
-        }
-      }
-    },
-    {
-      "e": {
-        "name": "Aiga Grabuste",
-        "country": "LAT",
-        "identifier": "7011875",
-        "medal": "silver"
-      },
-      "pr": {
-        "order": "5",
-        "identifier": "ATW700G",
-        "code": "G",
-        "rank": "5",
-        "value": "2:03.29",
-        "property": {
-          "type": "Result Type",
-          "value": "Time"
-        }
-      }
-    },
-    {
-      "e": {
-        "name": "Grit Sadeiko",
-        "country": "EST",
-        "identifier": "7011724",
-        "medal": "gold"
+        "name": "Heather Miller-Koch",
+        "country": "USA",
+        "identifier": "1127401",
+        "medal": null
       },
       "pr": {
         "order": "1",
         "identifier": "ATW700G",
         "code": "G",
         "rank": "1",
-        "value": "2:01.80",
+        "value": "2:06.82",
+        "property": {
+          "type": "Result Type",
+          "value": "Time"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Brianne Theisen Eaton",
+        "country": "CAN",
+        "identifier": "1109890",
+        "medal": "bronze"
+      },
+      "pr": {
+        "order": "5",
+        "identifier": "ATW700G",
+        "code": "G",
+        "rank": "5",
+        "value": "2:09.50",
+        "property": {
+          "type": "Result Type",
+          "value": "Time"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Jessica Ennis-Hill",
+        "country": "GBR",
+        "identifier": "1217637",
+        "medal": "silver"
+      },
+      "pr": {
+        "order": "3",
+        "identifier": "ATW700G",
+        "code": "G",
+        "rank": "3",
+        "value": "2:09.07",
+        "property": {
+          "type": "Result Type",
+          "value": "Time"
+        }
+      }
+    },
+    {
+      "e": {
+        "name": "Nafissatou Thiam",
+        "country": "BEL",
+        "identifier": "1231399",
+        "medal": "gold"
+      },
+      "pr": {
+        "order": "19",
+        "identifier": "ATW700G",
+        "code": "G",
+        "rank": "19",
+        "value": "2:16.54",
         "property": {
           "type": "Result Type",
           "value": "Time"

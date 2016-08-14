@@ -117,22 +117,6 @@ function $$(el, s) {
 
 let illuWidth = null
 
-let drawIllus = (height, path, el) => {
-    illuOffsets.forEach((offset, i) => {
-        let img = document.createElement('img')
-        img.setAttribute('src', `${path}/heptathlon-0${i+1}.svg`)
-        img.setAttribute('class', 'hepta-illu')
-
-        let topOffset = 0
-
-        img.style.top = margin + (i+0.5)*height + topOffset - offset*illuWidth + 'px'
-        img.style.left = horOffsets[i]*illuWidth + 'px'
-        img.style.width = illuWidth + 'px'
-        img.style.height = illuWidth + 'px'
-        el.appendChild(img)
-    })
-}
-
 let cubicEasing = t => {
     return x => {
         let a = -2/(t*t*t)
@@ -215,7 +199,8 @@ let highlight = (_id, redrawn) => {
 
         $(`.hepta-tr[data-id="${_id}"]`).classList.add('hepta-hl')
 
-        $(`.hepta-line[data-id="${_id}"]`).classList.remove('hepta-hidden')
+        let line = $(`.hepta-line[data-id="${_id}"]`)
+        if(line) line.classList.remove('hepta-hidden')
 
         $$(`.hepta-discipline`).forEach(d => {
             d3.select(d).selectAll('.hepta-result-group')
@@ -251,7 +236,8 @@ let highlight = (_id, redrawn) => {
 let unhighlight = (_id) => {
 
     $(`.hepta-tr[data-id="${_id}"]`).classList.remove('hepta-hl')
-    $(`.hepta-line[data-id="${_id}"`).classList.add('hepta-hidden')
+    let line = $(`.hepta-line[data-id="${_id}"`)
+    if(line) line.classList.add('hepta-hidden')
     let circles = $$(`.hepta-result-group[data-id="${_id}"] circle`)
     let labels = $$(`.hepta-result-group[data-id="${_id}"] text`)
 
@@ -291,8 +277,6 @@ let drawDiscipline = (discipline, width, height, offset, svg) => {
     let yScale = d3.scaleLinear()
         .domain(extent)
         .range(range)
-
-    console.log(nodeGroup.node())
 
     let groups = nodeGroup.selectAll('.hepta-result-group')
         .data(discipline.data)
@@ -386,13 +370,13 @@ let drawLines = (width, height, lineGroup, svg) => {
                             return [
                                 node,
                                 {
-                                    x : node.x ,
+                                    x : parseFloat(node.x) ,
                                     y : parseFloat(node.y) + height/2,
                                     _id : node._id,
                                     finished : node.finished && nextNode.finished
                                 },
                                 {
-                                    x : nextNode.x ,
+                                    x : parseFloat(nextNode.x) ,
                                     y : parseFloat(node.y) + height/2,
                                     _id : node._id,
                                     finished : node.finished
@@ -408,7 +392,7 @@ let drawLines = (width, height, lineGroup, svg) => {
         .enter()
         .append('path')
         .attr('d', d => {
-            return roundPathCorners(lineGen(d).replace(/([A-Za-z])/g, ' $1 ').replace(/,/g, ' ').slice(1), 20)
+            return lineGen(d) ? roundPathCorners(lineGen(d).replace(/([A-Za-z])/g, ' $1 ').replace(/,/g, ' ').slice(1), 20) : ''
         })
         .attr('data-id', d => d[0]._id)
         .attr('class', 'hepta-line hepta-hidden')
@@ -466,7 +450,7 @@ let drawViz = (width, height, svg) => {
         .attr('class', 'hepta-lines')
 
     disciplines.forEach((d, i) => {
-        d.data = results[i+1]
+        d.data = results[i]
         drawDiscipline(d, width, height, margin + height*i, svg)
      })
     drawLines(width, height, lineGroup, svg)
@@ -560,8 +544,6 @@ let drawEverything = (vizDiv, config) => {
     titles = $$('.hepta-discipline-title')
 
     easeInOut = cubicEasing(150)
-
-    // drawIllus(overallHeight/dNum, `${config.assetPath}/assets/imgs`, vizDiv)
 
     $$('.hepta-voronoi').forEach(function(e) {
 
