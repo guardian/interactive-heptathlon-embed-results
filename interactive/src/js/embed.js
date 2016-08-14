@@ -621,7 +621,7 @@ let drawEverything = (vizDiv, config) => {
             highlight(_id)
         })
 
-        e.addEventListener('touchstart', function(e) {
+        e.addEventListener('touchend', function(e) {
             highlight(_id)
         })
     })
