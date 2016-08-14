@@ -559,7 +559,7 @@ let drawEverything = (vizDiv, config) => {
         .append('svg')
         .attr('class', 'hepta-svg')
 
-    let overallHeight = 800
+    let overallHeight = 700
     let width = parseFloat(window.getComputedStyle($('.hepta-svg')).width)
     illuWidth = windowWidth < 740 ? 80 : 120
     drawViz(width, overallHeight/dNum, svg)

@@ -29,10 +29,12 @@ body {
 .hepta-table {
     cursor: pointer;
     float: left;
-    width: 24%;
-    margin: 20px 1%;
+    width: 26%;
+    margin: 37px 0 20px 4%;
     @include fs-textSans(2);
     text-align: left;
+    border-collapse: collapse;
+    border-spacing: 0;
     //only show this on desktop
     @include mq($until: desktop) {
         display: none;
@@ -160,7 +162,7 @@ td {
 .hepta-viz-container {
 
     float: left;
-    width: 74%;
+    width: 70%;
     position: relative;
 
     @include mq($until: desktop) {
@@ -201,7 +203,7 @@ td {
 
     box-sizing: border-box;
     width: 100%;
-    height: 800px;
+    height: 700px;
 
     & path, & line {
         vector-effect: non-scaling-stroke;
