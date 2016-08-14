@@ -222,6 +222,11 @@ td {
     }
 }
 
+.hepta-legend {
+    @include fs-textSans(2);
+    fill: #bdbdbd;
+}
+
 .hepta-result {
 
     fill: #aad8f1;
