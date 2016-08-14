@@ -141,15 +141,17 @@ td {
 
 .hepta-td--athlete, .hepta-td--score {
 
-    background-color: rgba($lightblue, 0.4);
+    .hepta-hl & {
+        background-color: rgba($lightblue, 0.4);
+    }
 
-    .hepta-tr--gold & {
+    .hepta-tr--gold.hepta-hl & {
         background-color: rgba($gold, 0.4);
     }
-    .hepta-tr--silver & {
+    .hepta-tr--silver.hepta-hl & {
         background-color: rgba($silver, 0.4);
     }
-    .hepta-tr--bronze & {
+    .hepta-tr--bronze.hepta-hl & {
         background-color: rgba($bronze, 0.4);
     }
 
