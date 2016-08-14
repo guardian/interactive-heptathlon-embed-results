@@ -225,10 +225,12 @@ let highlight = (_id, redrawn) => {
 let unhighlight = (_id) => {
 
     $(`.hepta-tr[data-id="${_id}"]`).classList.remove('hepta-hl')
-    let line = $(`.hepta-line[data-id="${_id}"`)
+
+    let line = $(`.hepta-line[data-id="${_id}"]`)
     if(line) line.classList.add('hepta-hidden')
     let circles = $$(`.hepta-result-group[data-id="${_id}"] circle`)
     let labels = $$(`.hepta-result-group[data-id="${_id}"] text`)
+
 
     window.requestAnimationFrame(ts => {
         shrink(circles, _id, ts)
@@ -526,6 +528,7 @@ window.init = function init(el, config) {
     })
 
     select.addEventListener('change', () => {
+
         highlight(select.value)
     })
 
